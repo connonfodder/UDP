@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="currencyData">
+        <item>USD,$,United States Dollar,0</item>
+        <item>CAD,$,Canadian Dollar,0</item>
+        <item>GBP,£,British Pound,0</item>
+        <item>EUR,€,Euro,0</item>
+        <item>HKD,$,Hong Kong Dollar,0</item>
+        <item>CNY,¥,Chinese Yuan,0</item>
+        <item>ALL,Lek,Albania Lek,0</item>
+        <item>ARS,$,Argentine Peso,0</item>
+        <item>AUD,$,Australian Dollar,0</item>
+        <item>BRL,R$,Brazilian Real,0</item>
+        <item>CHF,S₣,Swiss Franc,0</item>
+        <item>COP,COL$,Colombian Peso,0</item>
+        <item>CRC,₡,Costa Rica Colon,0</item>
+        <item>CZK,Kč,Czech Koruna,0</item>
+        <item>DKK,kr,Danish Krone,0</item>
+        <item>DOP,RD$,Dominican Peso,0</item>
+        <item>EGP,E£,Egypt Pound,0</item>
+        <item>HRK,kn,Croatia Kuna,0</item>
+        <item>HUF,Ft,Hungary Forint,0</item>
+        <item>IDR,Rp,Indonesian Rupiah,0</item>
+        <item>ILS,₪,Israeli Shekel,0</item>
+        <item>INR,Rs,Indian Rupee,0</item>
+        <item>JPY,¥,Japan Yen,0</item>
+        <item>KRW,W,Korean Won,0</item>
+        <item>MXN,$,Mexican Peso,0</item>
+        <item>MYR,RM,Malaysian Ringgit,0</item>
+        <item>NOK,kr,Norwegian Krone,0</item>
+        <item>NZD,$,New Zealand Dollar,0</item>
+        <item>PHP,₱,Philippines Peso,0</item>
+        <item>PKR,₨,Pakistan Rupee,0</item>
+        <item>PLN,zł,Polish Zloty,0</item>
+        <item>RUB,P,Russian Rouble,0</item>
+        <item>SAR,﷼,Saudi Arabia Riyal,0</item>
+        <item>SEK,kr,Swedish Krona,0</item>
+        <item>SGD,$,Singapore Dollar,0</item>
+        <item>THB,฿,Thailand Baht,0</item>
+        <item>TRY,₺,Turkey Lira,0</item>
+        <item>TWD,$,Taiwan Dollar,0</item>
+        <item>UAH,₴,Ukraine Hryvna,0</item>
+        <item>VND,₫,Viet Nam Dong,0</item>
+        <item>ZAR,R,South African Rand,0</item>
+        <item>BAM,KM,Bosnian Convertible Marka,0</item>
+    </string-array>
+<string-array name="dateFormatList">
+        <item>1970-12-31</item>
+        <item>31-12-1970</item>
+        <item>12-31-1970</item>
+        <item>1970/12/31</item>
+        <item>31/12/1970</item>
+        <item>12/31/1970</item>
+        <item>1970.12.31</item>
+        <item>31.12.1970</item>
+        <item>12.31.1970</item>
+        <item>Jan 1, 1970</item>
+        <item>1 Jan 1970</item>
+    </string-array>
+    <string-array name="dateFormatValues">
+        <item>yyyy-MM-dd</item>
+        <item>dd-MM-yyyy</item>
+        <item>MM-dd-yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>dd/MM/yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy.MM.dd</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM.dd.yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>d MMM yyyy</item>
+    </string-array>  
+    
+    <string-array name="dateFormatValuesII">
+        <item>MM-dd</item>
+        <item>dd-MM</item>
+        <item>MM-dd</item>
+        <item>MM/dd</item>
+        <item>dd/MM</item>
+        <item>MM/dd</item>
+        <item>MM.dd</item>
+        <item>dd.MM</item>
+        <item>MM.dd</item>
+        <item>MMM d </item>
+        <item>d MMM </item>
+    </string-array>     
+    <string-array name="week">
+        <item>@string/sunday</item>
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+    </string-array>
+    <string-array name="weekValue">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="shortMonthNames">
+        <item>@string/jan</item>
+        <item>@string/feb</item>
+        <item>@string/mar</item>
+        <item>@string/apr</item>
+        <item>@string/may</item>
+        <item>@string/jun</item>
+        <item>@string/jul</item>
+        <item>@string/aug</item>
+        <item>@string/sep</item>
+        <item>@string/oct</item>
+        <item>@string/nov</item>
+        <item>@string/dec</item>
+    </string-array>
+    <string-array name="shortDayNames">
+        <item>@string/sun</item>
+        <item>@string/mon</item>
+        <item>@string/tue</item>
+        <item>@string/wed</item>
+        <item>@string/thu</item>
+        <item>@string/fri</item>
+        <item>@string/sat</item>
+    </string-array>
+</resources>

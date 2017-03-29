@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false" xmlns:android="http://schemas.android.com/apk/res/android"   >
+	<rotate
+	    android:drawable="@drawable/round_image"  
+	    android:interpolator="@android:anim/linear_interpolator"
+    	android:pivotX="50%"  
+    	android:pivotY="50%"  
+    	android:fromDegrees="0"  
+    	android:toDegrees="360"
+    	android:duration="800"
+        android:repeatCount="-1"   />
+    
+          <!--  
+    <item android:drawable="@drawable/progress_1" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_2" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_3" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_4" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_5" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_6" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_7" android:duration="200"/>  
+    <item android:drawable="@drawable/progress_8" android:duration="200"/>  
+    <item android:drawable="@drawable/appfw_icon_loading" android:duration="200"/>  
+    <item android:drawable="@drawable/calculator" android:duration="200"/>  
+    <item android:drawable="@drawable/no_media" android:duration="200"/>  
+    <item android:drawable="@drawable/disable" android:duration="200"/>  
+    <item android:drawable="@drawable/enable" android:duration="200"/>  
+    <item android:drawable="@drawable/pro" android:duration="200"/>  
+    <item android:drawable="@drawable/select" android:duration="200"/>  
+    <item android:drawable="@drawable/sort" android:duration="200"/>
+      --> 
+     
+</set >  

@@ -1,0 +1,37 @@
+Hogyan használd az alkalmazást?
+    Lépj be az alapértelmezett fiókkal: manager/123456
+    Mielőtt elkezdenél rendeléseket felvenni, be kell állítanod asztalokat, kategóriákat, tételeket és módosítokat.
+    A nyugta nyomtatáshoz be kell állítanod egy nyomtatót a beállítások menüben.
+    A beállítások után nyithatsz asztalokat, felvehetsz rendeléseket és elküldheted a konyhába/bárba nyomtatásra.
+    A rendelések után ellenőrizheted őket hosszan kattintva az asztalra, lezárhatod a rendeléseket és kinyomtathatod a nyugtákat.
+
+Asztalok
+    Étkező asztalok színek szerint
+        Kattints az Asztal menüpontra.
+    Nyitott asztalok
+        Kattints az Asztal menüpontra a nyitott asztalokhoz.
+    Kattints az eszköz menü gombjára a jelentések megtekintéséhez, beállításokhoz, adatbázis beállításokhoz.
+
+Rendelés
+
+    Kattints a rendelési tételre, hogy megváltoztasd az árát és egyéb tulajdonságait.
+    Kattints a jóváhagyás gombra a rendelések jóváhagyásához.
+    Kattints a + jelre rendelési tétel hozzáadásához.
+    Kattints a - jelre rendelési tétel törléséhez.
+    Kattints a piros körre módosítok hozzáadásához.
+
+Megrendelt tételek
+    Mutasd a rendelési tételeket, fizetési információkat meghatározott asztalokhoz.
+    Kattints a rendelési tételre újranyomtatáshoz, törléshez, átvitelhez vagy az ár módosításához.
+    Kattints az Átvitel gombra a rendelések átviteléhez egy meghatározott asztalhoz.
+    Kattints a Felosztás gombra, hogy szét oszd a rendelést összeg vagy tételek szerint.
+    Kattints a Személy gombra, hogy frissítsd a vendégek számát.
+
+Fizetés
+    Megtekinthető a végösszeg, az akciók, borrvalók, adók, fizetett összegek mértéke.
+    Kattints a Nyomtatásra a nyugták nyomtatásához.
+    Kattints a Fiókra, hogy ki tud nyitni a kasszafiókot.
+    Kattints a Vevőre, hogy hozzá tudj adni egy vevőt a rendeléshez.
+    Kattints az Emailre, hogy el tudj küldeni egy nyugtát.
+    Kattints a Jegyzetre, hogy hozzáadj egy megjegyzést a rendeléshez.
+    Kattints a Pontosan gombra, ha az összeget pontosan rendezték.

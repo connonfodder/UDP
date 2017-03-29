@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dip"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_title"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/dlgTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Text"
+            android:textColor="@color/txtDialogTitle"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvLicenseMsg"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dip"
+                android:paddingRight="10dip"
+                android:paddingTop="10dip"
+                android:text="@string/licenseRegisteringMsg" />
+
+            <TextView
+                android:id="@+id/tvDeviceId"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dip"
+                android:paddingRight="10dip"
+                android:paddingTop="4dip"
+                android:text="@string/serialNumber" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="8dip"
+                android:paddingRight="8dip"
+                android:paddingTop="8dip" >
+
+                <LinearLayout
+                    android:id="@+id/l2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center|right"
+                    android:orientation="vertical"
+                    android:paddingLeft="4dip"
+                    android:paddingRight="4dip" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:text="@string/lbActivationKey" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:text="@string/customerName" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:text="@string/lbEmail" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:text="@string/lbTel" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:text="@string/lbWebsite" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/l2"
+                    android:orientation="vertical"
+                    android:paddingLeft="6dip"
+                    android:paddingRight="6dip" >
+
+                    <EditText
+                        android:id="@+id/etKey"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLength="20"
+                        android:singleLine="true" />
+
+                    <EditText
+                        android:id="@+id/etUserName"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textCapWords"
+                        android:maxLength="20"
+                        android:singleLine="true" />
+
+                    <EditText
+                        android:id="@+id/etEmail"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dip"
+                        android:inputType="textEmailAddress"
+                        android:maxLength="30"
+                        android:singleLine="true" />
+
+                    <EditText
+                        android:id="@+id/etPhone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dip"
+                        android:digits="@string/digits"
+                        android:inputType="number|phone"
+                        android:maxLength="20"
+                        android:singleLine="true" />
+
+                    <EditText
+                        android:id="@+id/etWebsite"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dip"
+                        android:inputType="textUri"
+                        android:maxLength="25"
+                        android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dip"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btnRegister"
+                    style="@style/buttonRed"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/btnRegister" />
+
+                <Button
+                    android:id="@+id/btnBuy"
+                    style="@style/buttonOrange"
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/btnBuy" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

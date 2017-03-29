@@ -1,0 +1,95 @@
+<b>W&O Restaurant POS</b> es un Punto de Venta con todas las características completas e independencia total, fácil de usar, para negocios pequeños y a mediana escala, especialmente para restaurant, bar y cafeterías etc. Sólo es necesario descargar, instalar y usar sin un complicado servidor back-end server, compatible  con su hardware existente (impresora y cajón de dinero). W&O POS Restaurant le ahorra tiempo y dinero. <br><br>
+
+<b>Esta versión es gratuita sin periodo de prueba, por favor actualice/adquiera características avanzadas para soportar nuestro desarrollo.</b>
+
+<b>Ordernar</b>
+• Abrir/cerrar mesa
+• Cancelar/transferir/dividir orden
+• Ordenes Para llevar/En el local
+• Esperar/Preparar ítem de la order
+
+<b>Menu</b>
+• Crear/modificar/borrar mesa, categoría, item y suplemento
+• Importar/exportar/ordenar mesa, categoría, item y suplemento
+• Dos impuestos en items
+• Incluir/Excluir impuestos en el precio del item
+• Impresora de items en Cocina/bar
+• Lista de precio para items
+• Compartir menu con dispositivos multiples a través de Dropbox™
+
+<b>Printer</b>
+• Suporta la mayor parte de impresoras de recibo térmicas con conexión LAN y Comandos ESC/POS
+• Cajón de dinero(RJ12)
+
+<b>Modelos de Impresoras verificadas</b>
+• EPSON TM-T88IV
+• EPSON TM-U220
+• STAR TSP743
+• CITIZEN CT-S651
+• Xprinter XP-58III
+• Xprinter XP-C2008
+• Xprinter XP-T230H
+
+<b>Factura</b>
+• Logo de la Compañía, nombre, dirección y número telefónico
+• Nombre del Cliente, dirección y número de telefono
+• Items en la Orden
+• Total a pagar , cambio
+• Número de Impuesto
+• Incluir/excluir impuestos
+• Descuentos
+• Cargo por Servicio
+• Guía para propina
+• Piecera de mensaje 
+
+<b>Clientes</b>
+• Mostrar información del cliente en factura en ordenes para llevar
+• Crear cliente en base a contacto telefónico
+• Enviar facturar por correro electrónico
+
+<b>Report</b>
+• Reporte de ordenes
+• Reporte de Categoría de montos
+• Reporte de Categoría de calidad 
+• Reporte de Items
+
+<b>Autoridad</b>
+• Login Administrador/mesero
+• Deshabilitar descuento para mesero
+• Deshabilitar cargo por servicio para mesero
+• Deshabilitar cancelar orden
+• Deshabilitar apertura manual de cajón de dinero
+
+<b>Ajustes/b>
+• Soporte de moneda local(41)
+• Hora de Apertura/Cierre para reporte
+• Posición del punto decimal configurable
+• Soporte de dos impuestos
+• Login de Administrador/mesero
+
+<b>Bases de Datos</b>
+• Auto backup de la base de datos a tarjeta SD o Dropbox™ al salir de la app
+• Backup manual de la base de datos a tarjeta SD o Dropbox™
+• Restore base de datos desde SD card y Dropbox™ 
+• Restore base de datos demo
+• Vaciar Datos para fácil reintroducción de datos de mesas, menú y clientes
+• Envío de base de datos por email
+
+<b>Idiomas disponibles(más próximamente)</b>
+• English
+• 中文 
+• Español (Manuel Iraizos)
+
+<b>Permisos</b>
+• INTERNET: Dropbox Backup
+• BILLING: In-app Billing
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• READ CONTACTS: Agregar Clientes a partir de Contactos
+• WRITE EXTERNAL STORAGE: Backup and Export a SDCard
+
+※ Para solución clinte servidor, consulte https://market.android.com/details?id=com.aadhk.wnopos
+※ Si la aplicación es de su agradado, entonces califiquenos con puntuación alta como la fuerza que guía nuestro continuo desarrollo, gracias.
+※ Ya que no es posible contestar las market reviews de nuestros clientes, de tener cualquier sugestión o pregunta envíe un email a nuestra cuenta de correo directamente. Para  market reviews, please just leave your rating and cheers, thanks again.
+
+Utilice W&O POS como un sistema de ordenes, sistema de restaurant, punto de venta para restaurant, punto de venta para bar, punto de venta para cafe, punto de venta móvil, punto de venta inalámbrico, punta de venta telefónico  o cualquier otro punto de venta.

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Zpět</string>
+    <string name="next_button_label">Dále</string>
+    <string name="skip_button_label">Přeskočit</string>
+    <string name="titleData">Databáze</string>
+    <string name="titleSetting">Nastavení</string>
+    <string name="dlgTitleDate">Vybrat datum</string>
+    <string name="dlgTitleTime">Vybrat čas</string>
+    <string name="dlgTitleDatePeriod">Vyber období</string>
+    <string name="lbTo">Do</string>
+    <string name="titleLicenseExpire">%s nemá platnou licenci, k nákupu použijte Google Play.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Potvrdit</string>
+    <string name="btnCancel">Zrušit</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Vyčistit</string>
+    <string name="btnRate">Hodnotit</string>
+    <string name="btnEmail">e-mail</string>
+    <string name="btnDelete">Smazat</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Uložit</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Zpět</string>
+	<string name="btnClose">Zavřít</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnMore">Další</string>
+    <string name="btnUpdate">Aktualizace</string>
+    <string name="btnExit">Ukončit</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Koupit</string>
+    <string name="titleUpgrade">Koupit</string>
+    <string name="pleasePurchase">Zakupte prosím!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Vaše zařízení nepodporuje nakupování v aplikaci</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Automatická záloha databáze na SD Kartu</string>
+    <string name="prefAutoBackupSummary">Automatická záloha databáze na SD Kartu při ukončení aplikace</string>
+    <string name="prefAutoBackupDropBoxTitle">Automatická záloha databáze na Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Automatická záloha databáze na Dropbox™ při ukončení aplikace</string>
+    <string name="prefLinkDropBoxTitle">Propojit s Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Propojit aplikaci s vašim Dropbox™ účtem</string>
+    <string name="prefUnlinkDropBoxTitle">Odpojit od Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Odpojit aplikaci od vašeho Dropbox™ účtu</string>
+    <string name="prefBackupTitle">Záloha databáze</string>
+    <string name="prefBackupSummary">Záloha databáze na SD kartu nebo Google™ Drive</string>
+    <string name="prefEmailDbTitle">e-mail databáze</string>
+    <string name="prefEmailDbSummary">Odeslat vaši aktuální databázi na e-mail</string>
+    <string name="prefAutoDeleteTitle">Automaticky smazat staré transakce</string>
+    <string name="prefAutoDeleteSummary">Automaticky smazat staré transakce při ukončení aplikace</string>
+    <string name="prefAutoDeleteDialog">Vyber období mazání</string>
+    <string name="prefRestoreTitle">Obnovit databázi</string>
+    <string name="prefRestoreSummary">Obnovení databáze z SD karty nebo Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Smazat všechny záznamy</string>
+    <string name="prefDeleteAllSummary">Smazat všechny záznamy z databáze</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Jazyk</string>
+    <string name="lbLang">Jazyk</string>
+    <string name="prefTitleDate">Formát data</string>
+    <string name="prefTitleTime">Formát času</string>
+    <string name="prefSummaryOnTime">Použít formát 24 hodin</string>
+    <string name="prefSummaryOffTime">Použít formát AM/PM</string>
+    <string name="prefTranslatorTitle">Překlad</string>
+    <string name="prefTranslatorSummary">Není zde váš jazyk? Napište nám.</string>
+    <string name="prefRegisterTitle">Registrace</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Záznam</string>
+    <string name="prefLogTitle">Novinky v aplikaci</string>
+    <string name="appInfo">O aplikaci</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Databáze</string>
+    <string name="msgRestoreSdConfirm">Vyberte soubor zálohy. Zkontrolujte, zda je soubor zálohy nejnovější.</string>
+    <string name="msgNoBackupDatabase">Nemohu najít soubor zálohy.</string>
+    <string name="dbBackupSucessMsg">Databáze byla uložena do %s</string>
+    <string name="dbBackupFailMsg">Záloha databáze se nezdařila do %s</string>
+    <string name="dbRestoreSucessMsg">Databáze byla obnovena</string>
+    <string name="dbRestoreFailMsg">Obnovení databáze selhalo</string>
+    <string name="dbDeleteAllSucessMsg">Databáze byla úspěšně smazána</string>
+    <string name="dbDeleteAllFailMsg">Smazání databáze selhalo</string>
+    <string name="dbDeleteAllAlertTitle">Smazání celé databáze</string>
+    <string name="dbDeleteAllAlertMsg">Všechny uložené záznamy budou odstraněny z databáze. Opravdu to chcete dělat? </string>
+    <string name="dbNoDatabaseMsg">Databáze dosud nebyla vytvořena</string>
+    <string name="msgBackuping">Zálohování...</string>
+    <string name="msgRestoring">Obnovování...</string>
+    <string name="msgGenratingPDF">Vytváření PDF...</string>
+    <string name="msgLoading">Nahrávání...</string>
+    <string name="msgRestoreDropboxUnlink">Před obnovením propojte aplikaci s Dropbox™</string>
+    <string name="msgBackupDropboxUnlink">Před zálohováním propojte aplikaci s Dropbox</string>
+    <string name="msgAutoBackupDropboxUnlink">Prosím propojte aplikaci s Dropbox™ před zapnutím automatického zálohování</string>
+    <string name="msgUnlinkDropbox">Aplikace není propojena s Dropbox™</string>
+    <string name="msgLinkDropbox">Propojit aplikaci s Dropbox™.\n
+	    Přejděte prosím na další stránku pro propojení s Dropbox™.\n
+		Budete potřebovat Dropbox™ účet a nainstalovanou aplikaci Dropbox™\n\n
+		Můžete zapnout automatickou/manuální zálohu databáze na váš Dropbox™\n 
+		Pro více informací navštivte www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Databáze byla zálohována.</string>
+    <string name="msgBackupDBFail">Záloha databáze se nezdařila.</string>
+    <string name="msgRestoreConfirm">Zkontrolujte prosím, zda záložní soubor je nejnovější. V opačném případě může dojít ke ztrátě nově uložených dat na zařízení.</string>
+    <string name="msgLinkDropboxFail">Propojení s Dropbox™ se nezdařilo.</string>
+    <string name="dbBackupChoose">Kam uložit soubor databáze?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Odkud obnovit soubor databáze?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Soubor nebyl nalezen </string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Zkontrolujte, zda jste připojeni k internetu!</string>
+    <string name="turnOnWifi">Zapněte WIFI!</string>
+    <string name="empty">Žádný záznam</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Musí být vyplněno</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Neplatné licenční číslo</string>
+    <string name="emailChooser">Odeslat e-mail pomocí:</string>
+    <string name="msgNoPdfReader">Nelze najít Prohlížeč PDF, nainstalujte jej a zkuste to znovu.</string>
+	<string name="errorNumber">Množství nemůže být větší než aktuální množství.</string>
+    <string name="errorChoosePeriod">Počáteční datum je větší než koncové datum</string>  
+    <string name="confirmExit">Opravdu ukončit?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Prosím, zadejte následující údaje k registraci licence.</string>
+    <string name="licenseRegisteredMsg">Zaregistrovali jste se s těmito údaji.</string>
+    <string name="lbActivationKey">Klíč</string>
+    <string name="customerName">Jméno</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Chyba formátu e-mailu!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Chyba serveru! Chybový kód 502.</string>
+    <string name="errorServerExcetpion">Chyba serveru! Chybový kód 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Hodnotit %s</string>
+    <string name="appRateMessage">Pokud rádi používáte %s, věnujte prosím chvilku na ohodnocení. Děkuji za vaši podporu!</string>
+    <string name="appRatePositive">Ohodnotit!</string>
+    <string name="appRateNeutral">Připomenout později</string>
+    <string name="appRateNegative">Ne děkuji</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD karta</string>
+    <string name="menuSdcard">SD karta</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Kód</string>
+    <string name="lbCurrencySign">Znak</string>
+    <string name="lbCurrencyDesc">Popis</string>
+    <string name="titleCurrency">Měna</string>
+    <string name="titleCurrencyUpdate">Aktualizovat měnu</string>
+    <string name="titleCurrencyAdd">Přidat měnu</string>
+
+    <!-- week -->
+    <string name="sunday">Neděle</string>
+    <string name="monday">Pondělí</string>
+    <string name="tuesday">Úterý</string>
+    <string name="wednesday">Středa</string>
+    <string name="thursday">Čtvrtek</string>
+    <string name="friday">Pátek</string>
+    <string name="saturday">Sobota</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Led</string>
+    <string name="feb">Úno</string>
+    <string name="mar">Bře</string>
+    <string name="apr">Dub</string>
+    <string name="may">Kvě</string>
+    <string name="jun">Čvn</string>
+    <string name="jul">Čvc</string>
+    <string name="aug">Srp</string>
+    <string name="sep">Zář</string>
+    <string name="oct">Říj</string>
+    <string name="nov">Lis</string>
+    <string name="dec">Pro</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Ned</string>
+    <string name="mon">Pon</string>
+    <string name="tue">Úte</string>
+    <string name="wed">Stř</string>
+    <string name="thu">Čtv</string>
+    <string name="fri">Pát</string>
+    <string name="sat">Sob</string>
+
+</resources>

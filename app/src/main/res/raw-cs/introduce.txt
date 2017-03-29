@@ -1,0 +1,104 @@
+﻿<b>Restaurant POS - Point of Sale </b> je plně vybavená, snadno ovladatelná aplikace, navržená speciálně pro restaurace, bary, kavárny, atd. Restaurant POS je kompatibilní s vašimi stávajícími tiskárnami a peněžními zásuvkami a šetří váš čas, i vaše peníze. <br><br>
+
+<b>Tato aplikace je kompletní pokladní systém bez nutnosti serveru, všechna data jsou uložena ve vašem zařízení. Nákup aplikace je jednorázový náklad a současně získáte neomezené aktualizace</b>
+
+<b>Můžete si dokoupit další vylepšené funkce a doplňky, které vám usnadní a zefektivní práci.</b>
+
+<b>Chcete-li nahlásit chyby nebo máte požadavek na úpravy a nové funkce navštivte: </b>
+https://pos.uservoice.com
+
+<b>Objednávky</b>
+• Otevření/zavření stolu
+• Zrušení/převod/rozdělení objednávky
+• S sebou/jídelna
+• Čekání/vaření objedné položky
+• Přesun objednané položky
+
+<b>Platby</b>
+• Rozdělit účet
+• Spropitné/Poplatek za služby
+
+<b>Menu</b>
+• Vytvořit/upravit/smazat stoly, kategorie, položky a varianty položek
+• Import/export/řazení stolů, kategorií, položek a varianty položek
+• Dvě různé daně u každé položky
+• Zahrnout/vyloučit daň z ceny položky
+• Kuchyně/bar nastavení tisku u každé položky
+• Nastavení ceny položky dle cenového plánu
+• Sdílení Menu s více zařízeními pomocí Dropbox™ nebo Google Drive™
+
+<b>Tiskárny</b> (Průvodce nastavením tiskárny http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W&O POS Printer adapter (nainstalujte na Windows PC)
+• Podpora všech druhů tiskáren, které jsou nainstalovány v PC.
+  (stažení WnO POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. Wifi/LAN a USB
+• Podpora většiny termosublimačních tiskáren s ESC/POS Příkazem
+   Ověřené modely tiskárem: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta
+
+<b>Peněžní zásuvka (RJ12)</b>
+
+<b>Účet</b>
+• Logo firmy, jméno, adresa a telefonní číslo
+• Jméno zákazníka, adresa a telefonní číslo
+• Objednané položky
+• Celková částka, zaokrouhlení
+• Daň
+• Poznámka
+• zahrnout/vyloučit daň
+• Sleva
+• Spropitné/Servisní poplatek
+• Obsluhoval
+• Zápatí účtu
+
+<b>Zákazník</b>
+• Zobrazení údajů o zákazníkovi na účtu - pro objednávky s sebou
+• Vytvoření zákazníka z telefonního kontaktu
+• Zaslání účtu zákazníkovi přes e-mail
+
+<b>Reporty</b>
+• Objednávky
+• Zrušené objednávky
+• Přesunutí objednávky
+• Položky
+• Varianty pro položky
+• Kategorie
+• Platby
+
+<b>Oprávnění</b>
+• Manažer/číšník login
+• Zakázat číšníkovi zobrazení reportů
+• Zakázat číšníkovi slevu
+• Zakázat číšníkovi poplatek za služby
+• Zakázat zrušení objednávky
+• Zakázat ruční otevření pokladní zásuvky
+
+<b>Nastavení</b>
+• Podpora měny vaší země (CZK)
+• Podpora denního reportu objednávkek
+• Nastavení počtu desetinných míst u ceny
+• Podpora dvou výší daně
+
+<b>Databáze</b>
+• Automatické zálohování databáze na SD kartu nebo Dropbox™ při ukončení aplikace.
+• Manuální zálohování databáze na SD kartu a Dropbox™
+• Obnovení databáze z SD karty a Dropbox™
+• Obnovení demo databáze
+• Prázdné Data pro snadné vložení stolů, menu a zákazníků
+• E-mailová databáze
+
+<b>Dostupné jazyky (více již brzy)</b>
+• English, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka), Czech (Petr Komin)
+
+<b>Oprávnění aplikace v zařízení</b>
+• Internet: Dropbox zálohování
+• Nákupy: Nákup v aplikaci
+• Přístup k síti: Google tracking
+• Přístup k WiFi: Google tracking
+• Přístup ke kontaktům: Přidání klienta od kontaktů
+• Zápis na externí úložiště: Zálohování a export na SD kartu
+
+※ Pokud chcete používat více zařízení pro přijímání objednávek ve stejnou dobu, pak nainstalujte: https://market.android.com/details?id=com.aadhk.wnopos
+※ Pokud se vám aplikace líbí, pak ji prosím ohodnoťte 5 hvězdiček - jako hnací sílu našeho pokračujícího vývoje, děkujeme.
+※ Pokud máte nějaké návrhy nebo dotazy, prosím napište přímo na náš e-mail. Pokud jen sledujete nabídku trhu, prosím zanechte své hodnocení, díky.
+
+Restaurant POS - Pokladní systém můžete používat jako objednávkový systém, registrační pokladnu v restauracích, barech, kavárnách, mobilních prodejnách, dále jako bezdrátový pokladní systém, mobilní POS, nebo na jakékoliv jiné využití v obchodování.

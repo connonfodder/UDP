@@ -1,0 +1,99 @@
+<b>Ristorante POS - Point of Sale</b> è un sistema di ristorazione completamente funzionale, facile da usare, completamente indipendente. Progettato per ristoranti, locali e bar. Bisogno soltanto scaricare, installare e utilizzare, senza server back-end complesso, compatibile con la stampante esistente e cassetto dei contanti. <b>Ristorante POS - Point of Sale</b> consente di risparmiare tempo e denaro. <br><br>
+
+<b>Questa versione è gratuita per utilizzare le funzionalità di base, la prego di aggiornare / acquistare le funzionalità avanzate per supportarci per migliorare il nostro lavoro.</b>
+
+<b>Ordinazione</b>
+• Aprire tavoli, unire tavoli, spostare i tavoli , demolire i tavoli
+• Ordinare, aggiungere l’ordinazione, cancellare l’ordinazione, spostare l’ordinazione, demolire l’ordinazione
+• I piatti di gridi, i piatti immediati
+• A tavolo/ vendere fuori
+
+<b>Menù</b>
+• Aggiungere/modificare/cancellare i tavoli, le specie di piatti, i tipi di piatti e gli ingredienti
+• Importare/esportare i tavoli, le specie di piatti, i tipi di piatti e gli ingredienti
+• Sopportare 2 imposte
+• Il prezzo di piatti con tassa o senza tassa
+• Fattura da cucina/locale
+• Intelligente adeguamento dei prezzi
+• I dispositivi condividono il menù tramite dropboxtm o googletm drive
+
+<b>Stampante</b>
+• Supporta tutti i comandi di stampa termica esc/pos (wifi/lan)
+• Cassetto dei contanti (rj12)
+• Sopportare tutte le stampanti con WnO POS Adapter
+  (scaricare WnO POS Adapter http://www.androidappshk.com/app/wno-printer-adapter.zip)
+
+<b>Il modello di stampante utilizzato (wifi/lan)</b>
+• EPSON TM-T88IV
+• EPSON TM-U220
+• STAR TSP743
+• CITIZEN CT-S651
+• Xprinter XP-58III
+• Xprinter XP-C2008
+• Xprinter XP-T230H
+
+<b>Ricevuta</b>
+• Compagnia logo, nome, indirizzo e numero di telefono
+• Nome del cliente, indirizzo e numero di telefono
+• I prezzi e la quantità dei piatti
+• Il codice fiscale
+• La tassa
+• Lo sconto
+• Il costo di servizio
+
+<b>Cliente</b>
+• Informazioni dei clienti vengono visualizzate sulle ricevute per consegna
+• Importare informazioni sui clienti dai contatti
+• E-mail una ricevuta al cliente
+
+<b>Rapporto</b>
+• Rapporto del conto
+• Il rapporto del conto cancellato
+• Il rapporto del conto spostato
+• Il rapporto delle specie dei piatti
+• Il rapporto degli ingredienti
+• Il rapporto dei prezzi dei piatti
+• Il rapporto della quantità dei piatti
+• Il rapporto del pagamento
+
+<b>Competenza</b>
+• Direttore/cameriere log-in
+• Vietato al cameriere a controllare il modulo
+• Vietato lo scontro di cameriere
+• Vietato al cameriere di esentare dal costo di servizio
+• Vietato al cameriere di cancellare il conto
+• Vietato al cameriere di aprire il cassetto dei contanti a mano
+
+<b>Impostazioni</b>
+• Sopportare le valute
+• Sopportare il cross-day  rapporto di vendita
+• Decimale
+• Sopportare due imposte
+
+<b>Database</b>
+• Quando si esce dall'applicazione, backup automaticamente il  database sulla scheda sd o dropbox ™
+• Eseguire manualmente il backup del database sulla scheda sd, dropbox ™ o google drive ™
+• Recupero del database dalla scheda sd, dropbox™ o google drive ™
+• Recupero del database demo
+• Eliminare tutti i dati, creare nuovi dati del ristorante
+• E-mail database
+
+<b>Idiomas disponibles(más próximamente)</b>
+• English
+• 中文 
+• Español (Manuel Iraizos)
+• Italiano (Apple)
+
+<b>Permesso</b>
+• INTERNET: Dropbox Backup
+• BILLING: In-app Billing
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• READ CONTACTS: Agregar Clientes a partir de Contactos
+• WRITE EXTERNAL STORAGE: Backup and Export a SDCard
+
+※ Ordinazione da multipli tablet pc, si prega di vedere la versione del server Https://market.android.com/details?Id=com.aadhk.wnopos.
+※ Se ti piace questa applicazione, vi preghiamo di darci un elogio per incoraggiarci a sviluppare continuamente le app.
+※ Se avete suggerimenti o domande, si prega di inviare un’e-mail al nostro mailbox.
+
+Utilizzare il sistema w&o come sistema di ordinazione, sistema di ristorazione, ristorante pos, locale pos, bar pos, mobile pos, wireless pos, pos intelligente o altri sistemi alimentari.

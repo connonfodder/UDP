@@ -1,0 +1,39 @@
+Hoe te gebruiken?
+	Log in met standaard account: manager, wachtwoord 123456
+	Voordat u een bestelling opneemt moet u tafels, menu-categoriën, gerechten (items) voor u restaurant te maken.
+	Voor het printen van de bonnen moet u een printer installeren onder instellingen. Controleer of de instellingen
+	van de printer juist zijn.
+	Na installatie kunt u een tafel openen, bestellingen opnemen en deze verzenden naar de keuken/barprinter(s).
+	Na het verzenden van de bestelling kunt u de bestelling afrekenen door op de tafel te klikken, de bestelling
+	afsluiten en de bon printen.
+
+Tafels
+	Bezette tafel is in kleur
+		Klik op deze tafel om in het menu te komen.
+	Vrije tafel
+		Klik op deze tafel om de tafel te openen.
+	Klik op de instelling-button voor rapporten, instellingen en de database.
+
+Bestellen
+	Klik op de te bestellen items om de omschrijving en prijs ervan te wijzigen en opmerkingen toe te voegen.
+	Klik op "bevestig" om de bestellingen te bevestigen.
+	Klik op "+" om nog een item aan de bestelling toe te voegen.
+	Klik op "-" om een item van de bestelling te verwijderen.
+	Klik op "rode cirkel" om opties toe te voegen.	
+
+Bestellingen
+	Laat bestellingen, items, betaalinformatie zijn voor een tafel.
+	Klik op besteld item om de herprinten, annuleren, verplaatsen en prijs te wijzigen.
+	Klik op "Verplaats"-button om de bestelling te verplaatsen naar een open/vrije tafel.
+	Klik op "Deel"-button om de rekening te splitsen op ites of bedragen.
+	Klik op "Gast"-button om het aantal gasten te updaten.
+
+Betaling
+	Laat duidelijk het subtotaal, kortingen, BTW, totalen, betaalwijzen en wisselgeld zien.
+	Klik "Print" om de bon te printen.
+	Klik "Kassalade" om de kassalade te openen.
+	Klik "Gast/Klant" om een gast/klant aan bestelling toe te voegen.
+	Klik "Email" om de bon per mail te versturen.
+	Klik "Notitie" om een notitie aan de bon toe te voegen.
+	Klik "Exact" wanneer een rekening gepast wordt betaald.
+

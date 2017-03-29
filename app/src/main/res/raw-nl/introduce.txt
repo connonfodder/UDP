@@ -1,0 +1,99 @@
+﻿<b>Restaurant POS - Point Of Sale</b> is een volledig, makkelijk te gebruiken programma speciaal voor restaurants, bars, café's etc. Restautant POS is compatible met uw bestaande printers en kassalades, dit bespaart u tijd en geld.<br><br>
+
+<b>Deze app is een stand-alone zonder server, alle gegevens worden opgeslagen in lokaal apparaat, eenmalige kosten, ongelimiteerde updates</b>
+
+<b>Upgrade of koop alstublieft de uitgebreide toepassingen om ons te ondersteunen bij het ontwikkelen van deze app.</b>
+
+<b>Bestellen</b>
+- Open/Sluit tafel
+- Annuleer/Verplaats/Deel bestelling
+- Afhaal/Plateservice bestelling
+- Wacht met bestelling/Maak bestelling klaar
+- Verplaats besteld item
+
+<b>Betaling</b>
+- Deel rekening
+- Kortingen/Servicekosten
+
+<b>Menu</b>
+- Maak/wijzig/verwijder tafel, categorie, item en opties
+- Importeer/exporteer/bestellingen tafel, categorie, item en opties
+- 2 BTW-tarieven voor de items
+- Keukenprinter en barprinter voor de items
+- Prijsschema's voor de items
+- Deel het menu door middel van Dropbox™ of Google Drive™
+
+<b>Printer</b>printer setup guide http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W&O POS Printer Adapter (installatie Windows)
+- Ondersteunt veel soorten printers waarvan de drivers op de computer staan geïnstalleerd.
+(download WnO POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. WIFI/LAN en USB
+- Ondersteunt de meeste thermische printers met ESC/POS Command. Geverifieerde modellen: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta 
+
+<b>Kassalade (RJ12) </b>
+
+<b>Rekening</b>
+- Bedrijfslogo, naam adres en telefoonnummer
+- Gastnaam, adres en telefoonnummer
+- Bestelde items
+- Totaalbedrag, wisselgeld
+- Btw-nummer
+- Notities op rekening
+- Inclusief/Exclusief BTW
+- Kortingen
+- Korintg/Servicekosten
+- Fooi
+- Voettekst kassabon
+
+<b>Klant</b>
+- Laat klatninformatie zien op afhaalrekening
+- Creëer klantinformatie voor telefonisch contact
+- Email de rekening naar de klant
+
+<b>Rapporten</b>
+- Bestelrapport
+- Rapport geannuleerde bestellingen
+- Rapport items
+- Rapport opties
+- Rapport bedrag per categorie
+- Rapport kwaliteit per categorie
+- Rapport betalingen
+
+<b>Toestemmingen</b>
+- Manager- en Kelnerlogin
+- Rapport inzien uitschakelen voor kelner
+- Rapport kortingen voor kelner uitschakelen
+- Rapport servicekosten voor kelner uitschakelen
+- Bestelling annuleren uitschakelen voor kelner
+- Kassalade handmatig openen uitschakelen voor kelner
+
+<b>Instellingen</b>
+- Ondersteunt de valuta van uw land
+- Ondersteunt dagelijks bestelrapport van een dag
+- Decimaal zelf in te stellen
+- Ondersteunt 2 BTW-tarieven
+
+<b>Database</b>
+- Automatische backup naar SD Card of Dropbox™ bij het verlaten van de app
+- Handmatige backup naar SC Card en Dropbox™
+- Herstel database van SD Card en Dropbox™
+- Herstel demonstratie database
+- Data verwijderen om eenvoudig tafel, menu en klant opnieuw in te voeren
+- Email database
+
+<b>Beschikbare talen (binnenkort nog meer talen)</b>
+- English, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Nederlands (Karin Tóth), Magyar (Daniel Botka)
+
+<b>Toestemmingen</b>
+- INTERNET: Dropbox backup
+- FAKTURERING: In-app fakturering
+- TOEGANG TOT NETWERK: Google Tracking
+- TOEGANG TOT WIFI: Google Tracking
+- CONTACTEN LEZEN: Klanten toevoegen uit Contacten
+- EXTERNE OPSLAG: Backup en exporteren naar SD Card
+
+* Om met meerdere apparaten tegelijkertijd bestellingen op te kunnen nemen, kijk op https://market.android.com/details?id=com.aadhk.wnopos
+* Wanneer u deze app goed vindt, geef ons alstublieft een goede review, dit zorgt voor een voordurende ontwikkeling van de app. Dank u!
+* Wanneer u suggesties of vragen heeft mail ons rechtstreeks. Laat voor reviews alleen uw review achter, nogmaals dank.
+
+Gebruik Restaurant POS - Point Of Sale als bestelsysteem, restaurantsysteem, POS systeem voor bar, café, POS mobiel, POS draadloos, POS telefoon, kassa of elk ander POS-systeem.

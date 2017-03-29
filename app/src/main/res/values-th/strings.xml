@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">ข้อผิดพลาดรูปแบบที่อยู่ไอพี!</string>
+    <string name="hintSameNetWork">ไม่ได้อยู่ในเครือข่ายเดียวกัน!</string>
+    <string name="serverNotFound">ไม่พบ W&amp;. O เซิร์ฟเวอร์ POS</string>
+    <string name="lbVoidOrderItem">โมฆะ </string>
+
+</resources>

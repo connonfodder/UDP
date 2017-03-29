@@ -1,0 +1,6 @@
+<b>W&O Kitchen Display</b> is works with W&O Restaurant POS app. 
+https://play.google.com/store/apps/details?id=com.aadhk.wnopos<br><br>
+
+W&O Kitchen Display saves time and money comparing traditional printers.
+The app receives order from W&O Restaurant POS app and display them accordingly.
+

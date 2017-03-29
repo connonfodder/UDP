@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Назад</string>
+    <string name="next_button_label">Далі</string>
+    <string name="skip_button_label">Пропустити</string>  
+    <string name="titleData">База даних</string>
+    <string name="titleSetting">Налаштування</string>
+    <string name="dlgTitleDate">Виберіть дату</string>
+    <string name="dlgTitleTime">Виберіть час</string>
+    <string name="dlgTitleDatePeriod">Виберіть діапазон дат</string>
+    <string name="lbTo">До</string>
+    <string name="titleLicenseExpire">%s неліцензований, перейдіть до Google Play для придбання.</string>
+    <string name="titleLicenseAppError">Помилка придбання додатку: %s.</string>
+    <string name="titleScalePaired">Зпаровані пристрої</string>
+    <string name="titleScaleAvailable">Доступні пристрої</string>
+    <string name="titleScaleSearching">Пошук...</string>
+    <string name="titleScaleSearchFinished">Пошук закінчено</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Підтвердити</string>
+    <string name="btnCancel">Відмінити</string>
+    <string name="btnOk">Так</string>
+    <string name="btnClear">Очистити</string>
+    <string name="btnRate">Оцінити</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Видалити</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Зберегти</string>
+    <string name="btnFind">Знайти</string>
+    <string name="btnGetWeight">Отримати Вагу</string>
+    <string name="btnBack">Назад</string>
+	<string name="btnClose">Закрити</string>
+    <string name="btnReset">Скинути</string>
+    <string name="btnMore">Більше</string>
+    <string name="btnUpdate">Оновити</string>
+    <string name="btnExit">Вихід</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Придбати</string>
+    <string name="titleUpgrade">Придбати</string>
+    <string name="pleasePurchase">Будь ласка придбайте!</string>
+    <string name="msgFeaturePurchase">Придбайте для використання функції!</string>
+    <string name="msgIAStartFail">Ваш пристрій не підтримує придбання із додатків</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Автоматичне дублювання БД на SD карту</string>
+    <string name="prefAutoBackupSummary">Автоматичне дублювання БД на SD карту перед виходом з додатку</string>
+    <string name="prefAutoBackupDropBoxTitle">Автоматичне дублювання БД в Dropboxв„ў</string>
+    <string name="prefAutoBackupDropBoxSummary">Автоматичне дублювання БД в Dropboxв„ў перед виходом з додатку</string>
+    <string name="prefLinkDropBoxTitle">Зв\'язати з Dropboxв„ў</string>
+    <string name="prefLinkDropBoxSummary">Зв\'язати додаток з вашим акаунтом Dropboxв„ў account</string>
+    <string name="prefUnlinkDropBoxTitle">Відключитись від Dropboxв„ў</string>
+    <string name="prefUnlinkDropBoxSummary">Відключити додаток від акаунту Dropboxв„ў account</string>
+    <string name="prefBackupTitle">Резервне дублювання бази даних</string>
+    <string name="prefBackupSummary">Резервне дублювання бази даних на карту SD або Googleв„ў Drive</string>
+    <string name="prefEmailDbTitle">Відправлення бази даних на електронну пошту</string>
+    <string name="prefEmailDbSummary">Відправити поточну базу даних на електронну пошту</string>
+    <string name="prefAutoDeleteTitle">Автоматично видаляти старі транзакції</string>
+    <string name="prefAutoDeleteSummary">Автоматично видаляти старі транзакції при виході з додатку</string>
+    <string name="prefAutoDeleteDialog">Вибрати період обліку</string>
+    <string name="prefRestoreTitle">Відновити базу даних</string>
+    <string name="prefRestoreSummary">Відновити базу даних з карти SD Card чи Googleв„ў Drive</string>
+    <string name="prefDeleteAllTitle">Видалити всі записи</string>
+    <string name="prefDeleteAllSummary">Видалити всі записи з бази даних</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Вибір мови</string>
+    <string name="lbLang">Вибір мови</string>
+    <string name="prefTitleDate">Формат дати</string>
+    <string name="prefTitleTime">Формат часу</string>
+    <string name="prefSummaryOnTime">Викоритовувати 24-годинний формат</string>
+    <string name="prefSummaryOffTime">Використовувати AM/PM формат</string>
+    <string name="prefTranslatorTitle">Перекладачі</string>
+    <string name="prefTranslatorSummary">Якщо вашої мови немає в списку, надішліть нам листа на електронну пошту</string>
+    <string name="prefRegisterTitle">Реєстрація</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Журнал</string>
+    <string name="prefLogTitle">Журнал змін</string>
+    <string name="appInfo">Про додаток</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - База даних</string>
+    <string name="msgRestoreSdConfirm">Виберіть однин з файлів резервних копій. Переконайтеся, що цей файл останній із збережених.</string>
+    <string name="msgNoBackupDatabase">Неможливо знайти файл бази даних.</string>
+    <string name="dbBackupSucessMsg">База даних успішно збережена на </string>
+    <string name="dbBackupFailMsg">Помилка резервного копіювання бази даних на</string>
+    <string name="dbRestoreSucessMsg">База даних успішно відновлена</string>
+    <string name="dbRestoreFailMsg">Помилка відновлення бази даних</string>
+    <string name="dbDeleteAllSucessMsg">База даних видалена успішно</string>
+    <string name="dbDeleteAllFailMsg">Помилка видалення бази даних</string>
+    <string name="dbDeleteAllAlertTitle">Видалити всі бази даних</string>
+    <string name="dbDeleteAllAlertMsg">Усі збережені записи будуть видалені з бази даних. Ви справді хочете продовжити? </string>
+    <string name="dbNoDatabaseMsg">База даних ще не створена</string>
+    <string name="msgBackuping">Резервне копіювання...</string>
+    <string name="msgRestoring">Відновлення...</string>
+    <string name="msgGenratingPDF">Створення PDF...</string>
+    <string name="msgLoading">Завантаження...</string>
+    <string name="msgRestoreDropboxUnlink">Будь ласка зв\'яжіть додаток з Dropboxв„ў перед відновленням</string>
+    <string name="msgBackupDropboxUnlink">Будь ласка зв\'яжіть додаток з Dropboxв„ў перед резервним копіюванням</string>
+    <string name="msgAutoBackupDropboxUnlink">Будь ласка зв\'яжіть додаток з Dropboxв„ў перед увімкненням автоматичного резервного копіювання</string>
+    <string name="msgUnlinkDropbox">додаток відключено від  Dropboxв„ў</string>
+    <string name="msgLinkDropbox">Зв\'язати додаток з Dropboxв„ў.\n
+	    Будь ласка перейдіть до наступного екрану для налаштування Dropboxв„ў link.\n
+		Вам потрібен акаунт Dropboxв„ў та встановлений додаток Dropboxв„ў app \n\n
+		Ви можете увімкнути автоматичне/ручне резервне копіювання бази даних на ваш Dropboxв„ў\n 
+		Для додаткової інформації, будь ласка відвідайте www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Резервне копіювання виконано успішно.</string>
+    <string name="msgBackupDBFail">Помилка резервного копіювання.</string>
+    <string name="msgRestoreConfirm">Будь ласка впевніться, що резервний файл бази даних має останню версію. В іншому випадку, ви можете втратити інформацію, яка була введена нещодавно на цьому пристрої.</string>
+    <string name="msgLinkDropboxFail">Помилка зв\'язування з Dropboxв„ў.</string>
+    <string name="dbBackupChoose">Вкажіть місце для збереження резервної копії бази даних?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Вкажіть місцезнаходження файлу резервної копії для відновлення</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Файл не знайдено в</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Переконайтесь що Інтернет підключено!</string>
+    <string name="turnOnWifi">Ввімкніть WIFI!</string>
+    <string name="empty">Немає записів</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Не може бути пустим</string>
+    <string name="errorZero">Не може дорівнювати нулю</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Невірний ліцензійний ключ</string>
+    <string name="emailChooser">Надіслати Email використовуючи:</string>
+    <string name="msgNoPdfReader">Не можу знайти додаток для читання файлів pdf, інсталюйте програму для читання pdf і спробуйте знову.</string>
+	<string name="errorNumber">Кількість не може бути більшою за поточну кількість.</string>
+   <string name="errorChoosePeriod">Дата початку пізніша ніж дата закінчення</string>  
+   <string name="confirmExit">Бажаєте вийти?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Будь ласка введіть наступну інформації для реєстрації вашої ліцензії.</string>
+    <string name="licenseRegisteredMsg">Ви зареєстровані з наступною інформацією.</string>
+    <string name="lbActivationKey">Ключ</string>
+    <string name="customerName">Ім\'я</string>
+    <string name="lbTel">Тел</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Пошта</string>
+    <string name="errorEmailFormat">Невірний формат Email!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Помилка сервера! Код помилки 502.</string>
+    <string name="errorServerExcetpion">Помилка сервера! Код помилки 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Оцініть %s</string>
+    <string name="appRateMessage">Якщо вам сподобався додаток %s, будь ласка знайдіть хвилинку та оцініть наш додаток. Дякуємо за підтримку!</string>
+    <string name="appRatePositive">Оцінити!</string>
+    <string name="appRateNeutral">Нагадати пізніше</string>
+    <string name="appRateNegative">Ні, дякую</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Карта</string>
+    <string name="menuSdcard">SD Карта</string>
+    <string name="menuDropbox">Dropboxв„ў</string>
+    <string name="menuGoogleDrive">Googleв„ў Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Код</string>
+    <string name="lbCurrencySign">Увійти</string>
+    <string name="lbCurrencyDesc">Опис</string>
+    <string name="titleCurrency">Валюта</string>
+    <string name="titleCurrencyUpdate">Оновлення валюти</string>
+    <string name="titleCurrencyAdd">Додати валюту</string>
+
+    <!-- week -->
+    <string name="sunday">НЕДІЛЯ</string>
+    <string name="monday">ПОНЕДІЛОК</string>
+    <string name="tuesday">ВІВТОРОК</string>
+    <string name="wednesday">СЕРЕДА</string>
+    <string name="thursday">ЧЕТВЕР</string>
+    <string name="friday">П\'ЯТНИЦЯ</string>
+    <string name="saturday">СУБОТА</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Січ</string>
+    <string name="feb">Лют</string>
+    <string name="mar">Бер</string>
+    <string name="apr">Кві</string>
+    <string name="may">Тра</string>
+    <string name="jun">Чер</string>
+    <string name="jul">Лип</string>
+    <string name="aug">Сер</string>
+    <string name="sep">Вер</string>
+    <string name="oct">Жов</string>
+    <string name="nov">Лис</string>
+    <string name="dec">Гру</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Нед</string>
+    <string name="mon">Пон</string>
+    <string name="tue">Вів</string>
+    <string name="wed">Сер</string>
+    <string name="thu">Чет</string>
+    <string name="fri">П\'ят</string>
+    <string name="sat">Суб</string>
+
+</resources>

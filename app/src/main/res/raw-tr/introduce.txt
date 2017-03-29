@@ -1,0 +1,109 @@
+<b> Restoran POS - Point of Sale </b> hangi kaydeder küçük ve orta ölçekli restoran, bar ve kahvehane vb Restoran POS mevcut yazıcılar ve nakit çekmece ile uyumlu, kullanımı kolay ve uygun fiyatlı, özellikli bir dolu senin Zaman ve para tasarrufu sağlar. <br>
+
+<b> Bu uygulama tek başına POS sunucusu olmadan, tüm veriler sınırsız güncelleme </b>, yerel cihazda bir kez maliyet kaydedilir
+
+Aynı anda birden fazla sipariş alarak cihazlarını desteklemek için, sunucu sürümüne ihtiyacınız aşağıdaki linki başvurabilirsiniz.
+https://play.google.com/store/apps/details?id=com.aadhk.wnopos
+
+<b> bizim iyileştirilmesi çalışmaları desteklemek için / satın alma avans özelliklerini yükseltin lütfen. </b>
+
+<b> hata veya istek özelliklerini bildirmek için: </b>
+https://pos.uservoice.com
+
+<b> Temel Özellikler </b>
+<b> Sipariş </b>
+• Aç / kapat tablo
+• Boşluk / devir / bölünmüş sipariş
+• sırayla / dinning dışarı atın
+• bekleyin / Cook sipariş öğesi
+• havale et
+
+<b> Ödeme </b>
+• Bölünmüş faturası
+• Armağan / Servis ücreti
+
+<b> Menü </b>
+• / değiştirme / oluşturma tablo, kategori, öğeyi ve değiştirici silmek
+• İthalat / İhracat / sipariş masa, kategori, madde ve değiştirici
+Öğeleri • İki vergiler
+• madde fiyat vergi hariç tut / Dahil
+Öğeleri • Mutfak / çubuk yazıcılar
+Öğeleri • Fiyat tarifesi
+Dropbox ™ veya Google Drive ™ tarafından birden fazla cihaz ile • Hisse menüsü
+
+<b> Yazıcı </b> (yazıcı kurulum kılavuzu http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W & O POS Yazıcı Adaptörü (yüklü Pencere PC)
+• Bilgisayar Sürücüsü yüklü olan yazıcıları her türlü Destek
+  (WnO POS Adaptörü https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ indir)
+2. Wifi / Lan ve USB
+ESC / POS Komutanlığı ile • Destek en termal yazıcılar
+   Doğrulanmış Yazıcı Modeli: EPSON TM-T88IV, TM-U220, YILDIZ TSP743 CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta
+
+<b> Nakit çekmece (RJ12) </b>
+
+<b> Fatura </b>
+• Şirket logosu, isim, adres ve telefon numarası
+• Müşteri adı, adresi ve telefon numarası
+• Sipariş öğeleri
+• toplam tutarı, değişim miktarı
+• Vergi numarası
+• Fatura notu
+• Dahil / dışlama vergiler
+• İndirim
+• Armağan / Servis ücreti
+• İpucu kılavuzu
+• Altbilgi mesajı
+
+<b> Müşteri </b>
+Almak için faturasında • göster müşteri bilgileri
+• Telefon temas müşteri oluşturma
+Müşteriye • E-posta fatura
+
+<b> Rapor </b>
+• Sipariş raporu
+• Boşluk Sipariş Raporu
+• Aktarım Sipariş Raporu
+• Öğe raporu
+• Değiştirici Raporu
+• Kategori Tutar Raporu
+• Kategori Kalite Raporu
+• Ödeme Raporu
+
+<b> Yetki </b>
+• Yönetici / garson giriş
+• Devre Dışı garson raporunu görüntüleme
+• garson devre dışı bırakın indirim
+• garson sakatlar hizmet ücreti
+• Devre Dışı Bırak boşluk sipariş
+• Devre Dışı elle açık nakit çekmece
+
+<b> Ayarlar </b>
+• Ülkeniz para destekleyin
+Gün boyunca • Destek günlük sipariş raporu
+• Ayarlanabilir Ondalık yer
+• Destek iki vergiler
+
+<b> Veritabanı </b>
+• SD kart veya Dropbox ™ uygulaması çıkmak için Otomatik yedekleme veritabanı
+• SD kart ve Dropbox ™ Manuel yedek veritabanı
+• SD kart ve Dropbox ™ veritabanı geri yükleme
+• Demo veritabanı geri yükleme
+• Kolay yeniden girin masa, menü ve müşteri için Boş Veriler
+• E-posta veritabanı
+
+<b> Mevcut diller (daha yakında) </b>
+• İngilizce, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Macar (Daniel Botka)
+
+<b> İzinler </b>
+• İNTERNET: Dropbox Yedekleme
+• FATURA: In-app Fatura
+• ERİŞİM AĞ DEVLET: Google Takibi
+• ACCESS_WIFI_STATE: Google Takibi
+• OKU İLETİŞİM: Kişiler Client ekleme
+• DIŞ DEPOLAMA YAZIN: Yedekleme ve İhracat sdcard için
+
+Birden fazla cihaz aynı zamanda (Clent, sunucu modeli) emir çekmek için ※, https://market.android.com/details?id=com.aadhk.wnopos başvurun
+Eğer app isterseniz ※, o teşekkür ederim, bize sürekli gelişmenin arkasındaki itici güç olarak iyi bir derece veriniz.
+Eğer herhangi bir öneri veya sorularınız varsa ※ doğrudan posta kutusuna posta gönderin. Piyasa değerlendirmeleri için, sadece tekrar, teşekkür değerlendirmen ve şerefe bırakın lütfen.
+
+Kullanım Restoran POS - Bir sipariş sistemi, restoran sistemi, restoran pos, bar pos, pos kafe, mobil pos, kablosuz pos, pos telefon, kasa veya satış başka noktası olarak Satış Noktası.

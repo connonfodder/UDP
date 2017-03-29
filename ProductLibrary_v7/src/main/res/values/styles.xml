@@ -1,0 +1,152 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme.   -->
+   <!-- <style name="AppTheme" parent="AppBaseTheme">
+        &lt;!&ndash; All customizations that are NOT specific to a particular API-level can go here. &ndash;&gt;
+    </style>-->
+
+    <style name="ProgressTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="button">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="buttonRed" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/btn_red</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonGreen" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/btn_green</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonBlue" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/btn_blue</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonOrangeRadius" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/btn_orange</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <!-- menu -->
+    <style name="buttonLime" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_lime</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonDeepPurple" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_deep_purple</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonTeal" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_teal</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonMenuRed" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_red</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonPurple" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_purple</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonMenuGreen" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_green</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonYellow" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_yellow</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonLightBlue" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@drawable/bg_btn_menu_light_bule</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+    <style name="buttonWhite" parent="@style/button">
+        <item name="android:textColor">@color/button_primary_text</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:shadowColor">@color/button_primary_text_shadow</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+
+    <!-- custom progressDialog style -->
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

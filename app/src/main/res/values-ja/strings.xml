@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat"> IPアドレスのフォーマットエラー！</string>
+    <string name="hintSameNetWork">なく、同じネットワーク内で！</string>
+    <string name="serverNotFound">見つけることができません  W&amp;O POS サーバー.</string>
+    <string name="lbVoid">ボイド</string>
+
+</resources>

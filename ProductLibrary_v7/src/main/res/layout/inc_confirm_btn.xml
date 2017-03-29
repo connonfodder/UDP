@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Button
+        android:id="@+id/btnConfirm"
+        android:layout_width="0dip"
+        android:layout_height="48dip"
+        android:layout_weight="1"
+        android:text="@string/btnConfirm"
+        >
+    </Button>
+
+    <View
+        android:layout_width="0.1dip"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_height="32dip"
+        android:background="@color/button_seconary_text" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="0dip"
+        android:layout_height="48dip"
+        android:layout_weight="1"
+        android:text="@string/btnCancel"
+         >
+    </Button>
+
+</merge>

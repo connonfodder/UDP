@@ -1,0 +1,39 @@
+Comment utiliser le programme ?
+    Ouvrir une session avec le compte par défaut : Gérant  / 123456
+    Avant de prendre une commande, il faut encoder les tables, les catégories, les articles et les modifications dans les paramètres pour votre restaurant.
+    Pour l'impression des reçus, vous devez configurer l'imprimante dans les paramètres. Assurez-vous de choisir la bonne imprimante.
+    Après la configuration, vous pouvez ouvrir une table, prendre des commandes, les envoyer et les imprimer pour la cuisine et le bar.
+    Après avoir envoyé les commandes, vous pouvez les contrôler par un appui long sur la table, clôturer la commande et imprimer le reçu.
+
+Tables
+    La couleur est différente pour une table occupée
+    Appuyer sur une table sur l'écran.
+    Table libre
+    Appuyer sur une table pour l'ouvrir.
+    Appuyer sur le bouton de menu pour le rapport, la configuration, la base de données.
+
+Commande
+
+    Appuyer sur l'élément commandé pour modifier le prix, ajouter une remarque et sauvegarder.
+    Appuyer sur "confirmer" pour confirmer les articles de la commande.
+    Appuyer sur "+" pour ajouter un article à la commande.
+    Appuyer sur  "-" pour diminuer un article de la commande.
+    Appuyer sur "S" pour ajouter un supplément.
+
+Commandé
+
+    Montre la commande, les articles, les informations de paiement pour une table déterminée.
+    Appuyer sur un élément de la commande pour ré-impression, annulation, transfert et modification de prix.
+    Appuyer sur le bouton "Transfert" pour envoyer la commande vers une table occupée ou libre.
+    Appuyer sur le bouton "Séparer" pour scinder la commande sur plusieurs factures par quantité ou élément.
+    Appuyer sur le bouton "Client" pour mettre à jour le nombre de personnes.
+
+Paiement
+    Présente clairement le sous-total, la remise, les pourboires, la taxe, le total payé et la monnaie à rendre.
+    Appuyer sur "Impression" pour imprimer le reçu.
+    Appuyer sur "Tiroir" pour ouvrir le tiroir-caisse.
+    Appuyer sur "Client" pour ajouter un client sur une commande.
+    Appuyer sur "Email" pour envoyer le reçu par Email.
+    Appuyer sur note pour ajouter une note sur le reçu.
+    Appuyer sur "Exactement " pour un paiement au montant exact.
+

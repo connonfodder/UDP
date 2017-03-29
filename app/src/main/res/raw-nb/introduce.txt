@@ -1,0 +1,109 @@
+<b> Restaurant POS - Point of Sale </b> er en fullverdig, lett å bruke og rimelig for små og mellomstore restaurant, bar og kaffebar etc. Restaurant POS er kompatibelt med dine eksisterende skrivere og kontanter skuffer, noe som sparer din tid, og sparer penger. <br>
+
+<b> Denne applikasjonen er frittstående POS uten server, blir alle data lagret i lokal enhet, én gang kostnader, ubegrenset oppdatering </b>
+
+For å støtte flere enheter som tar ordre på samme tid, må du server-versjonen, kan du referere til følgende link.
+https://play.google.com/store/apps/details?id=com.aadhk.wnopos
+
+<b> Oppgrader / kjøp forhånd funksjoner for å støtte våre bedre fungerer. </b>
+
+<b> For å rapportere bugs eller forespørsel funksjoner: </b>
+https://pos.uservoice.com
+
+<b> Nøkkelfunksjoner </b>
+<b> Bestille </b>
+• Åpne / lukke bordet
+• Void / overføring / split rekkefølge
+• Ta ut / spise for
+• Vent / Cook ordreelement
+• overføring ordreelement
+
+<b> Betaling </b>
+• Split regningen
+• Drikkepenger / Serviceavgift
+
+<b> Meny </b>
+• Opprette / endre / slette tabellen, kategori, element og modifier
+• Import / eksport / bestilling tabellen, kategori, element og modifier
+• To skatt på poster
+• inkludere / ekskludere skatt på vareprisen
+• Kjøkken / bar skrivere på elementer
+• Pris tidsplan på elementer
+• Del meny med flere enheter av Dropbox ™ eller Google Drive ™
+
+<b> Skriver </b> (skriveroppsettguiden http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W & O POS skriveradapter (installert Window PC)
+• Støtter alle slags skrivere som er installert i PC Driver
+  (Last ned WNO POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. Wifi / Lan og USB
+• Støtte mest termiske skrivere med ESC / POS Command
+   Verifisert Skrivermodell: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta
+
+<b> Cash skuff (RJ12) </b>
+
+<b> Faktura </b>
+• Selskapets logo, navn, adresse og telefonnummer
+• Kunde navn, adresse og telefonnummer
+• Bestill elementer
+• Total mengde, endre beløpet
+• Skatte nummer
+• Faktura notat
+• inkludere / ekskludere skatter
+• Rabatt
+• Drikkepenger / Serviceavgift
+• Tips guide
+• melding Footer
+
+<b> Kunden </b>
+• Vis kundeinfo på faktura for å ta ut
+• Lag kunde fra telefonkontakt
+• E-post faktura til kunde
+
+<b> Rapporter </b>
+• Bestill rapport
+• Void Ordrerapport
+• Transfer Ordrerapport
+• Sak rapport
+• Endrings Rapporter
+• Kategori Beløp Rapporter
+• Kategori kvalitetsrapport
+• Betaling Rapporter
+
+<b> Authority </b>
+• Forvalter / servitør innlogging
+• Deaktiver visning rapport om servitør
+• Deaktiver rabatt på kelner
+• Deaktiver serviceavgift på kelner
+• Deaktiver ugyldig rekkefølge
+• Deaktiver manuelt åpne kasseskuffen
+
+<b> Innstillinger </b>
+• Støtt ditt lands valuta
+• Støtte daglig ordre rapport over dagen
+• Konfigurerbar Desimal sted
+• Støtte to skatter
+
+<b> Database </b>
+• Auto backup database til SD-kort eller Dropbox ™ når exit app
+• Manuell backup database til SD-kort og Dropbox ™
+• Gjenopprett databasen fra SD-kort og Dropbox ™
+• Gjenopprett demo database
+• Tomme Data for lett det gjentatte bord, meny og kunde
+• E-post database
+
+<b> Tilgjengelige språk (mer kommer snart) </b>
+• Engelsk, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka)
+
+<b> Tillatelser </b>
+• INTERNETT: Dropbox Backup
+• FAKTURERING: In-app Billing
+• aksessnettet TILSTAND: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• LES KONTAKTER: Legge Client fra Kontakter
+• SKRIV ekstern lagring: Backup og eksport til SDCard
+
+※ For flere enhet å ta bestillinger på samme tid (Clent, server-modellen), henvises det til https://market.android.com/details?id=com.aadhk.wnopos
+※ Hvis du liker app, vennligst gi oss en god rating som drivkraften bak vår videre utvikling, takk.
+※ Hvis du har noen forslag eller spørsmål vennligst mail til vår postkasse direkte. For markedene, kan du bare la din vurdering og jubel, takk igjen.
+
+Bruk Restaurant POS - Point of Sale som et bestillingssystem, restaurant system, restaurant pos, bar pos, cafe pos, mobile pos, trådløse pos, telefon pos, kassaapparat eller noe annet punkt av salg.

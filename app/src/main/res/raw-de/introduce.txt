@@ -1,0 +1,103 @@
+<b>Restaurant POS - Verkaufsstelle</b> ist ein voll ausgestatteter, einfach zu bedienender, komplett eigenständiger POS für kleine und mittlere Unternehmer, speziell angepasst für Restaurant, Bar und Café etc. Sie müssen die Applikation nur herunterladen, installieren und verwenden, ohne einen komplizierten Back-End-Server, kompatibel mit Ihrem vorhandenen Drucker und Kasse. Restaurant POS - Verkaufsstelle spart Geld und Zeit.<br><br>
+
+<b>Diese Version ist frei für die Verwendung ohne Demo-Periode. Bitte Upgrade/Lizenz erwerben für die Freischaltung erweiterter Funktionen.</b>
+
+<b>Bestellung</b>
+• Tisch öffnen/schließen
+• Bestellung leeren/verschieben/teilen
+• Bestellung einpacken/essen
+• Warte auf/koche Artikel
+• Artikel der Bestellung verschieben
+
+<b>Bezahlung</b>
+• Rechnung teilen
+• Trinkgeld/Service-Gebühr
+
+<b>MenÜ</b>
+• Tische, Artikel, Kategorien und Extras erstellen/ändern/löschen
+• Import/export/ Tische, Kategorien, Artikel and Extras
+• Zwei Steuern für Artikel
+• Artikelpreise inklusive/exklusive Steuern
+• Küche/Bar Drucker für Artikel
+• Zeitplan für Artikelpreise
+• Teilen per Dropbox™ oder Google Drive™
+
+<b>Drucker</b>
+• Unterstützung für die gängigsten thermischen Quittungs-Drucker mit WIFI-/LAN-Verbindung und ESC/POS Befehl
+• Unterstützung aller Drucker die kompatible mit  WnO POS Adapter sind
+  (WnO POS Adapter herunterladen http://www.androidappshk.com/app/wno-printer-adapter.zip)
+• Kassier(RJ12)  
+
+<b>Verifizierte Druckermodelle(WIFI/LAN)</b>
+• EPSON TM-T88IV
+• EPSON TM-U220
+• STAR TSP743
+• CITIZEN CT-S651
+• Xprinter XP-58III
+• Xprinter XP-C2008
+• Xprinter XP-T230H
+• GPrinter
+
+<b>Rechnung</b>
+• Firmenlogo, Name, Adresse und Telefonnummer
+• Name, Adresse und Telefonnummer des Kunden
+• Artikel
+• Gesamtsumme, Summe ändern
+• Steuer-Nummer
+• Rechnungsnotiz
+• Steuern inklusive/exklusive
+• Rabatt
+• Trinkgeld/Service-Gebühr
+• Leitfaden
+• Fußnote
+
+<b>Kunde</b>
+• Zeige Kundeninformationen auf Rechnung
+• Erzeuge Kunde aus Telefonkontakt
+• Rechnung an Kunden mailen
+
+<b>Bericht</b>
+• Bestellungsbericht
+• Bestellungsbericht leeren
+• Bestellungsbericht verschieben
+• Artikelbericht
+• Extrasbericht
+• Kategorie Summen-Bericht
+• Kategorie Qualitätsbericht
+• Bezahlungsbericht
+
+<b>Authorität</b>
+• Manager/Kellner Anmeldung
+• Deaktiviere Berichte für Kellner
+• Deaktiviere Rabatt für Kellner
+• Deaktiviere Service-Gebühren für Kellner
+• Deaktiviere Leeren von Bestellungen
+• Deaktiviere manuelles Öffnen der Kasse
+
+<b>Einstellungen</b>
+• Unterstützung der jeweiligen Währung
+• Unterstützung für täglichen Bestellungsbericht
+• Konfigurierbare Dezimalstellen
+• Unterstützun für zwei Steuerraten
+
+<b>Datenbank</b>
+• Automatisches Sichern der Datenbank auf SD-Karte und Dropbox™ beim Beenden der App
+• Manuelles Sichern der Datenbank auf SD-Karte und Dropbox™
+• Datenbank wiederherstellen on SD-Karte oder Dropbox™ 
+• Demo-Datenbank wiederherstellen
+• Daten löschen, um Tische, Menüs und Kunden auf einfach Weise neu erstellen zu können.
+• Mail Datenbank
+
+<b>Rechte</b>
+• INTERNET: Sicherung auf Dropbox
+• RECHNUNG: In-app Billing
+• NETZWERK-STATUS: Google Tracking
+• WIFI-STATUS: Google Tracking
+• KONTAKTE LESEN: Kunden aus Kontakten hinzufügen
+• AUF EXTERNEM SPEICHER SCHREIBEN: Sichern und Exportieren auf SD-Karte
+
+※ Wenn mehrere Geräte zur selben Zeit Bestellungen auslösen(Client, Server Model), bitte folgende Seite konsultieren https://market.android.com/details?id=com.aadhk.wnopos
+※ Wenn Sie die App gut finden, geben Sie uns bitte eine gute Bewertung, da gute Bewertungen die Entwicklung dieser App fördern; vielen Dank.
+※ Wenn Sie Fragen oder Verbesserungsvorschläge haben kontaktieren Sie uns direkt per Mail. Ansonsten hinterlassen Sie uns bitte ine positive Bewertung; vielen Dank.
+
+Restaurant POS - Verkaufsstelle kann als Kassensystem, Restaurantasystem, Restaurant POS, Bar POS, Caffe POS, Mobile POS, Wireless POS, Telefon POS etc. verwendet werden.

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    
+
+    <string name="menuKitchen">廚房顯示</string>
+    <string name="titleKitchen">廚房</string>
+    <string name="lbNoOrder">沒訂單</string>
+    <string name="lbNoConnection">沒連接</string>
+    <string name="menuRefresh">刷新</string>
+    <string name="menuCurrent">當前</string>
+    <string name="menuHistory">歷史</string>
+    <string name="menuHelp">幫助信息</string>
+    <string name="menuSetting">設定</string>
+    <string name="menuSummary">概要(%1$s)</string>
+    
+    <string name="titleHelp">幫助</string>
+    <string name="loginSysError">系統錯誤</string>
+    <string name="titleCookReady">關閉此訂單菜式?</string>
+    <string name="titleCookCancel">打開此訂單菜式?</string>
+    <string name="titleCookItemReady">關閉此菜式\"%1$s\"?</string>
+    <string name="titleCookItemCancel">打開此菜式\"%1$s\"?</string>
+    <string name="lbMin">分鐘</string>
+    <string name="prefMinutesTitle">分鐘</string>
+    <string name="prefMinutesSummary">紅色：%1$s分鐘， 綠色：%2$s分鐘， 黃色：%3$s分鐘</string>
+    <string name="prefFontSizeTitle">字體大小</string>
+    <string name="prefFontSizeSummary">字體大小：%1$s像素</string>
+    <string name="prefRefreshTitle">刷新</string>
+    <string name="prefRefreshSummary">刷新時間：%1$s秒</string>
+    <string name="setMinutes">設置分鐘</string>
+    <string name="setFontSize">設置字體大小</string>
+    <string name="setRefresh">設置刷新秒數</string>
+    <string name="hintFontSize">字體像素</string>
+    <string name="hintRefresh">刷新秒數</string>
+    <string name="redTitle">紅色</string>
+    <string name="greenTitle">綠色</string>
+    <string name="yellowTitle">黃色</string>
+    <string name="fontSizeTitle">字體大小</string>
+    <string name="refreshTitle">刷新</string>
+    <string name="lbSequence">排序</string>
+    <string name="menuKitchenIp">輸入IP地址</string>
+    <string name="serverDisconnected">點擊連接服務器</string>
+    <string name="prefIpSummary">當前IP：%1$s</string>
+    <string name="prefIpSettingTitle">設置IP地址</string>
+    <string name="titleItemFontSize">字體大小</string>
+    <string name="hintServerConnect">網絡: %1$s\n平板： %2$s</string>
+    <string name="msgNotConnected">平板沒接網絡，請打開wifi！</string>
+    <string name="msgDisconnect">網絡已斷開，請重新連接</string>
+    <string name="errorIpFormat">IP地址格式錯誤！</string>
+    <string name="hintSameNetWork">不是相同網絡</string>
+    <string name="serverNotFound">沒找到 W&amp;O POS 服務器.</string>
+    <string name="lbVoid">取消</string>
+    <string name="lbWait">叫起</string>
+    <string name="lbOrderUp">已上菜</string>
+    <string name="loadingCook">當前記錄加載中</string>
+    <string name="loadingHistory">歷史記錄加載中</string>
+
+    <string name="purchaseKdsTitle">購買</string>
+    <string name="purchaseKdsSummary">請購買繼續使用廚房顯示</string>
+    <string name="purchasedSummary">謝謝購買，可以使用</string>
+    
+    <string name="msgCancelClose">不能關閉取消菜式</string>
+    <string name="msgCancelOpen">不能打開取消菜式</string>
+    <string name="lbServer">服務員</string>
+    <string name="prefFullFormat">24小時格式</string>
+    <string name="prefHalfFormat">12小時格式</string>
+    <string name="prefHourFormat">12/24小時格式</string>
+</resources>

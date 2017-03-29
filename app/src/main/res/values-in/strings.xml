@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">Format alamat IP salah!</string>
+    <string name="hintSameNetWork">Tidak dalam jaringan yang sama!</string>
+    <string name="serverNotFound">Tidak dapat menemukan W&amp;O POS server.</string>
+    <string name="lbVoid">Batal</string>
+
+</resources>

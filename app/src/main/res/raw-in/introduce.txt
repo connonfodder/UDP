@@ -1,0 +1,102 @@
+﻿<b>Restaurant POS - Point of Sale</b> Lengkap, mudah digunakan, khususnya untuk restoran, bar dan coffee shop dll. Restaurant POS  cocok dengan printer dan laci kasir yang ada, sehingga menghemat waktu , dan biaya. <br><br>
+
+<b>Aplikasi ini bersifat  stand-alone POS tanpa server, semua data disimpan pada perangkat , cukup bayar sekali, pembaharuan selamanya</b>
+
+<b>Silahkan memperbaharui/membeli fungsi tambahan untuk mendukung kinerja kami .</b>
+
+<b>Pemesanan</b>
+• Buka/Tutup meja
+• Batal/Pindah/Pisahkan pesanan
+• Bawa Pulang/dinning in order
+• Tunggu/Masak urutan menu
+• Pindahkan menu pesanan
+
+<b>Pembayaran</b>
+• Pisahkan nota
+• Uang Tip/Biaya layanan
+
+<b>Menu</b>
+• Buat/ubah/hapus meja, kategori, menu dan tambahan
+• Import/export/urutan meja, kategori, menu dan tambahan
+• Dua pajak pada menu
+• Termasuk/Tanpa pajak pada menu
+• Dapur/bar printer pada menu
+• Jadwal harga pada menu
+• Berbagi menu dengan beberapa alat menggunakan Dropbox™ atau Google Drive™
+
+<b>Printer</b>(panduan setting printer http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W&O POS Printer Adapter (installed Window PC)
+• Mendukung semua jenis printer yang terdapat pada PC Driver
+  (download WnO POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. Wifi/Lan and USB
+• Mendukung beberapa printer thermal dengan perintah ESC/POS 
+   Model printer yang disarankan:  EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta 
+
+<b>Laci Kasir(RJ12) </b>
+
+<b>Nota</b>
+• Logo perusahaan, nama, alamat dan nomer telpon
+• Nama pelanggan, alamat dan nomer telpon
+• Menu pesanan
+• Jumlah Total, jumlah kembalian
+• Nomer pajak
+• Catatan nota
+• Termasuk/tidak termasuk pajak
+• Potongan harga
+• Uang tip/biaya layanan
+• Tip guide
+• Catatan bawah
+
+<b>Pelanggan</b>
+• Menampilkan data pelanggan di nota untuk bawa pulang
+• Buat pelanggan dari kontak telpon
+• Email nota ke pelanggan
+
+<b>Laporan</b>
+• Laporan pesanan
+• Laporan pesanan batal
+• Laporan pesanan pindah
+• Laporan menu
+• Laporan tambahan
+• Laporan jumlah dari kategori
+• Laporan kualitas kategori
+• Laporan pembayaran
+
+<b>Wewenang</b>
+• Manager/pelayan login
+• Matikan menampilkan laporan pada pelayan
+• Matikan diskon pada pelayan
+• Matikan biaya layanan pada pelayan
+• Matikan pesanan batal
+• Matikan membuka laci kasir secara manual
+
+<b>Pengaturan</b>
+• Mendukung mata uang negaramu
+• Mendukung laporan harian yang telah lewat
+• Letak desimal bisa diatur
+• Mendukung dua jenis pajak
+
+<b>Database</b>
+• Otomatis backup database ke SD card Atau Dropbox™ ketika keluar dari aplikasi
+• Backup manual ke SD card dan Dropbox™
+• Mengembalikan database dari SD card dan Dropbox™ 
+• Mengembalikan database demo
+• Menghapus data untuk memudahkan memasukkan kembali meja, menu dan pelanggan
+• Email database
+
+<b>Bahasa yang didukung (Segera datang beberapa bahasa )</b>
+• English, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka), Indonesia (Ricky Alamsyah)
+
+<b>Ijin</b>
+• INTERNET: Dropbox Backup
+• BILLING: In-app Billing
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• READ CONTACTS: Adding Client from Contacts
+• WRITE EXTERNAL STORAGE: Backup and Export to SDCard
+
+※ Untuk penggunaan dengan banyak perangkat(client, server model), Silahkan ke https://market.android.com/details?id=com.aadhk.wnopos
+※ Apabila anda suka aplikasi ini, Silahkan memberi nilai untuk mendukung kami, Terima kasih.
+※ Apabila kamu memiliki Saran ataupun pertanyaan silahkan langsung mengirim email. Untuk pemasaran silahkan Nilai kami dan selamat menggunakan aplikasi kami, Terima kasih.
+
+Gunakan Restaurant POS - Point of Sale Sebagai sistem pemesanan, sistem restaurant , restaurant pos, bar pos, cafe pos, mobile pos, nirkabel pos, phone pos, Laci kasir atau point of sales lainnya.

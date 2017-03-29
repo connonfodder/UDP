@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">邀请好友</string>
+    <string name="back_button_label">返回</string>
+    <string name="next_button_label">下一个</string>
+    <string name="skip_button_label">跳</string>
+	<string name="titleData">数据</string>
+    <string name="titleSetting">设定</string>
+    <string name="dlgTitleDate">选择日期</string>
+    <string name="dlgTitleTime">选择时间</string>
+    <string name="dlgTitleDatePeriod">选择日期范围</string>
+    <string name="lbTo">至</string>
+    <string name="titleLicenseExpire">%s 已过期, 请到谷歌市场购买.</string>
+    <string name="titleLicenseAppError">购买应用错误: %s.</string>
+    <string name="titleScalePaired">已配对设备</string>
+    <string name="titleScaleAvailable">未配对设备</string>
+    <string name="titleScaleSearching">搜索中</string>
+    <string name="titleScaleSearchFinished">搜索完成</string>
+
+    <!-- button -->
+    <string name="btnConfirm">确认</string>
+    <string name="btnCancel">取消</string>
+    <string name="btnOk">确定</string>
+    <string name="btnClear">清除</string>
+    <string name="btnRate">评分</string>
+    <string name="btnEmail">邮箱</string>
+    <string name="btnDelete">删除</string>
+    <string name="btnDuplicate">复制</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">保存</string>
+    <string name="btnFind">搜索</string>
+    <string name="btnGetWeight">获取重量</string>
+    <string name="btnBack">返回</string>
+    <string name="btnClose">关闭</string>
+    <string name="btnReset">重置</string>
+    <string name="btnMore">更多</string>
+    <string name="btnUpdate">更新</string>
+       <string name="btnExit">退出</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">购买</string>
+    <string name="titleUpgrade">购买</string>
+    <string name="pleasePurchase">请购买！</string>
+    <string name="msgFeaturePurchase">请购买此功能！</string>
+    <string name="msgIAStartFail">您的设备不支持程序内购买</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">自动备份数据库到SD卡</string>
+    <string name="prefAutoBackupSummary">当你退出应用程序时，自动备份数据库到SD卡</string>
+    <string name="prefAutoBackupDropBoxTitle">自动备份数据库到DropboxDropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">当你退出应用程序时，自动备份数据库到的Dropbox™</string>
+    <string name="prefLinkDropBoxTitle">连接到Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">应用程序连接到Dropbox™</string>
+    <string name="prefUnlinkDropBoxTitle">断开Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">应用程序断开和Dropbox™的连接</string>
+    <string name="prefBackupTitle">备份数据库</string>
+    <string name="prefBackupSummary">备份数据库到SD卡或Google™</string>
+    <string name="prefEmailDbTitle">电邮数据库</string>
+    <string name="prefEmailDbSummary">电邮当前数据库</string>
+    <string name="prefAutoDeleteTitle">自动删除旧记录</string>
+    <string name="prefAutoDeleteSummary">退出时自动删除旧记录</string>
+    <string name="prefAutoDeleteDialog">选择保留期</string>
+    <string name="prefRestoreTitle">还原数据库</string>
+    <string name="prefRestoreSummary">从SD卡或Google™还原数据库</string>
+    <string name="prefDeleteAllTitle">删除全部数据</string>
+    <string name="prefDeleteAllSummary">从数据库中删除全部记录</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">语言</string>
+    <string name="lbLang">语言</string>
+	<string name="prefTitleDate">日期格式</string>
+	<string name="prefTitleTime">时间格式</string>
+    <string name="prefSummaryOnTime">使用24小时格式</string>
+    <string name="prefSummaryOffTime">使用上午/下午格式</string>
+	<string name="prefTranslatorTitle">翻译</string>
+    <string name="prefTranslatorSummary">如翻译有问题，请电邮我们</string>	
+ 	<string name="prefRegisterTitle">注册</string>
+ 	<string name="prefSupportTitle">支援</string>
+    <string name="prefSupportSummary">提交错误或建议</string>
+    <string name="menuLog">日志</string>
+    <string name="prefLogTitle">修改日志</string>
+	<string name="appInfo">程式資料</string>
+	<string name="poweredBy">搭载</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - 数据库</string>
+    <string name="msgRestoreSdConfirm">选择备份文件并确保备份文件是最新的。</string>
+    <string name="msgNoBackupDatabase">没有找到备份的数据库文件。</string>
+    <string name="dbBackupSucessMsg">数据成功保存到%s</string>
+    <string name="dbBackupFailMsg">数据备份失败%s</string>
+    <string name="dbRestoreSucessMsg">数据库恢复成功</string>
+    <string name="dbRestoreFailMsg">数据库恢复失败</string>
+    <string name="dbDeleteAllSucessMsg">数据库删除成功</string>
+    <string name="dbDeleteAllFailMsg">数据库删除失败</string>
+    <string name="dbDeleteAllAlertTitle">删除全部数据</string>
+    <string name="dbDeleteAllAlertMsg">所有保存的数据条目将从数据库中移除，你确定这样做？ </string>
+    <string name="dbNoDatabaseMsg">数据库还未创建</string>
+    <string name="msgBackuping">备份中...</string>
+    <string name="msgRestoring">恢复中...</string>    
+    <string name="msgGenratingPDF">制作中...</string>
+    <string name="msgLoading">载入中...</string>
+    <string name="msgRestoreDropboxUnlink">恢复数据之前，请链接的Dropbox™。</string>
+    <string name="msgBackupDropboxUnlink">备份数据之前，请链接的Dropbox™。</string>
+    <string name="msgAutoBackupDropboxUnlink">启用自动备份之前，请链接的Dropbox™。</string>
+    <string name="msgUnlinkDropbox">断开的Dropbox™链接</string>
+    <string name="msgLinkDropbox">链接的Dropbox™
+	进入下一个画面设置的Dropbox™链接\ N \ N
+	你可以打开自动备份数据库到Dropbox™\ N \ N
+	您需要有Dropbox™?帐户，并安装的Dropbox™的应用程序\ N \?
+	欲了解更多信息，请访问www.dropbox.com
+	</string>
+    <string name="msgBackupDBSuccess">备份数据库到Dropbox™成功。</string>
+    <string name="msgBackupDBFail">备份数据库到的Dropbox™失败。</string>
+    <string name="msgRestoreConfirm">请确保备份文件是最新的。否则，你可能会失去储存设备上的新数据。 </string>
+    <string name="msgLinkDropboxFail">链接的Dropbox™失败。</string>
+    <string name="dbBackupChoose">备份数据库文件？</string>
+    <string name="dbBackupChooseM">备份数据库文件到：</string>
+    <string name="dbRestoreChoose">恢复数据库文件在哪里？</string>
+    <string name="dbRestoreChooseM">恢复数据库文件:</string>
+    <string name="msgFileNotFound">文件找不到</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">请确定网路连接！</string>
+    <string name="turnOnWifi">请打开WIFI！</string>  
+    <string name="empty">没数据</string>
+    <string name="emptyChoose">至少选择一项</string>
+    <string name="emptyCustomer">先选择顾客</string>
+    <string name="errorEmpty">不能为空</string>
+    <string name="errorZero">不能为0</string>
+    <string name="errorEmptyAndZero">不能为空&amp;0</string>
+    <string name="errorKey">无效许可证密钥</string>  
+    <string name="emailChooser">发送电邮:</string>
+    <string name="msgNoPdfReader">找不到PDF阅读器，安装PDF阅读器，然后再试一次。</string>
+    <string name="errorNumber">更改数量不能大于当前数量</string>
+    <string name="errorChoosePeriod">开始日期大过结束日期</string>
+    <string name="confirmExit">您确认要退出吗？</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">请输入以下资料，登记後可正式使用。</string>
+    <string name="licenseRegisteredMsg">你已登记以下资料。</string>
+    <string name="lbActivationKey">启动码</string>
+    <string name="customerName">姓名</string>
+    <string name="lbTel">电话</string>
+    <string name="lbWebsite">网址</string>
+    <string name="lbEmail">邮箱</string>
+    <string name="errorEmailFormat">邮箱格式错误!</string>
+
+    <!-- server error -->
+    <string name="errorServer">服务器错误! 错误码：502</string>
+    <string name="errorServerExcetpion">服务器错误! 错误码：501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">评分%s</string>
+    <string name="appRateMessage">如果你喜欢用%s的，请花点时间来评价它。感谢您的支持！</string>
+    <string name="appRatePositive">评分</string>
+    <string name="appRateNeutral">提醒</string>
+    <string name="appRateNegative">不评</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD卡</string>
+    <string name="menuSdcard"> SD卡</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">代码</string>
+    <string name="lbCurrencySign">符号</string>
+    <string name="lbCurrencyDesc">说明</string>
+    <string name="titleCurrency">货币</string>
+    <string name="titleCurrencyUpdate">更新货币</string>
+    <string name="titleCurrencyAdd">新增货币</string>   
+
+    <!-- week -->
+    <string name="sunday">星期日</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">一月</string>
+    <string name="feb">二月</string>
+    <string name="mar">三月</string>
+    <string name="apr">四月</string>
+    <string name="may">五月</string>
+    <string name="jun">六月</string>
+    <string name="jul">七月</string>
+    <string name="aug">八月</string>
+    <string name="sep">九月</string>
+    <string name="oct">十月</string>
+    <string name="nov">十一月</string>
+    <string name="dec">十二月</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">星期日</string>
+    <string name="mon">星期一</string>
+    <string name="tue">星期二</string>
+    <string name="wed">星期三</string>
+    <string name="thu">星期四</string>
+    <string name="fri">星期五</string>
+    <string name="sat">星期六</string> 
+
+</resources>

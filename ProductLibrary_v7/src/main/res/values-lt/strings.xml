@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Atgal</string>
+	<string name="next_button_label">Kitas</string>
+	<string name="skip_button_label">Praleisti</string>
+	<string name="titleData">Duomenų bazė</string>
+	<string name="titleSetting">Nustatymai</string>
+	<string name="dlgTitleDate">Pasirinkti datą</string>
+	<string name="dlgTitleTime">Pasirinkti laiką</string>
+	<string name="dlgTitleDatePeriod">Pasirinkti datos laikotarpį</string>
+	<string name="lbTo">Į/iki</string>
+	<string name="titleLicenseExpire">%s be licenzijos, prašome nusipirkti.</string>
+	<string name="titleLicenseAppError">Pirkimo klaida: %s.</string>
+	<string name="titleScalePaired">Sujungti įrenginiai</string>
+	<string name="titleScaleAvailable">Galimi įrenginiai</string>
+	<string name="titleScaleSearching">Ieškoti...</string>
+	<string name="titleScaleSearchFinished">Ieškojimo pabaiga</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Patvirtinti</string>
+	<string name="btnCancel">Atšaukti</string>
+	<string name="btnOk">Gerai</string>
+	<string name="btnClear">Ištrinti</string>
+	<string name="btnRate">Įvertinimas</string>
+	<string name="btnEmail">El. Paštas</string>
+	<string name="btnDelete">Ištrinti</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+	<string name="btnSave">Išsaugoti</string>
+	<string name="btnFind">Surasti</string>
+	<string name="btnGetWeight">Pasverti</string>
+	<string name="btnBack">Atgal</string>
+	<string name="btnClose">Uždaryti</string>
+	<string name="btnReset">Perkrauti</string>
+	<string name="btnMore">Daugiau</string>
+	<string name="btnUpdate">Pridėti/Atnaujinti</string>
+	<string name="btnExit">Išeiti</string>
+    <string name="btnYes">Taip</string>
+    <string name="btnNo">Ne</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Pirkti</string>
+    <string name="titleUpgrade">Pirkti</string>
+    <string name="pleasePurchase">Prašome nusipirkti!</string>
+	<string name="msgFeaturePurchase">Nusipirkite norėdami naudotis šita funkcija</string>
+    <string name="msgIAStartFail">Jūsų irenginys nepalaiko pirkimo funkcijos</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Automatinis išsaugojimas DB į SD kortelę</string>
+	<string name="prefAutoBackupSummary">Automatinis išsaugojimas duomenų bazės į SD kortelę prieš uždarant aplikaciją </string>
+	<string name="prefAutoBackupDropBoxTitle">Automatinis išsaugojimas DB į Dropbox™</string>
+	<string name="prefAutoBackupDropBoxSummary">Automatinis išsaugojimas duomenų bazės į Dropbox™ prieš uždarant aplikaciją</string>
+	<string name="prefLinkDropBoxTitle">Jungti su Dropbox™</string>
+	<string name="prefLinkDropBoxSummary">Jungti aplikaciją su Dropbox™ paskyra</string>
+	<string name="prefUnlinkDropBoxTitle">Atjugnti Dropbox™</string>
+	<string name="prefUnlinkDropBoxSummary">Atjungti Dropbox™ nuo paskyros</string>
+	<string name="prefBackupTitle">Išsaugoti duomenų bazę</string>
+	<string name="prefBackupSummary">Išsaugoti duomenų į SD kortelę arba Google™ Drive</string>
+	<string name="prefEmailDbTitle">El. pašto duomenų bazė</string>
+	<string name="prefEmailDbSummary">Siusti paštu duomenų bazę</string>
+	<string name="prefAutoDeleteTitle">Automatiškai ištrinti senas trankzacijas </string>
+	<string name="prefAutoDeleteSummary">Automatiškai ištrinti senas tranzakcijas uždarant aplikaciją</string>
+	<string name="prefAutoDeleteDialog">Pasirinkite laikymo periodą</string>
+	<string name="prefRestoreTitle">Naudoti seną duomenų bazę</string>
+	<string name="prefRestoreSummary">Naudoti seną duomenų bazę iš SD Card arba Google™ Drive</string>
+	<string name="prefDeleteAllTitle">Ištrinti visus įrašus</string>
+	<string name="prefDeleteAllSummary">Ištrinti visus įrašus iš duomenų bazės</string>
+
+    <!-- setting -->
+	<string name="prefLangTitle">Kalbos</string>
+	<string name="lbLang">Kalba</string>
+	<string name="prefTitleDate">Datos formatas</string>
+	<string name="prefTitleTime">Laiko formatas</string>
+	<string name="prefSummaryOnTime">Naudoti 24 h formatą</string>
+	<string name="prefSummaryOffTime">Naudoti AM/PM formatą</string>
+	<string name="prefTranslatorTitle">Vertėjai</string>
+	<string name="prefTranslatorSummary">Not your language, email to help us</string>
+	<string name="prefRegisterTitle">Registruoti</string>
+	<string name="prefSupportTitle">Paremti</string>
+	<string name="prefSupportSummary">Pranešti apie nesklandumus</string>
+    <string name="menuLog">Log</string>
+	<string name="prefLogTitle">Pakeisti Log</string>
+	<string name="appInfo">Aplikacijos info</string>
+	<string name="poweredBy">Sukurta </string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+	<string name="emailSubjectDatabase">%s - Duomenų bazė</string>
+	<string name="msgRestoreSdConfirm">Pasirinkite viena iš failų norėdami atstatyti atmintį.</string>
+	<string name="msgNoBackupDatabase">Negali rasti jokių atstaymo failų.</string>
+	<string name="dbBackupSucessMsg">Duomenų bazė sėkmingai išsaugota %s</string>
+	<string name="dbBackupFailMsg">Duomenų bazės klaida išsaugota į %s</string>
+	<string name="dbRestoreSucessMsg">Sėkmingai atkurta</string>
+	<string name="dbRestoreFailMsg">Klaida</string>
+	<string name="dbDeleteAllSucessMsg">Sėkmingai ištrinta</string>
+	<string name="dbDeleteAllFailMsg">Nepavyko ištrinti</string>
+	<string name="dbDeleteAllAlertTitle">Ištrinti visas duomenų bazes</string>
+	<string name="dbDeleteAllAlertMsg">Visi įvest įvedimai bus pašalinti iš duomenų bazėss, Ar tikrai to norite? </string>
+	<string name="dbNoDatabaseMsg">Duomenų bazė dar nesukurta</string>
+	<string name="msgBackuping">Saugojama...</string>
+	<string name="msgRestoring">Prikeliama...</string>
+	<string name="msgGenratingPDF">Generuojamas PDF...</string>
+	<string name="msgLoading">Krauna...</string>
+	<string name="msgRestoreDropboxUnlink">Sujunkite su Dropbox™ prieš atstatymą</string>
+	<string name="msgBackupDropboxUnlink">Sujunkite su Dropbox™ prieš išsaugojimą</string>
+	<string name="msgAutoBackupDropboxUnlink">Sujunkite su Dropbox™ prieš aktyvuojant automatinį išsaugojimą</string>
+	<string name="msgUnlinkDropbox">Sujunkite su Dropbox™</string>
+    <string name="msgLinkDropbox">Link the app with Dropbox™.\n
+	    Please go to next screen to setup Dropbox™ link.\n
+		You need to have Dropbox™ account and install Dropbox™ app \n\n
+		You can turn on automatically/manually backup database to your Dropbox™\n 
+		For more information, please visit www.dropbox.com           
+		</string>
+    <string name="msgBackupDBSuccess">Sėkmingai išsaugota.</string>
+	<string name="msgBackupDBFail">Nepavyko išsaugoti.</string>
+	<string name="msgRestoreConfirm">Patikrinkite ar išsaugojate reikiamą informaciją kuri nesenai buvo užregistruota.</string>
+	<string name="msgLinkDropboxFail">Sujungimas su Dropbox™ nepavyko.</string>
+	<string name="dbBackupChoose">Kur išsaugoti?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+	<string name="dbRestoreChoose">Kur atkuri failus?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+	<string name="msgFileNotFound">Failas nerastas</string>
+
+    <!-- message -->
+	<string name="networkMsgChecking">Pasirūpinkite ,kad jūsų internetas prijungtas!</string>
+	<string name="turnOnWifi">Įjunkite WIFI!</string>
+	<string name="empty">Jokių įrašų</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Negali būti tusčia</string>
+    <string name="errorZero">Negali būti 0</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Blogas/Negaliojantis licenzijos raktas</string>
+	<string name="emailChooser">Siūsti el. paštą naudojant:</string>
+	<string name="msgNoPdfReader">Nepavyko surassti pdf reader, įrašykite pdf reader ir bandykite iš naujo.</string>
+	<string name="errorNumber">Kiekis negali būti didesnis už dabartinį</string>
+	<string name="errorChoosePeriod">Pradėjimo data yra didesnė nei pabaigos </string>
+	<string name="confirmExit">Norite išeiti?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Suveskite reikiamus duomenis, norėdami užregistruoti licenziją.</string>
+	<string name="licenseRegisteredMsg">Tokia pat informacija buvo užregistruota anksčiau.</string>
+	<string name="lbActivationKey">Raktas</string>
+	<string name="customerName">Vardas</string>
+	<string name="lbTel">Tel</string>
+	<string name="lbWebsite">Puslapis</string>
+	<string name="lbEmail">Paštas</string>
+	<string name="errorEmailFormat">El. pašto formativimo klaida!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Serverio Klaida! Error Code 502.</string>
+    <string name="errorServerExcetpion">Serverio Klaida! Error Code 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Pagalba/Paremkite</string>
+	<string name="lbUserVoice">Naudotojo balsas</string>
+	<string name="lbSkype">Skype</string>
+	<string name="lbTeamView">Team View</string>
+	<string name="lbEmailDatabase">Siūsti Duomenų bazės failą</string>
+	<string name="lbEamilLog">Siūsti Log Failą</string>
+	<string name="lbEmailImage">Siūsti nuotrauką</string>
+	<string name="not_app_store">Įsirašykite App store</string>
+	<string name="lbUserVoiceSummary">Paprašyti naujovių aplikacijoje </string>
+	<string name="lbSkypeSummary">Komunikuokite su mumis: androidapphk</string>
+	<string name="lbTeamViewSummary">Nuotoliniu būdu žiūrekite aplikaciją</string>
+	<string name="lbEmailDatabaseSummary">Praneškite apie nesklandumus siūsdami duomenų bazę</string>
+	<string name="lbEamilLogSummary">Praneškite apie nesklandumus siūsdami log failą</string>
+	<string name="lbEmailImageSummary">Praneškite apie nesklandumus nufotografuodami darbalaukį</string>
+
+    <!-- app rate -->
+	<string name="appRateTitle">Įvertinimas%s c</string>
+	<string name="appRateMessage">Jeigu jum patiko %s, prašome įvertinti!</string>
+	<string name="appRatePositive">Įvertinkite tai !</string>
+	<string name="appRateNeutral">Priminkite vėliau</string>
+	<string name="appRateNegative">Ne ačiū</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Kortelė</string>
+    <string name="menuSdcard">SD Kortelė</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+	<string name="lbCurrencyCode">Kodas</string>
+	<string name="lbCurrencySign">Pasirašyti</string>
+	<string name="lbCurrencyDesc">Aprašymas</string>
+	<string name="titleCurrency">Valiuta</string>
+	<string name="titleCurrencyUpdate">Atnaujinti valiutą</string>
+	<string name="titleCurrencyAdd">Pridėti valiutą</string>
+
+    <!-- week -->
+	<string name="sunday">SEKMADIENIS</string>
+	<string name="monday">PIRMADIENIS</string>
+	<string name="tuesday">ANTRADIENIS</string>
+	<string name="wednesday">TREČIADIENIS</string>
+	<string name="thursday">KETVIRTADIENIS</string>
+	<string name="friday">PENKTADIENIS</string>
+	<string name="saturday">ŠEŠTADIENIS</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Sau</string>
+	<string name="feb">Vas</string>
+	<string name="mar">Kov</string>
+	<string name="apr">Bal</string>
+	<string name="may">Geg</string>
+	<string name="jun">Bir</string>
+	<string name="jul">Lie</string>
+	<string name="aug">Rug</string>
+	<string name="sep">Rug</string>
+	<string name="oct">Spa</string>
+	<string name="nov">Lap</string>
+	<string name="dec">Gru</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Sek</string>
+    <string name="mon">Pir</string>
+	<string name="tue">Ant</string>
+	<string name="wed">Treč</string>
+	<string name="thu">Ket</string>
+	<string name="fri">Pen</string>
+	<string name="sat">Šeš</string>
+
+</resources>

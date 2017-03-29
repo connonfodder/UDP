@@ -1,0 +1,38 @@
+Cara penggunaan?
+    Masuk dengan akun awal: manager/123456
+    Sebelum memulai pesanan,Kamu harus mengatur meja, kategori, Menu dan tambahan untuk pengaturan restaurant kamu.
+    Untuk pencetakan nota, kamu harus mengatur printer kamu di pengaturan. Pastikan pengaturannya tepat.
+    Sesudah pengaturan, Kamu dapat membuka meja, menerima pesanan, dan menerima pesanan dan mencetak di printer Bar/dapur.
+    Setelah mengirim pesanan, kamu dapat memeriksa pesanan dengan meng klik lama di meja, Tutup pesanan dan mencetak nota.
+
+Meja
+    Meja makan berwarna
+        masuk ke meja di pengaturan.
+    Meja bebas
+        Masuk ke meja melalui meja.
+    Masuk ke Menu, Untuk laporan, pengaturan, database.
+
+Pemesanan
+
+    Klik nama menu pesanan untuk mengubah harga, menambahkan catatan dan menahan.
+    Klik "Yakin" untuk memesan menu.
+    Klik "+" untuk menambah pesanan.
+    Klik "-" untuk mengurangi pesanan.
+    Klik "Lingkaran Merah" untuk menambahkan tambahan.
+
+Dipesan
+    Menampilkan Pesanan,Menu, Info pembayaran meja tertentu.
+    Klik menu pesanan untuk mencetak ulang, batal, pindah dan mengganti harga.
+    Klik "Pindah" Untuk memindah pesanan ke meja baru.
+    Klik "Pisah" untuk memisah nota ke beberapa berdasarkan jumlah atau menu.
+    Klik "Orang" untuk mengganti jumlah pengunjung.
+
+Pembayaran
+    Memperlihatkan total, diskon, tip, pajak, total, pembayaran dan kembalian.
+    Klik "Cetak" untuk mencetak nota.
+    Klik "Laci" untuk membuka laci kasir.
+    Klik "Pelanggan" untuk menambahkan pelanggan ke pesanan.
+    Klik "Email" untuk mengirim lewat email nota.
+    Klik "Catatan" untuk menambahkan catatan pesanan.
+    Klik "Pas" Untuk jumlah pembayaran sama dengan tagihan.
+

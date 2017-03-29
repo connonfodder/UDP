@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ad_grid_size">48.0dip</dimen>
+    <dimen name="payment_type_width">152dip</dimen>
+    <dimen name="login_user_type_width">152dip</dimen>
+    <dimen name="login_text_size">28sp</dimen>
+    <dimen name="login_num_text_size">28sp</dimen>
+    <dimen name="login_password_text_size">40sp</dimen>
+    <dimen name="login_password_height">48sp</dimen>
+    
+    <dimen name="table_grid_column_width">252dp</dimen>
+    <dimen name="table_name_text_size">24dp</dimen>
+    <dimen name="table_status_text_size">16dp</dimen>
+    <dimen name="item_grid_column_width">228dp</dimen>
+    <dimen name="orders_category_grid_column_width">152dp</dimen>
+    <dimen name="item_name_text_size">24dp</dimen>
+    <dimen name="item_price_text_size">20dp</dimen>
+    <dimen name="button_height">48dip</dimen>
+    <dimen name="button_text_size">20dp</dimen>
+    
+    <dimen name="popwindown_width">300dp</dimen>
+    <dimen name="popwindow_item_text_size">16sp</dimen>
+</resources>

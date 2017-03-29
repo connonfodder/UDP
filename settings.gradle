@@ -1,0 +1,1 @@
+include ':app', ':google-play-services', ':ProductLibrary_v7', ':LicenseLibraryJar_v3.1'

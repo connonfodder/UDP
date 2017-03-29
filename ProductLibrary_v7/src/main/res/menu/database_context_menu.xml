@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_sdcard"
+        android:title="@string/menuSdcard"/>
+    <item
+        android:id="@+id/menu_dropbox"
+        android:title="@string/menuDropbox"/>
+
+</menu>

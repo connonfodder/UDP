@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#ff31343b</color>
+    <color name="theme_accent">#4CAF50</color>
+    <color name="theme_primary_dark">#ff31343b</color>
+    
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="gray">#DDDDDD</color>
+    <color name="white_thirty">#42ffffff</color>
+    <color name="titleStartColor">#ff31343b</color>
+    <color name="titleEndColor">#ff31343b</color>
+    <color name="txtDialogTitle">#fff7b137</color>
+    <color name="white_second">#1A000000</color>
+    <color name="grey">#a0a0a0</color>
+    <color name="grey_light">#dcdcdc</color>
+   	<color name="red">#ffe51c23</color>
+   	<color name="red_second">#ffb0120a</color>
+   	<color name="bg_red">#FF0000</color>
+   	<color name="bg_light_red">#FFE4E4</color>
+    <color name="green">#ff259b24</color>
+    <color name="green_second">#ff0d5302</color>
+    <color name="orange">#ffff9800</color>   
+    <color name="orange_second">#ffe65100</color> 
+    <color name="blue">#ff5677fc</color>   
+    <color name="blue_second">#ff2a36b1</color> 
+     <color name="item_pressed">#50000000</color>
+     <color name="background_material">#ffeeeeee</color>
+     <drawable name="bg_dialog">#ffdedede</drawable>
+     <color name="menuLayout">#ff31343b</color>
+    <!-- Kitchen color -->
+    <color name="after30min_red">#ffc72825</color>
+    <color name="after15min_green">#ff518729</color>
+    <color name="after0min_yellow">#fff7b137</color>
+    <color name="after0min_blue">#ff1AA1E1</color>
+    
+    <color name="divider">#B6B6B6</color>
+    <color name="divider_dark">#FF000000</color>
+    
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    
+    <drawable name="divider_list">#66000000</drawable>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+</resources>

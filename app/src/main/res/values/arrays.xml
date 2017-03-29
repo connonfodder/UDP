@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="lang">
+        <item>@string/en</item>
+        <item>@string/tw</item>
+        <item>@string/cn</item>
+        <item>@string/de</item>
+        <item>@string/es</item>
+        <item>@string/fr</item>
+        <item>@string/it</item>
+        <item>@string/nl</item>
+        <item>@string/el</item>
+        <item>@string/pt_BR</item>
+        <item>@string/hu</item>
+        <item>@string/ru</item>
+        <item>@string/in</item>
+        <item>@string/da</item>
+        <item>@string/fi</item>
+        <item>@string/sv</item>
+        <item>@string/nb</item>
+        <item>@string/ja</item>
+        <item>@string/ko</item>
+        <item>@string/th</item>
+        <item>@string/tr</item>
+        <item>@string/cs</item>
+    </string-array>
+    <string-array name="langValue">
+        <item>0</item>
+        <item>1</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+        <item>7</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>11</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+    <string-array name="itemFontSize">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+    </string-array>
+    <string-array name="supportList">
+	    <item>@string/lbUserVoice</item>
+	    <item>@string/lbSkype</item>
+	    <item>@string/lbTeamView</item>
+	    <item>@string/lbEamilLog</item>
+	    <item>@string/lbEmailImage</item>
+	</string-array>
+</resources>

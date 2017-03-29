@@ -1,0 +1,113 @@
+<b>Restaurant PDV - Point De Vente</b> est une application complète et facile à utiliser, spécialement pour les restaurants, bars et cafés, etc. Restaurant PDV est compatible avec vos imprimantes compatibles et tiroirs-caisse, ce qui vous fait gagner du temps et épargner de l'argent. <br><br>
+
+<b>C'est une application  PDV autonome sans serveur, toutes les données sont sauvées dans l'appareil, frais d'achat unique, mises à jour illimitées.</b>
+
+<b>Merci de mettre à jour / d'acheter les fonctions avancées pour nous encourager dans le développement.</b>
+
+<b>Commande</b>
+• Ouvrir/clôturer une table
+• Annuler/transférer/scinder une commande
+• Sorties/Ordre des repas
+• Attente/cuisiner les plats dans l'ordre
+• transférer les articles de la commande
+
+<b>Paiement</b>
+• Scinder la facture
+• Pourboires/Charges
+
+<b>Menu</b>
+• Créer/modifier/effacer  tables, catégories, articles et modifications
+• Importer/exporter/ l'ordre des tables, les catégories, les articles et modifications
+• 2 taux de taxe sur les articles
+• Inclure/Exclure la taxe sur le prix des articles
+• Imprimante cuisine/bar pour les articles
+• Liste des prix pour les articles
+• Partager les menus avec différents appareils avec Dropbox™ ou Google Drive™
+
+<b>Imprimantes</b>(Guide de configuration pour les imprimantes http://www.androidappshk.com/app/printer_setup_guide.pdf)
+• Supporte la plupart des imprimantes thermiques avec les commandes ESC/POS  avec communication par WiFi, LAN et USB
+• Supporte tout type d'imprimante avec un adaptateur WnO POS
+  (Télécharger la liste des adaptateurs WnO POS  sur http://www.androidappshk.com/app/wno-printer-adapter.zip ou https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+• Tiroir-caisse (RJ12)  
+
+<b>Modèles d'imprimantes testées (WIFI/LAN)</b>
+• EPSON TachatM-T88IV
+• EPSON TM-U220
+• STAR TSP743
+• CITIZEN CT-S651
+• Xprinter
+• GPrinter
+• OCOM
+• Rongta 
+
+<b>Factures</b>
+• Logo de la compagnie, nom, adresse et N° de téléphone
+• Nom du client, adresse et N° de téléphone
+• Articles commandés
+• Montant total, argent à rendre
+• Numéro Taxe
+• Note de facture
+• Taxes comprises/non comprises
+• Remise
+• Pourboires/Frais de service
+• Guide pour les pourboires
+• Message de pied de page 
+
+<b>Clients</b>
+• Montrer les informations du client pour la facturation
+• Créer un client à partir de la liste des contacts
+• Envoyer la facture au client par Email
+
+<b>Rapport</b>
+• Rapport des commandes
+• Rapport des commandes annulées
+• Rapport de transfert des commandes
+• Rapport des articles
+• Modifier les rapports
+• Rapport des montants des catégories
+• Rapport de qualité des catégories
+• Rapport des paiements
+
+<b>Personnel autorisé</b>
+• Ouverture de session Gérant/Serveur
+• Désactiver l'accès aux rapports pour le serveur
+• Désactiver l'accès aux remises pour le serveur
+• Désactiver l'accès aux charges de service pour le serveur
+• Désactiver l'annulation d'une commande
+• Désactiver l'ouverture manuelle du tiroir-caisse
+
+<b>Configuration</b>
+• Accepte votre devise locale
+• Accepte le report d'une commande au lendemain
+• Configuration du nombre de décimales
+• Accepte deux taux de  taxes
+
+<b>Base de données</b>
+• Sauvegarde automatique de la base de données vers la carte SD, ou vers Dropbox™ en quittant l'application
+• Sauvegarde manuelle de la base de données vers la carte SD ou vers Dropbox™
+• Restauration de la base de données depuis la carte SD ou depuis Dropbox™ 
+• Restauration de la base de données de démonstration
+• Supprimer les donnés pour ré-introduire facilement les tables, les menus et les clients
+• Base de données pour les Email
+
+<b>Langues disponibles (bientôt de nouvelles)</b>
+• English
+• 中文
+• Español (Manuel Iraizos)
+• Deutsch (SK.Aldein)
+• Italiano (Massimiliano)
+• Ελληνικά (next.com)
+
+<b>Autorisations</b>
+• INTERNET : Dropbox Backup
+• FACTURATION : In-app Billing
+• ACCÈS RESEAU : Google Tracking
+• ACCÈS WIFI : Google Tracking
+• LECTURE DES CONTACTS: Ajouter des clients à partir des contacts
+• ÉCRITURE SUR SUPPORT EXTÉRIEUR : Sauvegarde et restauration à partir de la carte SD
+
+※ Pour une utilisation avec plusieurs appareils pour prendre des commandes simultanées (client, serveur), veuillez vous référer à https://market.android.com/details?id=com.aadhk.wnopos
+※ Si vous aimez l'application, merci de nous donner une bonne évaluation, ce qui nous encouragera à poursuivre le développement.
+※ Si vous avez ses suggestions, des commentaires ou des questions, envoyez-nous directement un Email. Pour Google Play, laissez juste votre évaluation et vos commentaires, encore merci.
+
+Utilisation : point de vente restauration - Point de ventes commandes, système pour la restauration,bars, cafés, point de vent mobile, point de vente sans fil, point de vente par téléphone, caisse enregistreuse ou autres applications de point de ventes.

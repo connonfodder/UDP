@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP Διεύθυνση λάθος format!</string>
+    <string name="hintSameNetWork">Όχι στο ίδιο δίκτυο!</string>
+    <string name="serverNotFound">Δεν μπορείτε να βρείτε W&amp;O POS server.</string>
+    <string name="lbVoid">Ακύρωση</string>
+
+</resources>

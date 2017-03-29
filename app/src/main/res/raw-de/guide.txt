@@ -1,0 +1,38 @@
+Wie verwenden?
+    Mit Standard-Konto anmelden: manager/123456
+    Bevor Bestellungen gemacht werden können, müssen die Tische, Kategorien. Artikel und Extras in den Einstellungen konfiguriert weden.
+    Für den Empfang der gedruckten Zettel, muss ein Drucker in den Einstellungen konfiguriert werden.
+    Anschließend können die einzelnen Tische geöffnet werden und Bestellungen gemacht werden.
+    Nachdem Bestellungen gesendet worden sind können die einzelnen Tische per Long-Click überprüft, Bestellungen gedruckt und geschlossen werden.
+
+Tische
+    Esstisch in Farbe
+        Tisch anklicken um Nenu anzuzeigen.
+    Tisch leeren
+        Tisch anklicken um diesen zu öffnen.
+    "Gerät"-button im Menu anklicken, um die Einstellungen, Berichte oder die Datenbank zu öffnen.
+
+Bestellen
+
+    Artikel name anklicken, um den Preis zu ändern oder Bemerkungen hinzuzufügen.
+    "Bestätigen" anklicken, um die Artikel zu bestätigen.
+    "+" anklicken, um Artikel hinzuzufügen.
+    "-" anklicken, um Artikel zu löschen.
+    Das grüne Feld anklicken, um Extras hinzuzufügen.
+
+Bestellt
+    Zeigt Bestellungen. Artikel. Zahlungsinformationen des entsprechenden Tisches.
+    Bestellungssymbol anklicken, um erneut zu Drucken, Bestellung zu leeren, Bestellung zu verschieben oder Preis zu ändern.
+    "Verschieben"-Button anklicken, um die Bestellung zu einem anderen Tisch zu verschieben.
+    "Split"-Button anklicken, um den geschuldeten Gesamtbetrag eins Tisches in verschiedene Rechnungen zu teilen.
+    "Personen"-Button anklicken, um Anzahl der Personen zu verändern.
+
+Bezahlung
+    Zeigt, Zwischensumme, Rabatt, Trinkgeld, Steuern, Gesamtbetrag und den bereits bezahlten Betrag an.
+    "Drucken"-Button anklicken, um erneut zu Drucken.
+    "Bezieher"-Button anklicken, um Geld-Bezieher zu öffnen.
+    "Kunde"-Button anklicken, um der Bestellung neue Kunde hinzuzufügen.
+    "Mail"-Button anklicken, um Mail zu senden.
+    "Notiz"-Button anklicken, um Notizen hinzuzufügen.
+    "Genau"-Button anklicken, um den bezahlten Betrag und den geschuldeten gleichzusetzen.
+

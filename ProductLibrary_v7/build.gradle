@@ -1,0 +1,24 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.0'
+
+    buildTypes {
+        debug {
+            buildConfigField 'String', 'LICENSE_SERVER', '"http://192.168.1.200:8080/aadhkUtil/"'
+        }
+
+        release {
+            buildConfigField 'String', 'LICENSE_SERVER', '"http://54.174.39.17:8080/aadhkUtil/"'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.0.0'
+    compile 'com.google.android.gms:play-services-base:9.2.1'
+    compile 'com.google.android.gms:play-services-drive:9.2.1'
+//    compile 'com.google.code.gson:gson:2.8.0'
+}

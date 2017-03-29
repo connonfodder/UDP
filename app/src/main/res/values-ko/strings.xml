@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP 주소 형식 오류!</string>
+    <string name="hintSameNetWork">되지 동일한 네트워크에!</string>
+    <string name="serverNotFound">​​W&amp;찾을 수 없습니다. O POS 서버를.</string>
+    <string name="lbVoid">무효</string>
+
+</resources>

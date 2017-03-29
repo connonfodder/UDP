@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Database</string>
+    <string name="titleSetting">Instillinger</string>
+    <string name="dlgTitleDate">Velg dato</string>
+    <string name="dlgTitleTime">Velg tid</string>
+    <string name="dlgTitleDatePeriod">Velg datointervall</string>
+    <string name="lbTo">Til</string>
+    <string name="titleLicenseExpire">%s er ikke lisensert, gå til Google Play for å kjøpe.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Bekreft</string>
+    <string name="btnCancel">Avbryt</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Rensk</string>
+    <string name="btnRate">Sats</string>
+    <string name="btnEmail">Epost</string>
+    <string name="btnDelete">Slett</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Lagre</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Tilbake</string>
+    <string name="btnClose">Lukke</string>
+    <string name="btnReset">Redefinir</string>
+    <string name="btnMore">More</string>
+    <string name="btnUpdate">Oppdater</string>
+    <string name="btnExit">Utgang</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Kjøp</string>
+    <string name="titleUpgrade">Kjøp</string>
+    <string name="pleasePurchase">Please purchase!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">In-app kjøp er ikke supportert av din enhet</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Auto Backup DB til SD Kort</string>
+    <string name="prefAutoBackupSummary">Auto backup database til SD kort før avsluttning</string>
+    <string name="prefAutoBackupDropBoxTitle">Auto Backup DB til Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Auto backup database til Dropbox™ før avsluttning</string>
+    <string name="prefLinkDropBoxTitle">Link med Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Link app`en med din Dropbox™ konto</string>
+    <string name="prefUnlinkDropBoxTitle">Unlink med Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Unlink app`en med Dropbox™ kontoen</string>
+    <string name="prefBackupTitle">Backup Database</string>
+    <string name="prefBackupSummary">Backup database til SD Kort eller Google™ Drive</string>
+    <string name="prefEmailDbTitle">Email Database</string>
+    <string name="prefEmailDbSummary">Email gjeldende database</string>
+    <string name="prefAutoDeleteTitle">Auto Slett Gamle Transaksjoner</string>
+    <string name="prefAutoDeleteSummary">Auto slett gamle transaksjoner ved avsluttning</string>
+    <string name="prefAutoDeleteDialog">Velg beholde periode</string>
+    <string name="prefRestoreTitle">Gjenopprett Database</string>
+    <string name="prefRestoreSummary">Gjenopprett database fra SD Kort eller Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Slett Alle Oppføringer</string>
+    <string name="prefDeleteAllSummary">Slett alle oppføringer fra database</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Språk</string>
+    <string name="lbLang">Språk</string>
+    <string name="prefTitleDate">Dato Format</string>
+    <string name="prefTitleTime">Time Format</string>
+    <string name="prefSummaryOnTime">Bruk 24 timer format</string>
+    <string name="prefSummaryOffTime">Bruk AM/PM format</string>
+    <string name="prefTranslatorTitle">Oversettere</string>
+    <string name="prefTranslatorSummary">Ikke ditt språk, epost oss for å hjelpe</string>
+    <string name="prefRegisterTitle">Registrerr</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Logg</string>
+    <string name="prefLogTitle">Endrongs Logg</string>
+    <string name="appInfo">App info</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Database</string>
+    <string name="msgRestoreSdConfirm">Velg en av backup filene. Vær sikker på at det er den siste.</string>
+    <string name="msgNoBackupDatabase">Fant ikke backup database filen.</string>
+    <string name="dbBackupSucessMsg">Database er vellykket lagret til %s</string>
+    <string name="dbBackupFailMsg">Database backup feilet til %s</string>
+    <string name="dbRestoreSucessMsg">Gjenoppretting av database vellykket</string>
+    <string name="dbRestoreFailMsg">Gjenoppretting av database feilet</string>
+    <string name="dbDeleteAllSucessMsg">Database er vellykket slettet</string>
+    <string name="dbDeleteAllFailMsg">Database sletting feilet</string>
+    <string name="dbDeleteAllAlertTitle">Database slette alt</string>
+    <string name="dbDeleteAllAlertMsg">Alle lagrede data vil  bli fjernet fra databasen. Er du sikker på at du vil gjøre dette? </string>
+    <string name="dbNoDatabaseMsg">Database er ikke opprettet ennå</string>
+    <string name="msgBackuping">Tar Backup...</string>
+    <string name="msgRestoring">Gjenoppretter...</string>
+    <string name="msgGenratingPDF">Lager PDF...</string>
+    <string name="msgLoading">Laster...</string>
+    <string name="msgRestoreDropboxUnlink">Venligst link app`en til Dropbox™ før gjenoppretting</string>
+    <string name="msgBackupDropboxUnlink">Venligst link app`en til Dropbox™ før backup</string>
+    <string name="msgAutoBackupDropboxUnlink">Venligst link app`en til Dropbox™ før du aktiverer auto backup</string>
+    <string name="msgUnlinkDropbox">Appen er unlinket med Dropbox™</string>
+    <string name="msgLinkDropbox">Link app`en med Dropbox™.\n
+	    Venligst gå til neste skjermbilde for å sette opp Dropbox™ link.\n
+		Du trenger en Dropbox™ konto og installer Dropbox™ app`en \n\n
+		Du kan skru på automatisk/manuell backup av database til din Dropbox™\n 
+		For mer informasjon, venligst besøk www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Backup av database vellykket.</string>
+    <string name="msgBackupDBFail">Backup av database feilet.</string>
+    <string name="msgRestoreConfirm">Vær sikker på at backup filen er den siste. Ellers kan du miste de siste lagrede dataene.</string>
+    <string name="msgLinkDropboxFail">Link med Dropbox™ feilet.</string>
+    <string name="dbBackupChoose">Hvor vil du plassere backup filen?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Hvor vil du hente gjenopprettingsfilen fra?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Filen ikke funnet på</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Sørg for at du er koblet til internet!</string>
+    <string name="turnOnWifi">Skru på WIFI!</string>
+    <string name="empty">Ingen Oppføringer</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Kan ikke være tom</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Feil lisensnøkkel</string>
+    <string name="emailChooser">Send Epost Bruke:</string>
+    <string name="msgNoPdfReader">Kan ikke finne pdf-leser, installere pdf-leser og prøv igjen.</string>
+    <string name="errorNumber">Mengden kan ikke større enn dagens kvantitet.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">Want to exit?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Please enter following information to register your license.</string>
+    <string name="licenseRegisteredMsg">You had registered with the following information.</string>
+    <string name="lbActivationKey">Key</string>
+    <string name="customerName">Name</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Email format error!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Server error! Error Code 502.</string>
+    <string name="errorServerExcetpion">Server error! Error Code 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Sats %s</string>
+    <string name="appRateMessage">Hvis du liker %s, vær snill og gi oss en tilbakemelding. Takk for din støtte!</string>
+    <string name="appRatePositive">Gi karakter!</string>
+    <string name="appRateNeutral">Påminn meg senere</string>
+    <string name="appRateNegative">Nei takk</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Kort</string>
+    <string name="menuSdcard">SD Kort</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Kode</string>
+    <string name="lbCurrencySign">Signer</string>
+    <string name="lbCurrencyDesc">Forklaring</string>
+    <string name="titleCurrency">Valuta</string>
+    <string name="titleCurrencyUpdate">Oppdater Valuta</string>
+    <string name="titleCurrencyAdd">Legg til valuta</string>
+
+    <!-- week -->
+    <string name="sunday">SŘNDAG</string>
+    <string name="monday">MANDAG</string>
+    <string name="tuesday">TIRSDAG</string>
+    <string name="wednesday">ONSDAG</string>
+    <string name="thursday">TORSDAG</string>
+    <string name="friday">FREDAG</string>
+    <string name="saturday">LŘRDAG</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">Mai</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Okt</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Des</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Sřn</string>
+    <string name="mon">Man</string>
+    <string name="tue">Tir</string>
+    <string name="wed">Ons</string>
+    <string name="thu">Tor</string>
+    <string name="fri">Fre</string>
+    <string name="sat">Lřr</string>	
+
+</resources>

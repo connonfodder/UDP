@@ -1,0 +1,113 @@
+<b>Restaurant POS - Point of Sale</b> egy könnyen kezelhető, kifejezetten étermeknek, bároknak és kávézóknak készült alkalmazás. Segítségével komplett POS rendszerré alakíthatod meglévő eszközeid, például a meglévő nyomtatód és kasszád, amivel időt és pénzt takaríthatsz meg. <br><br>
+
+<b>Ez az alkalmazás szerver nélküli, minden adatot az eszközön tárol, egyszeri költségért, korlátlan frissítéssel</b>
+
+<b>Kérlek frissíts és vásárold meg az alkalmazást, hogy támogatni tudd folyamatos fejlődésünket.</b>
+
+<b>Rendelés</b>
+• Asztal nyitás/zárás
+• Rendelés törlés/átvitel/felosztás
+• Elvitelre is érkezhetnek renelések
+• Pincér/szakács rendelési tételek
+• Átvihető rendelések
+
+<b>Fizetés</b>
+• Számla felosztása
+• Borravaló/szervíz költségek
+
+<b>Menü</b>
+• Létrehozhatsz/Törölhetsz/Módosíthatsz asztaloakt, kategóriákat, tételeket és módosítókat
+• Importálhatsz/Exportálhatsz asztalokat, kategóriákat, tételeket és módosítókat
+• Kétféle adónem a rendelési tételeken
+• Hozzáadhatod vagy elkülönítheted az adót a tétel árától
+• Konyhai és bár nyomtató a tételekhez
+• Ár ütemzési lehetőség időszakoknak megfelelően
+• A menü megosztási lehetősége több eszközön Dropbox™ vagy Google Drive™ segítségével
+
+<b>Nyomtatás</b>(nyomtatási beállítási segítség: http://www.androidappshk.com/app/printer_setup_guide.pdf)
+• A legtöbb hőnyomtató támogatása ESC/POS parancsokkal WIFI/LAN hálózaton és USB segítségével
+• Minden típusú nyomtató támogatása WnO POS Adapter segítségével
+  (töltsd le a WnO POS Adapter http://www.androidappshk.com/app/wno-printer-adapter.zip vagy https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+• Kasszafiók(RJ12)  
+
+<b>Tesztelt nyomtató típusok(WIFI/LAN)</b>
+• EPSON TM-T88IV
+• EPSON TM-U220
+• STAR TSP743
+• CITIZEN CT-S651
+• Xprinter
+• GPrinter
+• OCOM
+• Rongta 
+
+<b>Számlák, nyugták</b>
+• Céges logó, név, cím és telefonszám
+• Vásárló neve, címe és telefonszáma
+• Rendelési tételek
+• Teljes összeg
+• Adókulcs
+• Megjegyzés
+• Adók hozzáadása, kizárása
+• Akciók
+• Borravaló és szervíz költségek
+• Borravaló útmutató
+• Lábléc
+
+<b>Vásárló</b>
+• Vásárlói információk megjelenítése elvitelhez
+• Vásárló létrehozása telefonkönyvből
+• Emailes számlaküldés a vásárlóknak
+
+<b>Jelentés</b>
+• Rendelések
+• Törölt rendelések
+• Átvitt rendelések
+• Tételek
+• Módosítók
+• Kategória mennyiség
+• Kategória minőség
+• Fizetések
+
+<b>Jogosultságok</b>
+• Mendzser/pincér fiók
+• Pincér letiltása a riportok megtekintéséről
+• Pincér letiltása az akciókról
+• Pincér letiltása a szervízköltségről
+• Rendelés törlés letiltása
+• Kasszafiók manuális nyitásának letiltása
+
+<b>Beállítások</b>
+• Országok pénznemének támogatása
+• Napi riportolás
+• Beállítható tizedesjegy egységek
+• Két adónem támogatása
+
+<b>Adatbázis</b>
+• Automatikus adatbázis backup SD kártyára vagy Dropbox™ fiókba az alkalmazás bezárásakor
+• Manuális adatbázis backup SD kártyára vagy Dropbox™ fiókba
+• Adatbázis visszaállítása SD kártyáról és Dropbox™ fiókból
+• Demo adatbázis visszaállítása
+• Adatok egyszerű törlése újrafelvitelhez
+• Email Adatbázis
+
+<b>Available languages (more coming soon)</b>
+• English
+• 中文
+• Español (Manuel Iraizos)
+• Deutsch (SK.Aldein)
+• Italiano (Massimiliano)
+• Ελληνικά (next.com)
+
+<b>Engedélyek</b>
+• INTERNET: Dropbox Backup
+• BILLING: In-app Billing
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• READ CONTACTS: Adding Client from Contacts
+• WRITE EXTERNAL STORAGE: Backup and Export to SDCard
+
+※ Kliens-szerver modellhez és több eszköz együttes használatához kérlek látogasd meg a következő oldalt: https://market.android.com/details?id=com.aadhk.wnopos
+※ Ha tetszik az alkalmazás, kérlek értékeld pozitívan az alkalmazást, ez segíti a munkánk eredményes fejlődését.
+※ Ha bármi kérdésed vagy javaslatod van, írj nekünk emailt közvetlenül. Piaci elemzéshez kérlek csak értékelj minket pozitívan.
+
+Használd a Restaurant POS - Point of Sale úgy, mint egy rendelési rendszer, éttermi rendszer, étterem pos, bar pos, kávézó pos, mobil pos, vezeték nélküli pos, telefon pos, kassza vagy bármilyen jellegű point of sales rendszer.

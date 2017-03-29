@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP cím formázási hiba!</string>
+    <string name="hintSameNetWork">Nem ugyanabban a hálózatban!</string>
+    <string name="serverNotFound">Nem találja W&amp;O POS server.</string>
+    <string name="lbVoid">mégse</string>
+
+</resources>

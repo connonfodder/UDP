@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+   <string name= "back_button_label">戻る</string>
+   <string name= "next_button_label">次へ</string>
+   <string name= "skip_button_label">スキップ</string>
+   <string name= "titleData">データベース</string>
+   <string name= "titleSetting">設定</string>
+   <string name= "dlgTitleDate">日付を選択してください</string>
+   <string name= "dlgTitleTime">時間を選択してください</string>
+   <string name= "dlgTitleDatePeriod">日付範囲を選択します。</string>
+   <string name= "lbTo">へ</string>
+   <string name= "titleLicenseExpire">％sは無免許で、購入するためにGoogle Playにアクセスしてください。</string>
+   <string name="titleLicenseAppError">Purchase application error: %s.</string>
+   <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+   <string name= "btnConfirm">を確認してください</string>
+   <string name= "btnCancel">キャンセル</string>
+   <string name= "btnOk">OK</string>
+   <string name= "btnClear">クリア</string>
+   <string name= "btnRate">レート</string>
+   <string name= "btnEmail">メール</string>
+   <string name= "btnDelete">削除</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+   <string name= "btnSave">保存</string>
+   <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+   <string name= "btnBack">戻る</string>
+   <string name= "btnClose">閉じる</string>
+   <string name= "btnReset">リセット</string>
+   <string name= "btnMore">より</string>
+   <string name= "btnUpdate">更新</string>
+   <string name= "btnExit">[終了</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+   <string name= "menuUpgrade">購入</string>
+   <string name= "titleUpgrade">購入</string>
+   <string name= "pleasePurchase">お買い求めください！</string>
+   <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+   <string name= "msgIAStartFail">ではアプリ内課金がデバイスでサポートされていません。</string>
+
+    <!-- database preference -->
+   <string name= "prefAutoBackupTitle">SDカードへの自動バックアップDB</string>
+   <string name= "prefAutoBackupSummary">出口のアプリの前にSDカードへの自動バックアップデータベース</string>
+   <string name= "prefAutoBackupDropBoxTitle">Dropboxの™への自動バックアップDB</string>
+   <string name= "prefAutoBackupDropBoxSummary">出口アプリ前のDropbox™への自動バックアップデータベース</string>
+   <string name= "prefLinkDropBoxTitle">Dropboxの™とのリンク</string>
+   <string name= "prefLinkDropBoxSummary">あなたのDropbox™アカウントでアプリをリンク</string>
+   <string name= "prefUnlinkDropBoxTitle">Dropboxの™とのリンクを解除</string>
+   <string name= "prefUnlinkDropBoxSummary">あなたのDropbox™アカウントでアプリのリンクを解除</string>
+   <string name= "prefBackupTitle">[データベースのバックアップ</string>
+   <string name= "prefBackupSummary">SDカードやGoogle™ドライブへのバックアップデータベース</string>
+   <string name= "prefEmailDbTitle">電子メールのデータベース</string>
+   <string name= "prefEmailDbSummary">あなたの現在のデータベースにメールで知らせる</string>
+   <string name= "prefAutoDeleteTitle">自動古いトランザクションの削除</string>
+   <string name= "prefAutoDeleteSummary">自動古いトランザクションを削除して、出口のアプリ</string>
+   <string name= "prefAutoDeleteDialog">の期間を維持する選択してください</string>
+   <string name= "prefRestoreTitle">データベースの復元</string>
+   <string name= "prefRestoreSummary">SDカードやGoogle™ドライブからデータベースを復元</string>
+   <string name= "prefDeleteAllTitle">すべてのレコードを削除</string>
+   <string name= "prefDeleteAllSummary">データベースからすべてのレコードを削除します。</string>
+
+    <!-- setting -->
+   <string name= "prefLangTitle">言語</string>
+   <string name="lbLang">言語</string>
+   <string name= "prefTitleDate">日付形式</string>
+   <string name= "prefTitleTime">時刻形式</string>
+   <string name= "prefSummaryOnTime">を使用して24時間形式</string>
+   <string name= "prefSummaryOffTime">を使用してAM / PM形式</string>
+   <string name= "prefTranslatorTitle">トランスレータ</string>
+   <string name= "prefTranslatorSummary">いない私たちを助けるためにあなたの言語、電子メール</string>
+   <string name= "prefRegisterTitle">登録</string>
+   <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+   <string name= "menuLog">ログ</string>
+   <string name= "prefLogTitle">変更ログ</string>
+   <string name= "appInfo">アプリ情報</string>
+   <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+   <string name= "emailSubjectDatabase">％sの - データベース</string>
+   <string name= "msgRestoreSdConfirm">バックアップファイルのいずれかを選択します。バックアップファイルが最新であることを確認してください。</string>
+   <string name= "msgNoBackupDatabase">バックアップデータベースファイルを見つけることはありません。</string>
+   <string name= "dbBackupSucessMsg">データベースが正常に保存されます%s</string>
+   <string name= "dbBackupFailMsg">データベースのバックアップに失敗する%s</string>
+   <string name= "dbRestoreSucessMsg">データベースの成功を復元します。</string>
+   <string name= "dbRestoreFailMsg">データベースの障害を復元します。</string>
+   <string name= "dbDeleteAllSucessMsg">データベースが正常に削除されている</string>
+   <string name= "dbDeleteAllFailMsg">データベースが失敗する削除される</string>
+   <string name= "dbDeleteAllAlertTitle">データベースは、すべてを削除</string>
+    <string name="dbDeleteAllAlertMsg">すべての保存されたデータエントリがデータベースから削除されます。あなたは本当にそれをしたいですか？</string>
+   <string name= "dbNoDatabaseMsg">データベースがまだ作成していない</string>
+   <string name= "msgBackuping">Backuping ...</string>
+   <string name= "msgRestoring">の復元...</string>
+   <string name= "msgGenratingPDF">の生成PDF ...</string>
+   <string name= "msgLoading">読み込んでいます...</string>
+   <string name= "msgRestoreDropboxUnlink">の復元前のDropbox™をアプリにリンクしてください</string>
+   <string name= "msgBackupDropboxUnlink">バックアップ前のDropbox™をアプリにリンクしてください。</string>
+   <string name= "msgAutoBackupDropboxUnlink">自動バックアップを有効にする前のDropbox™をアプリにリンクしてください。</string>
+   <string name= "msgUnlinkDropbox">アプリは、Dropboxの™にリンクされていない</string>
+   <string name= "msgLinkDropbox">のDropbox™すると、アプリをリンクした。\n
+	セットアップのDropbox™リンクに次の画面に進み下さい。\n
+	あなたはDropboxの™のアカウントを持っているとのDropbox™アプリ\n個の\nをインストールする必要があります
+	あなたは、あなたのDropbox™の\nに自動的に/手動でバックアップデータベースをオンにすることができます
+	詳細については、www.dropbox.comをご覧ください。
+    </string>
+   <string name= "msgBackupDBSuccess">バックアップデータベース成功。</string>
+   <string name= "msgBackupDBFail">バックアップデータベースの障害。</string>
+   <string name= "msgRestoreConfirm">バックアップファイルが最新であることを確認してください。そうしないと、デバイス上で、新たに保存されたデータが失われる可能性があります。</string>
+   <string name= "msgLinkDropboxFail">Dropboxの™の障害にリンクします。</string>
+   <string name= "dbBackupChoose">バックアップデータベースファイルに？</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+   <string name= "dbRestoreChoose">からデータベースファイルを復元する</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+   <string name= "msgFileNotFound">​​でファイルが見つかりません</string>
+
+    <!-- message -->
+   <string name= "networkMsgChecking">あなたのインターネットが接続されていることを確認してください！</string>
+   <string name= "turnOnWifi">あなたのWIFIをオンにする！</string>
+   <string name= "empty">情報はありません</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+   <string name= "errorEmpty">空にすることはできません。</string>
+   <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+   <string name= "errorKey">無効なライセンスキー</string>
+   <string name= "emailChooser">使用して電子メールを送信：</string>
+   <string name= "msgNoPdfReader">、PDFリーダーを見つけPDFリーダーをインストールして、再試行してくださいすることはできません。</string>
+   <string name= "errorNumber">現在の量よりも量が大きくなることができません。</string>
+   <string name= "errorChoosePeriod">日付を起動すると、終了日よりも大きい</string>
+   <string name="confirmExit">を終了してみませんか？</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">あなたのライセンスを登録するには、次の情報を入力してください。</string>
+    <string name="licenseRegisteredMsg">あなたは以下の情報を登録していた。</string>
+    <string name="lbActivationKey">キー</string>
+    <string name="customerName">名前</string>
+    <string name="lbTel">電話番号</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">メール</string>
+    <string name="errorEmailFormat">電子メールのフォーマットエラー！</string>
+
+    <!-- server error -->
+    <string name="errorServer">サーバーエラー！エラーコード502。</string>
+    <string name="errorServerExcetpion">サーバーエラー！エラーコード501。</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+   <string name= "appRateTitle">率の％s</string>
+   <string name= "appRateMessage">あなたは％sを使用して楽しむ場合は、それを評価する時間を割いてください。あなたのサポートをありがとう！</string>
+   <string name= "appRatePositive">それを評価する！</string>
+   <string name= "appRateNeutral">後で思い出させる</string>
+   <string name= "appRateNegative">いいえ感謝</string>
+
+    <!-- context menu -->
+   <string name= "menuBackupSdcard">SDカード</string>
+   <string name= "menuSdcard">SDカード</string>
+   <string name= "menuDropbox">Dropboxの™</string>
+   <string name= "menuGoogleDrive">グーグル™ドライブ</string>
+
+    <!-- currency -->
+   <string name= "lbCurrencyCode">コード</string>
+   <string name= "lbCurrencySign">サイン</string>
+   <string name= "lbCurrencyDesc">説明</string>
+   <string name= "titleCurrency">通貨</string>
+   <string name= "titleCurrencyUpdate">通貨を更新</string>
+   <string name= "titleCurrencyAdd">通貨を追加</string>
+
+    <!-- week -->
+   <string name= "sunday">日曜日</string>
+   <string name= "monday">月曜日</string>
+   <string name= "tuesday">火曜日</string>
+   <string name= "wednesday">水曜日</string>
+   <string name= "thursday">木曜日</string>
+   <string name= "friday">金曜日</string>
+   <string name= "saturday">土曜日</string>
+
+    <!-- shortMonthNames -->
+   <string name= "jan">ヤン</string>
+   <string name= "feb">2月</string>
+   <string name= "mar">3月</string>
+   <string name= "apr">4月</string>
+   <string name= "may">5月</string>
+   <string name= "jun">6月</string>
+   <string name= "jul">7月</string>
+   <string name= "aug">8月</string>
+   <string name= "sep">9月</string>
+   <string name= "oct">10月</string>
+   <string name= "nov">11月</string>
+   <string name= "dec">12月</string>
+
+    <!-- shortDayNames -->
+   <string name= "sun">日</string>
+   <string name= "mon">月</string>
+   <string name= "tue">火</string>
+   <string name= "wed">水</string>
+   <string name= "thu">木</string>
+   <string name= "fri">金</string>
+   <string name= "sat">土</string>
+
+</resources>

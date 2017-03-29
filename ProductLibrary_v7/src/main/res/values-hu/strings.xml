@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Adatbázis</string>
+    <string name="titleSetting">Beállítás</string>
+    <string name="dlgTitleDate">Dátum kiválasztása</string>
+    <string name="dlgTitleTime">Idő kiválasztása</string>
+    <string name="dlgTitleDatePeriod">Idő intervallum beállítása</string>
+    <string name="lbTo">To</string>
+    <string name="titleLicenseExpire">%s nincs licensz, kérlek vásárold meg.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Jóváhagyás</string>
+    <string name="btnCancel">Mégse</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Törlés</string>
+    <string name="btnRate">Rate</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Törlés</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Mentés</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Vissza</string>
+    <string name="btnClose">Becsuk</string>
+    <string name="btnReset">Törlés</string>
+    <string name="btnMore">Több</string>
+    <string name="btnUpdate">Korszerűsít</string>
+<string name="btnExit">kijárat</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Vásárlás</string>
+    <string name="titleUpgrade">Vásárlás</string>
+    <string name="pleasePurchase">Kérlek vásárold meg!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Az alkalmazáson belüli vásárlást nem támogatja az eszközöd.</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Az adatbázis automatikus biztonsági mentése SD kártyára</string>
+    <string name="prefAutoBackupSummary">Az adatbázis automatikus biztonsági mentése SD kártyára az alkalmazás bezárása előtt</string>
+    <string name="prefAutoBackupDropBoxTitle">Az adatbázis automatikus biztonsági mentése Dropbox™-ba</string>
+    <string name="prefAutoBackupDropBoxSummary">Az adatbázis automatikus biztonsági mentése Dropbox™-ba az alkalmazás bezárása előtt</string>
+    <string name="prefLinkDropBoxTitle">Összekapcsolás Dropbox™ fiókkal</string>
+    <string name="prefLinkDropBoxSummary">Kapcsold össze az alkalmazást a Dropbox™ fiókoddal</string>
+    <string name="prefUnlinkDropBoxTitle">Dropbox™ leválasztása</string>
+    <string name="prefUnlinkDropBoxSummary">Az alkalmazás leválasztása a Dropbox™ fiókról</string>
+    <string name="prefBackupTitle">Adatbázis backup</string>
+    <string name="prefBackupSummary">Adatbázis backup SD kártyára vagy Google™ Drive fiókba</string>
+    <string name="prefEmailDbTitle">Email adatbázis</string>
+    <string name="prefEmailDbSummary">Az aktuális adatbázis küldése emailben</string>
+    <string name="prefAutoDeleteTitle">A régi tranzakciók automatikus törlése</string>
+    <string name="prefAutoDeleteSummary">A régi tranzakciók automatikus törlése az alkalmazás bezárásakor</string>
+    <string name="prefAutoDeleteDialog">Válaszd ki a megtartási időintervallumot</string>
+    <string name="prefRestoreTitle">Adatbázis visszaállítása</string>
+    <string name="prefRestoreSummary">Adatbázis visszaállítása SD kártyáról vagy Google™ Drive fiókból</string>
+    <string name="prefDeleteAllTitle">Összes rekord törlése</string>
+    <string name="prefDeleteAllSummary">Összes rekord törlése az adatbázisból</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Nyelvek</string>
+    <string name="lbLang">Nyelvek</string>
+    <string name="prefTitleDate">Dátum formátu</string>
+    <string name="prefTitleTime">Time Format</string>
+    <string name="prefSummaryOnTime">Use 24 hour format</string>
+    <string name="prefSummaryOffTime">Use AM/PM format</string>
+    <string name="prefTranslatorTitle">Fordítók</string>
+    <string name="prefTranslatorSummary">A te nyelveden nem érhető el, küldj emailt, hogy segíthessünk</string>
+    <string name="prefRegisterTitle">Regisztráció</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Change Log</string>
+    <string name="appInfo">App info</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Adatbázis</string>
+    <string name="msgRestoreSdConfirm">Válassz ki egy backup fájlt. Győződj meg róla, hogy a backup fájl naprakész és a legutolsó verzió.</string>
+    <string name="msgNoBackupDatabase">Nem található a backup adatbázis fájl.</string>
+    <string name="dbBackupSucessMsg">Az adatbázis sikeresen el lett mentve a következő helyre: %s</string>
+    <string name="dbBackupFailMsg">Adatbázis backup mentés sikertelen volt %s</string>
+    <string name="dbRestoreSucessMsg">Sikeres adatbázis visszaállítás</string>
+    <string name="dbRestoreFailMsg">Adatbázis visszaállítás hiba</string>
+    <string name="dbDeleteAllSucessMsg">Sikeres adatbázis törlés</string>
+    <string name="dbDeleteAllFailMsg">Sikertelen adatbázis törlés</string>
+    <string name="dbDeleteAllAlertTitle">Az összes adatbázis törlése</string>
+    <string name="dbDeleteAllAlertMsg">Minden mentett adat eltávolításra fog kerülni az adatbázisból. Biztos vagy benne?</string>
+    <string name="dbNoDatabaseMsg">Nincs még adatbázis</string>
+    <string name="msgBackuping">Backuping...</string>
+    <string name="msgRestoring">Visszaállítás...</string>
+    <string name="msgGenratingPDF">PDF generálás...</string>
+    <string name="msgLoading">Betöltés...</string>
+    <string name="msgRestoreDropboxUnlink">Kérlek csatlakoztasd az alkalmazást a Dropbox™ fiókodhoz a visszaállítás előtt</string>
+    <string name="msgBackupDropboxUnlink">Kérlek csatlakoztasd az alkalmazást a Dropbox™ fiókodhoz a backup előtt</string>
+    <string name="msgAutoBackupDropboxUnlink">Kérlek csatlakoztasd az alkalmazást a Dropbox™ fiókodhoz mielőtt engedélyezed auto backupot</string>
+    <string name="msgUnlinkDropbox">Az alkalmazást leválasztottuk a Dropbox™ fiókodról</string>
+    <string name="msgLinkDropbox">Kérlek csatlakoztasd az alkalmazást a Dropbox™ fiókodhoz.\n
+	    Kérlek menj a következő oldalra a Dropbox™ link beállításához.\n
+		Szükséged van egy Dropbox™ fiókra, hogy telepíteni tudd a Dropbox™ alkalmazást. \n\n
+		Be tudod kapcsolni az automatikus/manuális adatmentést a Dropbox™ fiókodba\n 
+		További információkért látogasd meg a www.dropbox.com oldalt.           
+	</string>
+    <string name="msgBackupDBSuccess">Adatbázis backup sikeres.</string>
+    <string name="msgBackupDBFail">Adatbázis backup sikertelen.</string>
+    <string name="msgRestoreConfirm">Kérlek győzödj meg róla, hogy a backup fájl up-to-date. Ellenkező esetben elvesztheted a frissen mentett adataidat.</string>
+    <string name="msgLinkDropboxFail">Sikertelen kapcsolódás a Dropbox™ fiókhoz.</string>
+    <string name="dbBackupChoose">Hova backupoljam az adatbázis fájlt?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Honnan állítsam vissza az adatbázist?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">A fájl nem található</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Győződj meg róla, hogy csatlakozol az internetre!</string>
+    <string name="turnOnWifi">Kapcsold be a WIFI-t!</string>
+    <string name="empty">Nincsenek bejegyzések</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Nem lehet üres</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Érvénytelen licensz kulcs</string>
+    <string name="emailChooser">Küldj emailt a következő címről:</string>
+    <string name="msgNoPdfReader">Nem találja PDF-olvasó, telepíteni PDF-olvasó, és próbálja újra.</string>
+    <string name="errorNumber">A mennyiség nem lehet nagyobb, mint a jelenlegi mennyiség.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">Biztos vagy benne, hogy ki akarsz lépni?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Kérjük, adja meg az alábbi adatokat a licensz regisztrálásához.</string>
+    <string name="licenseRegisteredMsg">Ön már regisztrált a következő adatokkal.</string>
+    <string name="lbActivationKey">Kulcs</string>
+    <string name="customerName">Név</string>
+    <string name="lbTel">Telefonszám</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Email formátum hiba!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Szerver hiba! Error Code 502</string>
+    <string name="errorServerExcetpion">Szerver hiba! Error Code 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Értékelés %s</string>
+    <string name="appRateMessage">Ha tetszik az alkalmazás %s, kérlek értékeld. Köszönjük a segítséget!</string>
+    <string name="appRatePositive">Értékeld!</string>
+    <string name="appRateNeutral">Emlékeztetés később</string>
+    <string name="appRateNegative">Nem, köszönöm</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Card</string>
+    <string name="menuSdcard">SD Card</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Code</string>
+    <string name="lbCurrencySign">Sign</string>
+    <string name="lbCurrencyDesc">Description</string>
+    <string name="titleCurrency">Currency</string>
+    <string name="titleCurrencyUpdate">Update currency</string>
+    <string name="titleCurrencyAdd">Add currency</string>
+
+    <!-- week -->
+    <string name="sunday">VASÁRNAP</string>
+    <string name="monday">HÉTFŐ</string>
+    <string name="tuesday">KEDD</string>
+    <string name="wednesday">SZERDA</string>
+    <string name="thursday">CSÜTÖRTÖK</string>
+    <string name="friday">PÉNTEK</string>
+    <string name="saturday">SZOMBAT</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Már</string>
+    <string name="apr">Ápr</string>
+    <string name="may">Máj</string>
+    <string name="jun">Jún</string>
+    <string name="jul">Júl</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Szep</string>
+    <string name="oct">Okt</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Va</string>
+    <string name="mon">Hé</string>
+    <string name="tue">Ke</string>
+    <string name="wed">Sze</string>
+    <string name="thu">Csü</string>
+    <string name="fri">Pé</string>
+    <string name="sat">Szo</string>	
+
+</resources>

@@ -1,0 +1,38 @@
+Como usar?
+    Entre com a conta padrão: manager/123456
+    Antes de começar a receber pedidos você precisa configurar mesas, categorias, items e modificadores para o seu restaurante, em Configurações.
+    Para imprimir recibos você precisa configurar uma impressora no menu de Configurações. Certifique-se de que a impressora está configurada corretamente.
+    Após configurar, você pode abrir mesas, anotar pedidos e enviar impressões de pedidos para a cozinha ou bar.
+    Após fazer pedidos você pode conferí-los clicando na mesa, pode fechar pedidos e imprimir comprovantes.
+
+Mesas
+    Mesa vaga
+        Clique na mesa para abrir a tela de cardápio.
+    Mesa ocupada colorida
+        Clique na mesa para abrir a tela da mesa.
+    Clique no botão de menu de dispositivo para ver relatórios, configurações e banco de dados.
+
+Anotando pedidos
+
+    Clique no nome do item para mudar preço, adicionar observação e espera.
+    Clique "Confirmar" para confirmar o pedido dos itens.
+    Clique "+" para incrementar a quantidade do item no pedido.
+    Clique "-" para reduzir a quantidade do item no pedido.
+    Clique "Caixa Verde" para adicionar modificadores.
+
+Pedidos feitos
+    Mostra pedidos, itens, informação de pagamento para a mesa específica.
+    Clique no item do pedido para reimprimir, cancelar, transferir ou mudar o preço.
+    Clique no botão "Transferir" para transferir o pedido para outra mesa.
+    Clique no botão "Dividir" para dividir o pedido em múltiplos pagamentos por valor ou itens.
+    Clique no botão "Convidados" para modificar o número de clientes à mesa.
+
+Pagamento
+    Mostra distintamente subtotais, descontos, gorjeta, impostos, total, valor pago e troco.
+    Clique "Imprimir" para imprimir um comprovante.
+    Clique "Gaveta" para a abrir a gaveta da caixa registradora.
+    Clique "Cliente" para adicionar informações do cliente no pedido.
+    Clique "Email" para enviar o comprovante por email.
+    Clique "Observações" para adicionar anotações ao comprovante.
+    Clique "Exato" para pagamento exato do valor total.
+

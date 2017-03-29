@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">عودة</string>
+    <string name="next_button_label">التالي</string>
+    <string name="skip_button_label">تخطى</string>
+    <string name="titleData">قاعدة بيانات</string>
+    <string name="titleSetting">الإعدادات</string>
+    <string name="dlgTitleDate">اختيار التاريخ</string>
+    <string name="dlgTitleTime">اختيار الوقت</string>
+    <string name="dlgTitleDatePeriod">حدد نطاق التاريخ</string>
+    <string name="lbTo">إلى</string>
+    <string name="titleLicenseExpire">%s التطبيق غير مرخص, الذهاب الى google play للشراء</string>
+    <string name="titleLicenseAppError">خطأ في شراء التطبيق:٪ s.</string>
+    <string name="titleScalePaired">الأجهزة المقترنة</string>
+    <string name="titleScaleAvailable">الأجهزة المتاحة</string>
+    <string name="titleScaleSearching">بحث ...</string>
+    <string name="titleScaleSearchFinished">انتهاء البحث</string>
+
+    <!-- button -->
+    <string name="btnConfirm">تأكيد</string>
+    <string name="btnCancel">إلغاء</string>
+    <string name="btnOk">حسنا</string>
+    <string name="btnClear">واضح</string>
+    <string name="btnRate">معدل</string>
+    <string name="btnEmail">البريد الإلكتروني</string>
+    <string name="btnDelete">حذف</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">حفظ</string>
+    <string name="btnFind">البحث</string>
+    <string name="btnGetWeight">الحصول على الوزن</string>
+    <string name="btnBack">عودة</string>
+    <string name="btnClose">قريب</string>
+    <string name="btnReset">إعادة تعيين</string>
+    <string name="btnMore">أكثر</string>
+    <string name="btnUpdate">التحديث</string>
+    <string name="btnExit">خروج</string>
+    <string name="btnYes">نعم</string>
+    <string name="btnNo">لا</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">شراء</string>
+    <string name="titleUpgrade">شراء</string>
+    <string name="pleasePurchase">يرجى شراء!</string>
+    <string name="msgFeaturePurchase">الشراء لاستخدام المميزات!</string>
+    <string name="msgIAStartFail">في التطبيق لا يتم اعتماد الفواتير من الجهاز</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">النسخ الاحتياطي لقاعدة البيانات التلقائي لبطاقة SD</string>
+    <string name="prefAutoBackupSummary">النسخ الاحتياطي لقاعدة البيانات التلقائي لبطاقة SD  قبل الخروج من التطبيق</string>
+    <string name="prefAutoBackupDropBoxTitle">النسخ الاحتياطي لقاعدة البيانات DB التلقائي ل Dropbox ™</string>
+    <string name="prefAutoBackupDropBoxSummary">النسخ الاحتياطي لقاعدة البيانات  DB التلقائي لDropbox ™ التطبيق قبل الخروج</string>
+    <string name="prefLinkDropBoxTitle">الارتباط مع Dropbox ™</string>
+    <string name="prefLinkDropBoxSummary"> ربط حساب Dropbox ™ الخاص بك مع التطبيق</string>
+    <string name="prefUnlinkDropBoxTitle"> إلغاء الربط مع Dropbox ™</string>
+    <string name="prefUnlinkDropBoxSummary">مع التطبيق إلغاء ربط حسابك Dropbox ™</string>
+    <string name="prefBackupTitle">النسخ الاحتياطي لقاعدة البيانات </string>
+    <string name="prefBackupSummary">النسخ الاحتياطي لقاعدة البيانات  إلى بطاقة SD أو محرك جوجل ™</string>
+    <string name="prefEmailDbTitle">ارسال قاعدة بيانات عبر الايميل</string>
+    <string name="prefEmailDbSummary">أرسل قاعدة البيانات الحالية</string>
+    <string name="prefAutoDeleteTitle">حذف المعاملات القديمة تلقائياً</string>
+    <string name="prefAutoDeleteSummary">حذف المعاملات القديمة عند الخروج من التطبيق</string>
+    <string name="prefAutoDeleteDialog">اختر حفظ الفترة</string>
+    <string name="prefRestoreTitle">استعادة قاعدة البيانات</string>
+    <string name="prefRestoreSummary">استعادة قاعدة البيانات من جوجل ™ أو بطاقة SD  </string>
+    <string name="prefDeleteAllTitle">حذف جميع السجلات</string>
+    <string name="prefDeleteAllSummary">حذف جميع السجلات من قاعدة البيانات</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">اللغات</string>
+    <string name="lbLang">لغة</string>
+    <string name="prefTitleDate">تنسيق التاريخ</string>
+    <string name="prefTitleTime">تنسيق الوقت</string>
+    <string name="prefSummaryOnTime">استخدام تنسيق 24 ساعة</string>
+    <string name="prefSummaryOffTime">استخدام تنسيق AM / PM </string>
+    <string name="prefTranslatorTitle">المترجمين</string>
+    <string name="prefTranslatorSummary">ليست لغتك، مراسلتنا للمساعدة </string>
+    <string name="prefRegisterTitle">تسجيل</string>
+    <string name="prefSupportTitle">دعم</string>
+    <string name="prefSupportSummary">ابلغ عن خطأ أو طلب مميزات </string>
+    <string name="menuLog">سجل</string>
+    <string name="prefLogTitle">غير السجل</string>
+    <string name="appInfo">معلومات التطبيق</string>
+    <string name="poweredBy">اعد بواسطة</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">٪ S - قاعدة بيانات</string>
+    <string name="msgRestoreSdConfirm">اختيار واحد من ملفات النسخ الاحتياطي. تأكد من أن الملف هو أحدث النسخ الاحتياطي.</string>
+    <string name="msgNoBackupDatabase">لا تجد ملف قاعدة بيانات النسخ الاحتياطي.</string>
+    <string name="dbBackupSucessMsg">تم حفظ قاعدة البيانات بنجاح إلى٪ s</string>
+    <string name="dbBackupFailMsg">فشل النسخ الاحتياطي لقاعدة البيانات   إلى٪ s</string>
+    <string name="dbRestoreSucessMsg">تم استعادة قاعدة البيانات بنجاح</string>
+    <string name="dbRestoreFailMsg">فشل استعادة قاعدة البيانات</string>
+    <string name="dbDeleteAllSucessMsg">تم حذف قاعدة البيانات بنجاح</string>
+    <string name="dbDeleteAllFailMsg">فشل حذف قاعدة البيانات </string>
+    <string name="dbDeleteAllAlertTitle">حذف قاعدة البيانات كاملة</string>
+    <string name="dbDeleteAllAlertMsg">سيتم إزالة كافة إدخالات البيانات المحفوظة من قاعدة البيانات. هل تريد حقا أن تفعل ذلك؟</string>
+    <string name="dbNoDatabaseMsg">لم تنشئ قاعدة بيانات حتى الآن</string>
+    <string name="msgBackuping">تحميل ...</string>
+    <string name="msgRestoring">استعادة ...</string>
+    <string name="msgGenratingPDF">إنشاء PDF ...</string>
+    <string name="msgLoading">تحميل ...</string>
+    <string name="msgRestoreDropboxUnlink">الرجاء ربط التطبيق مع ™ Dropbox قبل الاستعادة  </string>
+    <string name="msgBackupDropboxUnlink">الرجاء ربط التطبيق مع Dropbox™ قبل النسخ الاحتياطي </string>
+    <string name="msgAutoBackupDropboxUnlink">الرجاء ربط التطبيق مع Dropbox ™  قبل النسخ الاحتياطي التلقائي</string>
+    <string name="msgUnlinkDropbox">التطبيق غير مرتبط مع Dropbox ™</string>
+    <string name="msgLinkDropbox">الرجاء الذهاب للشاشة التالية لأعداد Dropbox™ . يجب الحصول على حساب في Dropbox™ و إعداد تطبيق Dropbox™ يمكنك أعداد النسخ الاحتياطي التلقائي واليدوي لحسابك في الـ Dropbox™ .</string>
+    <string name="msgBackupDBSuccess">نجاح النسخ الاحتياطي لقاعدة البيانات </string>
+    <string name="msgBackupDBFail">فشل النسخ الاحتياطي لقاعدة البيانات .</string>
+    <string name="msgRestoreConfirm">يرجى التأكد من الملف هو أحدث النسخ الاحتياطي. خلاف ذلك، قد تفقد البيانات المحفوظة حديثا على الجهاز.</string>
+    <string name="msgLinkDropboxFail">فشل الاتصال مع  Dropbox ™.</string>
+    <string name="dbBackupChoose">تحديد مكان حفظ النسخ الاحتياطي لملف قاعدة البيانات؟</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">تحديد مكان استرداد النسخ الاحتياطي لملف قاعدة البيانات؟</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">ملف لم يتم العثور على</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">تأكد من توصيل الإنترنت الخاص بك!</string>
+    <string name="turnOnWifi">تشغيل WIFI الخاص بك!</string>
+    <string name="empty">لا توجد سجلات</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">لا يمكن أن تكون فارغة</string>
+    <string name="errorZero">لا يمكن أن يكون صفر</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">مفتاح الترخيص غير صالح</string>
+    <string name="emailChooser">إرسال البريد الإلكتروني عن طريق:</string>
+    <string name="msgNoPdfReader">لا يمكن العثور على قارئ PDF ، قم بتثبيت قارئ PDF وحاول مرة أخرى.</string>
+    <string name="errorNumber">لايمكن للكمية ان تكون أكبر من الكمية الحالية.</string>
+    <string name="errorChoosePeriod">تاريخ البداية اكبر من تاريخ النهاية</string>
+    <string name="confirmExit">تريد الخروج؟</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">الرجاء إدخال المعلومات التالية لتسجيل الترخيص الخاص بك.</string>
+    <string name="licenseRegisteredMsg">كنت قد سجلت مع المعلومات التالية.</string>
+    <string name="lbActivationKey">مفتاح</string>
+    <string name="customerName">اسم</string>
+    <string name="lbTel">الهاتف</string>
+    <string name="lbWebsite">موقع الكتروني</string>
+    <string name="lbEmail">بريد</string>
+    <string name="errorEmailFormat">خطأ تنسيق البريد الإلكتروني!</string>
+
+    <!-- server error -->
+    <string name="errorServer">خطأ الخادم! رمز الخطأ 502.</string>
+    <string name="errorServerExcetpion">خطأ الخادم! رمز الخطأ 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">معدل٪ </string>
+    <string name="appRateMessage">إذا كنت تتمتع باستخدام٪ s يرجى ان تتوقف لحظة للتقيم. شكرا لدعمكم!</string>
+    <string name="appRatePositive">تقييم!</string>
+    <string name="appRateNeutral">تذكير لاحقا</string>
+    <string name="appRateNegative">لا شكرا</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">بطاقة SD</string>
+    <string name="menuSdcard">بطاقة SD</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">محرك جوجل ™</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">رمز</string>
+    <string name="lbCurrencySign">علامة</string>
+    <string name="lbCurrencyDesc">وصف</string>
+    <string name="titleCurrency">عملة</string>
+    <string name="titleCurrencyUpdate">تحديث العملة</string>
+    <string name="titleCurrencyAdd">إضافة العملة</string>
+
+    <!-- week -->
+    <string name="sunday">الأحد</string>
+    <string name="monday">الاثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="thursday">الخميس</string>
+    <string name="friday">الجمعة</string>
+    <string name="saturday">السبت</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">يناير</string>
+    <string name="feb">فبراير</string>
+    <string name="mar">مارس</string>
+    <string name="apr">ابريل</string>
+    <string name="may">مايو</string>
+    <string name="jun">يونيو</string>
+    <string name="jul">يوليو</string>
+    <string name="aug">أغسطس</string>
+    <string name="sep">سبتمبر</string>
+    <string name="oct">أكتوبر</string>
+    <string name="nov">نوفمبر</string>
+    <string name="dec">ديسمبر</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">احد</string>
+    <string name="mon">اثنين</string>
+    <string name="tue">الثلاثاء</string>
+    <string name="wed">الأربعاء</string>
+    <string name="thu">الخميس</string>
+    <string name="fri">الجمعة</string>
+    <string name="sat">السبت</string>
+
+</resources>

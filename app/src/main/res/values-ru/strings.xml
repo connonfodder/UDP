@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP Address format error!</string>
+    <string name="hintSameNetWork">Не в той же сети!</string>
+    <string name="serverNotFound">Не можете найти W&amp;O POS server.</string>
+    <string name="lbVoid">Отмена</string>
+
+</resources>

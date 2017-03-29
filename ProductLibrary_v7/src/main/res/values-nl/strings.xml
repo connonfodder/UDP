@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Vrienden uitnodigen</string>
+    <string name="back_button_label">Terug</string>
+    <string name="next_button_label">Volgende</string>
+    <string name="skip_button_label">Overslaan</string>
+    <string name="titleData">Database</string>
+    <string name="titleSetting">Instellingen</string>
+    <string name="dlgTitleDate">Kies datum</string>
+    <string name="dlgTitleTime">Kies tijd</string>
+    <string name="dlgTitleDatePeriod">Kies periode</string>
+    <string name="lbTo">Aan</string>
+    <string name="titleLicenseExpire">%s heeft geen licentie, ga naar Google Play om het te kopen.</string>
+    <string name="titleLicenseAppError">Er is iets misgegaan tijdens de aankoop: %s.</string>
+    <string name="titleScalePaired">Gekoppelde apparaten</string>
+    <string name="titleScaleAvailable">Beschikbare apparaten</string>
+    <string name="titleScaleSearching">Zoeken...</string>
+    <string name="titleScaleSearchFinished">Zoeken voltooid</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Bevestig</string>
+    <string name="btnCancel">Annuleer</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Annuleer</string>
+    <string name="btnRate">Geef een beoordeling</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Verwijder</string>
+    <string name="btnDuplicate">Kopieëren</string>
+    <string name="btnAdd">Toevoegen</string>
+    <string name="btnSave">Bewaar</string>
+    <string name="btnFind">Zoek</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Terug</string>
+    <string name="btnClose">Sluiten</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnMore">Meer</string>
+    <string name="btnUpdate">Vernieuwen</string>
+    <string name="btnExit">Afsluiten</string>
+    <string name="btnYes">Ja</string>
+    <string name="btnNo">Neen</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Kopen</string>
+    <string name="titleUpgrade">Kopen</string>
+    <string name="pleasePurchase">Koop alstublieft</string>
+    <string name="msgFeaturePurchase">Enkel beschikbaar bij aankoop!</string>
+    <string name="msgIAStartFail">Fakturering wordt niet door uw apparaat ondersteund</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Automatische backup DB naar SD Card</string>
+    <string name="prefAutoBackupSummary">Automatische backup Database naar SD card voor het verlaten van app</string>
+    <string name="prefAutoBackupDropBoxTitle">Automatische backup DB naar Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Automatische backup Database naar Dropbox™ voor het verlaten van app</string>
+    <string name="prefLinkDropBoxTitle">Link naar Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Link naar uw app met uw Dropbox™ account</string>
+    <string name="prefUnlinkDropBoxTitle">Verwijder link met Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Verwijder de link naar app met uw Dropbox™ account</string>
+    <string name="prefBackupTitle">Backup Database</string>
+    <string name="prefBackupSummary">Backup database naar SD Card of Google™ Drive</string>
+    <string name="prefEmailDbTitle">Email Database</string>
+    <string name="prefEmailDbSummary">Email uw huidige Databese</string>
+    <string name="prefAutoDeleteTitle">Verwijder automatisch oude transacties</string>
+    <string name="prefAutoDeleteSummary">Verwijder automatisch oude transacties bij het verlaten van app</string>
+    <string name="prefAutoDeleteDialog">Kies periode</string>
+    <string name="prefRestoreTitle">Herstel Database</string>
+    <string name="prefRestoreSummary">Herstel database van SD Card of Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Verwijder alle records</string>
+    <string name="prefDeleteAllSummary">Verwijder alle records uit de Database</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Talen</string>
+    <string name="lbLang">Talen</string>
+    <string name="prefTitleDate">Datum format</string>
+    <string name="prefTitleTime">Tijd formaat</string>
+    <string name="prefSummaryOnTime">Gebruik 24 uurs formaat</string>
+    <string name="prefSummaryOffTime">Gebruik AM/PM formaat</string>
+    <string name="prefTranslatorTitle">Vertalingen</string>
+    <string name="prefTranslatorSummary">Niet beschikbaar in uw taal, email ons om te helpen</string>
+    <string name="prefRegisterTitle">Registreer</string>
+    <string name="prefSupportTitle">Ondersteuning</string>
+    <string name="prefSupportSummary">Rapporteren van bugs of verbeteringen </string>
+    <string name="menuLog">Login</string>
+    <string name="prefLogTitle">Wijzig Login</string>
+    <string name="appInfo">Info</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Uitloggen</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Uitloggen</string>
+    <string name="prefSessionPeriodSummary">Na %1$s inactiviteit</string>
+    <string name="prefSessionPeriodSummaryNever">Nooit</string>
+    <string name="sessionTimeValue1">15 seconden</string>
+    <string name="sessionTimeValue2">30 seconden</string>
+    <string name="sessionTimeValue3">1 minuut</string>
+    <string name="sessionTimeValue4">2 minuten</string>
+    <string name="sessionTimeValue5">5 minuten</string>
+    <string name="sessionTimeValue6">10 minuten</string>
+    <string name="sessionTimeValue7">30 minuten</string>
+    <string name="sessionTimeValue8">Nooit</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Database</string>
+    <string name="msgRestoreSdConfirm">Kies één van de backup-bestanden. Controleer of dit het nieuwste bestand is.</string>
+    <string name="msgNoBackupDatabase">Kan backup Database bestand niet vinden.</string>
+    <string name="dbBackupSucessMsg">Database is succesvol opgeslagen in %s</string>
+    <string name="dbBackupFailMsg">Database backup is mislukt %s</string>
+    <string name="dbRestoreSucessMsg">Databaseherstel is gelukt</string>
+    <string name="dbRestoreFailMsg">Databaseherstel is mislukt</string>
+    <string name="dbDeleteAllSucessMsg">Database is verwijdert</string>
+    <string name="dbDeleteAllFailMsg">Verwijderen van Database is mislukt</string>
+    <string name="dbDeleteAllAlertTitle">Database verwijderen</string>
+    <string name="dbDeleteAllAlertMsg">Alle bewaarde gegevens worden uit de Database verwijderd. Weet u zeker dat u dit wilt doen? </string>
+    <string name="dbNoDatabaseMsg">Geen Database aanwezig.</string>
+    <string name="msgBackuping">Bezig met backup...</string>
+    <string name="msgRestoring">Bezig met herstel...</string>
+    <string name="msgGenratingPDF">PDF wordt gemaakt...</string>
+    <string name="msgLoading">Aan het laden...</string>
+    <string name="msgRestoreDropboxUnlink">Link de app aan Dropbox™ voor herstel</string>
+    <string name="msgBackupDropboxUnlink">Link de app aan Dropbox™ voor het maken van backup</string>
+    <string name="msgAutoBackupDropboxUnlink">Annuleer automatische backup naar Dropbox™</string>
+    <string name="msgUnlinkDropbox">Link met app naar Dropbox™ is verwijderd</string>
+    <string name="msgLinkDropbox">Link de app met Dropbox™.\n
+	    Ga naar het volgende scherm voor setup van Dropbox™ link.\n
+		U dient de Dropbox™ app te installeren \n\n
+		U kan automatisch/handmatig een backup maken van uw Database naar Dropbox™\n 
+		Bezoek www.dropbox.com voor meer informatie
+	</string>
+    <string name="msgBackupDBSuccess">Backup van Database geslaagd.</string>
+    <string name="msgBackupDBFail">Backup van Database is mislukt.</string>
+    <string name="msgRestoreConfirm">Controleer of dat dit de meest recente backup is. Anders verliest u misschien de meest recent bewaarde gegevens op uw apparaat.</string>
+    <string name="msgLinkDropboxFail">Link naar Dropbox™ is mislukt.</string>
+    <string name="dbBackupChoose">In welke map wilt u de backup opslaan?</string>
+    <string name="dbBackupChooseM">Kies map:</string>
+    <string name="dbRestoreChoose">Vanuit welke map wilt u de backup herstellen?</string>
+    <string name="dbRestoreChooseM">Kies map:</string>
+    <string name="msgFileNotFound">Bestand niet gevonden in</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Zorg dat u met het internet bent verbonden!</string>
+    <string name="turnOnWifi">Schakel uw WIFI in!</string>
+    <string name="empty">Geen bestanden</string>
+    <string name="emptyChoose">Geen bestand geselecteerd</string>
+    <string name="emptyCustomer">Kies eerst een gebruiker</string>
+    <string name="errorEmpty">Mag niet leeg zijn</string>
+    <string name="errorZero">Kan geen 0 zijn</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Ongeldige licentie</string>
+    <string name="emailChooser">Verzend email met:</string>
+	<string name="msgNoPdfReader">Kan PDF-reader niet vinden</string>
+	<string name="errorNumber">De hoeveelheid kan niet groter zijn dan de huidige hoeveelheid.</string>
+	<string name="errorChoosePeriod">Startdatum is later dan einddatum</string>
+	<string name="confirmExit">Bevestig om af te sluiten?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Vul de volgende gegevens om uw licentie te registreren.</string>
+    <string name="licenseRegisteredMsg">Je bent geregistreerd met de volgende informatie.</string>
+    <string name="lbActivationKey">Activeringssleutel</string>
+    <string name="customerName">Naam</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Email</string>
+    <string name="errorEmailFormat">Fout Email-adres!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Server fout! Foutcode 502</string>
+    <string name="errorServerExcetpion">Server Fout! Foutcode 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Ondersteuning</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database</string>
+    <string name="lbEamilLog">Email Logbestand</string>
+    <string name="lbEmailImage">Email Schermafdruk</string>
+    <string name="not_app_store">Installeer de App store</string>
+    <string name="lbUserVoiceSummary">Zoek hulp of sugesties voor verbeteringen</string>
+    <string name="lbSkypeSummary">Chatsessie: androidapphk </string>
+    <string name="lbTeamViewSummary">Teamview app</string>
+    <string name="lbEmailDatabaseSummary">Rapporteer corrupte DB bestanden</string>
+    <string name="lbEamilLogSummary">Rapporteer een bug met een log file </string>
+    <string name="lbEmailImageSummary">Rapport een bug met schermafdruk</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Beoordeel onze app %s</string>
+    <string name="appRateMessage">%s schrijf AUB een review langs deze weg. Bedankt voor uw support!</string>
+    <string name="appRatePositive">Schrijf een review!</string>
+    <string name="appRateNeutral">Herinner er me later!</string>
+    <string name="appRateNegative">Neen, dank u</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Card</string>
+    <string name="menuSdcard">SD Card</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Code</string>
+    <string name="lbCurrencySign">Teken</string>
+    <string name="lbCurrencyDesc">Omschrijving</string>
+    <string name="titleCurrency">Valuta</string>
+    <string name="titleCurrencyUpdate">Update valuta</string>
+    <string name="titleCurrencyAdd">Voeg valuta toe</string>
+
+    <!-- week -->
+    <string name="sunday">ZONDAG</string>
+    <string name="monday">MAANDAG</string>
+    <string name="tuesday">DINSDAG</string>
+    <string name="wednesday">WOENSDAG</string>
+    <string name="thursday">DONDERDDAG</string>
+    <string name="friday">VRIJDAG</string>
+    <string name="saturday">ZATERDAG</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Jan</string>
+    <string name="feb">Febr</string>
+    <string name="mar">Mrt</string>
+    <string name="apr">Apr</string>
+    <string name="may">Mei</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sept</string>
+    <string name="oct">Okt</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Zo</string>
+    <string name="mon">Ma</string>
+    <string name="tue">Di</string>
+    <string name="wed">Woe</string>
+    <string name="thu">Do</string>
+    <string name="fri">Vrij</string>
+    <string name="sat">Za</string>	
+
+</resources>

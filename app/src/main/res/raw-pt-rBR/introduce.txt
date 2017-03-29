@@ -1,0 +1,102 @@
+<b>Restaurante PDV - Ponto de Venda</b> é um app completo, fácil de usar, voltado especialmente para restaurantes, bares e cafés etc. Restaurante PDV é compatível com suas impressoras e caixas registradoras já existentes, o que poupa seu tempo e seu dinheiro. <br><br>
+
+<b>Este app é um PDV (ponto de venda) autônomo sem sevidor, todos os dados são gravados no dispositivo local, custo único, atualizações ilimitadas</b>
+
+<b>Por favor atualize/compre os recursos avançados para apoiar nosso trabalho e melhorias.</b>
+
+<b>Pedidos</b>
+• Abrir/fechar mesa
+• Cancelar/transferir/dividir pedido
+• Retirada de pedido/consumo no local
+• Item em espera/ordem de cozinha
+• Transferir item de pedido
+
+<b>Pagamento</b>
+• Dividir conta
+• Gorjeta/Taxa de serviço
+
+<b>Menu</b>
+• Criar/modificar/deletar mesa, categoria, item e modificador
+• Importar/exportar/ordernar mesa, categoria, item e modificador
+• Dois impostos para itens
+• Incluir/Excluir imposto no preço dos itens
+• Enviar os itens para impressoras de cozinha e bar
+• Agendamento de preços
+• Menu de compartilhamento com múltiplos dispostivos usando Dropbox™ ou Google Drive™
+
+<b>Impressora</b>(guia de configuração de impressora http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. Adaptador de Impressora W&O POS (instalado em PC com Windows)
+• Supporta todos os tipos de impressora instaladas no PC
+  (baixe o software de impressão W&O POS https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. WiFi/LAN e USB
+• Suporta a maioria das impressoras térmicas com Comando ESC/POS
+   Modelos de Impressoras Verificados: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta 
+
+<b>Gaveta de Dinheiro(RJ12) </b>
+
+<b>Fatura</b>
+• Logotipo da empresa, nome, endereço e número de telefone
+• Nome do cliente, endereço e número de telefone
+• Itens do pedido
+• Valor total, troco total
+• Número do imposto
+• Observações na fatura
+• Incluir/excluir impostos
+• Descontos
+• Gorjeta/Taxa de serviço
+• Guia de gorjeta
+• Mensagem de rodapé
+
+<b>Cliente</b>
+• Mostra informação de cliente na fatura para retirada
+• Criar cliente a partir de contato do telefone
+• Enviar fatura por Email
+
+<b>Relatório</b>
+• Relatório de pedidos
+• Relatório de pedidos cancelados
+• Relatório de pedidos transferidos
+• Relatório de itens
+• Relatório de modificadores
+• Relatório de valor por categoria
+• Relatório de quantidade por categoria
+• Relatório de pagamentos
+
+<b>Autorização</b>
+• Contas de gerente/garçom/caixa
+• Desativar visualização de relatórios para o garçom
+• Destivar descontos para o garçom
+• Desativar taxa de serviço para o garçom
+• Desativar cancelamento de pedidos
+• Desativar abertura manual da gaveta de dinheiro
+
+<b>Configurações</b>
+• Suporta a moeda do seu país
+• Suporta relatório diário de pedidos
+• Números de casas decimais configurável
+• Suporta dois impostos
+
+<b>Banco de dados</b>
+• Backup automático para cartão SD card ou Dropbox™ ao sair do app
+• Backup manual para cartão SD, Dropbox™ ou Google Drive
+• Restorar banco de dados a partir do cartão SD, Dropbox™ ou Google Drive
+• Restorar banco de dados de demonstração
+• Limpar Dados para fácil reconfiguração de mesas, cardápio e clientes
+• Enviar banco de dados por Email
+
+<b>Idiomas disponíveis (outras mais em breve)</b>
+• English, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka), Português do Brasil (Flávio Etrusco)
+
+<b>Permissões</b>
+• INTERNET: Backup via Dropbox
+• BILLING: Comprar novas funcionalidades dentro do aplicativo
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• READ CONTACTS: Adicionar Clientes a partir dos Contatos
+• WRITE EXTERNAL STORAGE: Importar e exportar backup no cartão SD
+
+※ Para múltimos dispositivos recebendo pedido ao mesmo tempo (modelo cliente-servidor), por favor use https://market.android.com/details?id=com.aadhk.wnopos
+※ Se você gostar do app, então por favor dê-nos uma boa avaliação como motivação para nosso contínuo desenvolvimento, obrigado.
+※ Se você tem quaisquer sugestões ou perguntas por favor nos envie um email diretamente. Para análises de mercado, por favor deixe sua avalição e cumprimentos, obrigado novamente.
+
+Use o Restaurante PDV - Ponto de Venda como sistema de pedidos, sistema de restaurante, PDV de restaurantes, PDV de bares, PDV de cafés, PDV móvel, PDV wireless, PDV celular, caixa registradora ou quaisquer outros pontos de venda.

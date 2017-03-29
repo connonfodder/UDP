@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Βάση Δεδομένων</string>
+    <string name="titleSetting">Ρύθμισεις</string>
+    <string name="dlgTitleDate">Επιλέξτε ημερομηνία</string>
+    <string name="dlgTitleTime">Επιλέξτε την ώρα</string>
+    <string name="dlgTitleDatePeriod">πιλέξτε το εύρος ημερομηνιών</string>
+    <string name="lbTo">Σε</string>
+    <string name="titleLicenseExpire">%s είναι χωρίς άδεια, πηγαίνετε στο Google Play για να αγοράσετε.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Επιβεβαίωση</string>
+    <string name="btnCancel">Ακύρωση</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Καθαρισμός</string>
+    <string name="btnRate">Τιμή</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Διαγραφή</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Αποθήκευση</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Πίσω</string>
+    <string name="btnClose">Kλείνω</string>
+    <string name="btnReset">Επαναφορά</string>
+    <string name="btnMore">περισσότερο</string>
+    <string name="btnUpdate">Ενημέρωση</string>
+    <string name="btnExit">Έξοδος</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">αγορά</string>
+    <string name="titleUpgrade">αγορά</string>
+    <string name="pleasePurchase">Παρακαλούμε αγοράσετε!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Σε αγορασμένη εφαρμογή δεν υποστηρίζεται από τη συσκευή σας</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Αυτόματη δημιουργία αντιγράφων ασφαλείας DB στην κάρτα SD</string>
+    <string name="prefAutoBackupSummary">Αυτόματη δημιουργία αντιγράφων ασφαλείας της βάσης δεδομένων στην κάρτα SD πριν την έξοδο της εφαρμογή</string>
+    <string name="prefAutoBackupDropBoxTitle">Αυτόματη δημιουργία αντιγράφων ασφαλείας DB στο Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Αυτόματη δημιουργία αντιγράφων ασφαλείας της βάσης δεδομένων για να Dropbox ™ πριν από την έξοδο της εφαρμογής</string>
+    <string name="prefLinkDropBoxTitle">Σύνδεση με Dropbox ™</string>
+    <string name="prefLinkDropBoxSummary">Συνδέστε την εφαρμογή με το λογαριασμό σας στο Dropbox ™</string>
+    <string name="prefUnlinkDropBoxTitle">Αποσύνδεση με το Dropbox ™</string>
+    <string name="prefUnlinkDropBoxSummary">Αποσύνδεση της εφαρμογής με το λογαριασμό σας στο Dropbox ™</string>
+    <string name="prefBackupTitle">Δημιουργία αντιγράφων ασφαλείας βάσης δεδομένων</string>
+    <string name="prefBackupSummary">Δημιουργία αντιγράφων ασφαλείας δεδομένων σε κάρτα SD και Google ™ δίσκου</string>
+    <string name="prefEmailDbTitle">Email βάσης δεδομένων</string>
+    <string name="prefEmailDbSummary">Στείλτε την τρέχουσα βάση δεδομένων σας</string>
+    <string name="prefAutoDeleteTitle">Αυτόματη Διαγραφή Παλιών Συναλλαγές</string>
+    <string name="prefAutoDeleteSummary">Αυτόματη διαγραφή των παλιών συναλλαγών κατα την έξοδο απο την εφαρμογή</string>
+    <string name="prefAutoDeleteDialog">Επιλέξτε περίοδο</string>
+    <string name="prefRestoreTitle">Επαναφορά βάσης δεδομένων</string>
+    <string name="prefRestoreSummary">Επαναφορά της βάσης δεδομένων από την κάρτα SD και Google ™ δίσκου</string>
+    <string name="prefDeleteAllTitle">Διαγραφή όλων Records</string>
+    <string name="prefDeleteAllSummary">Διαγράψτε όλα τα αρχεία από τη βάση δεδομένων</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Γλώσσες</string>
+    <string name="lbLang">Γλώσσες</string>
+    <string name="prefTitleDate">Format ημερομηνίας</string>
+    <string name="prefTitleTime">Time Format</string>
+    <string name="prefSummaryOnTime">Use 24 hour format</string>
+    <string name="prefSummaryOffTime">Use AM/PM format</string>
+    <string name="prefTranslatorTitle">Μεταφραστές</string>
+    <string name="prefTranslatorSummary">Δεν είναι γλώσσα σας, στελιτε email για να μας βοηθήσετε</string>
+    <string name="prefRegisterTitle">Εγγραφή</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Change Log</string>
+    <string name="appInfo">Πληροφορίες εφαρμογής</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Βάση δεδομένων</string>
+    <string name="msgRestoreSdConfirm">Επιλέξτε ένα από τα αρχεία αντιγράφων ασφαλείας. Βεβαιωθείτε ότι το αρχείο αντιγράφων ασφαλείας είναι το τελευταίαο.</string>
+    <string name="msgNoBackupDatabase">Δεν Βρίσκω το αρχείο αντιγράφου ασφαλείας της βάσης δεδομένων.</string>
+    <string name="dbBackupSucessMsg">Database με επιτυχία αποθηκεύονται στο %s</string>
+    <string name="dbBackupFailMsg">Αντιγράφων ασφαλείας βάσης δεδομένων δεν εγινε στο %s</string>
+    <string name="dbRestoreSucessMsg">Επαναφορά επιτυχής βάσης δεδομένων</string>
+    <string name="dbRestoreFailMsg">Επαναφορά ανεπιτυχής της βάσης δεδομένων</string>
+    <string name="dbDeleteAllSucessMsg">Βάση δεδομένων διαγράφεται με επιτυχία</string>
+    <string name="dbDeleteAllFailMsg">Βάση δεδομένων διαγραφή απέτυχε</string>
+    <string name="dbDeleteAllAlertTitle">Διαγραψή Βάσης δεδομένων</string>
+    <string name="dbDeleteAllAlertMsg">Όλες οι αποθηκευμένες καταχωρήσεις δεδομένων θα αφαιρεθύν από την βάση δεδομένων. Θέλετε πραγματικά να το κάνετε; </string>
+    <string name="dbNoDatabaseMsg">Βάση δεδομένων δεν έχει δημιουργηθεί ακόμα</string>
+    <string name="msgBackuping">Backuping...</string>
+    <string name="msgRestoring">Restoring...</string>
+    <string name="msgGenratingPDF">Παραγωγή PDF...</string>
+    <string name="msgLoading">Φόρτωση...</string>
+    <string name="msgRestoreDropboxUnlink">Παρακαλούμε συνδέστε την εφαρμογή στο Dropbox ™ πριν από την αποκατάσταση της</string>
+    <string name="msgBackupDropboxUnlink">Παρακαλούμε συνδέστε την εφαρμογή στο Dropbox ™ πριν αντιγράφων ασφαλείας</string>
+    <string name="msgAutoBackupDropboxUnlink">Παρακαλούμε συνδέστε την εφαρμογή στο Dropbox ™ πριν ενεργοποιήσετε την αυτόματη δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="msgUnlinkDropbox">Η εφαρμγή είναι αποσυνδεδεμένη απο το Dropbox ™</string>
+    <string name="msgLinkDropbox">Συνδέστε την εφαρμογή με το Dropbox ™.\n
+	    Παρακαλούμε μεταβείτε στην επόμενη οθόνη για να ρυθμίσετε σύνδεσμο Dropbox ™.\n
+		Θα πρέπει να έχετε λογαριασμό Dropbox ™ και να εγκαταστήσετε Dropbox ™ app \n\n
+		Μπορείτε να ενεργοποιήσετε αυτόματα / χειροκίνητα backup της βάσης δεδομένων για να το Dropbox™\n 
+		Για περισσότερες πληροφορίες, παρακαλώ επισκεφθείτε www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Επιτυχής δημιουργία αντιγράφων ασφαλείας βάσης δεδομένων.</string>
+    <string name="msgBackupDBFail">Αποτυχία δημιουργίας αντιγράφων ασφαλείας της βάσης δεδομένων.</string>
+    <string name="msgRestoreConfirm">Παρακαλώ βεβαιωθείτε ότι το αρχείο αντιγράφων ασφαλείας είναι το τελευταίο. Διαφορετικά, μπορεί να χάσετε τα πρόσφατα αποθηκευμένα δεδομένα στη συσκευή.</string>
+    <string name="msgLinkDropboxFail">Σύνδεσμος Dropbox ™  ανεπιτυχής .</string>
+    <string name="dbBackupChoose">Πού θα αποθηκευτεί το αρχείο backup?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Απο πού να γινει restore της βάσης δεδομένων?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Το αρχείο δεν βρέθηκε σε</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Βεβαιωθείτε ότι είστε συνδεδεμένοι στο Internet!</string>
+    <string name="turnOnWifi">Ενεργοποιήστε το Wi-Fi σας!</string>
+    <string name="empty">Δεν υπάρχουν εγγραφές</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Δέν μπορεί να είναι άδειο</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Μη έγκυρο κλειδί άδειας χρήσης</string>
+    <string name="emailChooser">Αποστολή Email Χρησιμοποιώντας:</string>
+    <string name="msgNoPdfReader">Δεν μπορείτε να βρείτε το πρόγραμμα ανάγνωσης PDF, εγκαταστήστε το πρόγραμμα ανάγνωσης PDF και προσπαθήστε ξανά.</string>
+    <string name="errorNumber">Η ποσότητα δεν μπορεί να μεγαλύτερη από την τρέχουσα ποσότητα.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">θέλετε να βγείτε?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Παρακαλούμε, εισάγετε τις ακόλουθες πληροφορίες για την άδεια χρήσης.</string>
+    <string name="licenseRegisteredMsg">Θα είχε καταχωρηθεί με τις ακόλουθες πληροφορίες.</string>
+    <string name="lbActivationKey">Kλειδί</string>
+    <string name="customerName">Όνομα</string>
+    <string name="lbTel">Τηλ.</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Email λάθος μορφή!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Σφάλμα διακομιστή! Κωδικός σφάλματος 502</string>
+    <string name="errorServerExcetpion">Σφάλμα διακομιστή! Κωδικός σφάλματος 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Αξιολόγηση %s</string>
+    <string name="appRateMessage">Αν σας αρέσει να χρησιμοποιείτε %s, αφιερώστε λίγο χρόνο για να το αξιολογήσησετε. Ευχαριστώ για την υποστήριξή σας!</string>
+    <string name="appRatePositive">Αξιολόγισέ το!</string>
+    <string name="appRateNeutral">Υπενθύμιση αργότερα</string>
+    <string name="appRateNegative">Όχι, ευχαριστώ</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">Κάρτα SD</string>
+    <string name="menuSdcard">SD Card</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Κωδικός</string>
+    <string name="lbCurrencySign">Είσοδος</string>
+    <string name="lbCurrencyDesc">Περιγραφή</string>
+    <string name="titleCurrency">Νόμισμα</string>
+    <string name="titleCurrencyUpdate">Ενημέρωση νόμισμα</string>
+    <string name="titleCurrencyAdd">Προσθέστε το νόμισμα</string>
+
+    <!-- week -->
+    <string name="sunday">Κυριακή</string>
+    <string name="monday">Δευτέρα</string>
+    <string name="tuesday">Τρίτη</string>
+    <string name="wednesday">Τετάρτη</string>
+    <string name="thursday">Πέμπτη</string>
+    <string name="friday">Παρασκευή</string>
+    <string name="saturday">Σάββατο</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">ΙΑΝ</string>
+    <string name="feb">ΦΕΒ</string>
+    <string name="mar">ΜΑΡ</string>
+    <string name="apr">ΑΠΡ</string>
+    <string name="may">ΜΑΙ</string>
+    <string name="jun">ΙΟΥΝ</string>
+    <string name="jul">ΙΟΥΛ</string>
+    <string name="aug">ΑΥΓ</string>
+    <string name="sep">ΣΕΠ</string>
+    <string name="oct">ΟΚΤ</string>
+    <string name="nov">ΝΟΕ</string>
+    <string name="dec">ΔΕΚ</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">ΚΥΡ</string>
+    <string name="mon">ΔΕΥ</string>
+    <string name="tue">ΤΡΙ</string>
+    <string name="wed">ΤΕΤ</string>
+    <string name="thu">ΠΕΜ</string>
+    <string name="fri">ΠΑΡ</string>
+    <string name="sat">ΣΑΒ</string>
+
+</resources>

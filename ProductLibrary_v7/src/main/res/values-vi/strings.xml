@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Quay lại</string>
+    <string name="next_button_label">Kế tiếp</string>
+    <string name="skip_button_label">Bỏ qua</string>
+    <string name="titleData">Cơ sở dữ liệu</string>
+    <string name="titleSetting">Cài đặt</string>
+    <string name="dlgTitleDate">Chọn ngày</string>
+    <string name="dlgTitleTime">Chọn thời gian</string>
+    <string name="dlgTitleDatePeriod">Chọn phạm vi ngày</string>
+    <string name="lbTo">Đến</string>
+    <string name="titleLicenseExpire">%s không phải bản quyền, truy cập Google Play để mua.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Xác nhận</string>
+    <string name="btnCancel">Hủy bỏ</string>
+    <string name="btnOk">Đồng ý</string>
+	<string name="btnClear">Bỏ</string>
+    <string name="btnRate">Rate</string>
+    <string name="btnEmail">Đánh giá</string>
+    <string name="btnDelete">Xóa</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Lưu</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Back</string>
+    <string name="btnClose">Đóng</string>
+    <string name="btnReset">Thiết lập lại</string>
+	<string name="btnMore">Nhiều hơn nữa</string>
+    <string name="btnUpdate">Cập nhật</string>
+    <string name="btnExit">Thoát</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Purchase</string>
+    <string name="titleUpgrade">Purchase</string>
+    <string name="pleasePurchase">Please purchase!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Trong ứng dụng, thanh toán không hỗ trợ thiết bị của bạn</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Tự động sao lưu cơ sở dữ liệu đến thẻ SD</string>
+    <string name="prefAutoBackupSummary">Tự động sao lưu cơ sở dữ liệu đến thẻ SD trước khi thoát ứng dụng</string>
+    <string name="prefAutoBackupDropBoxTitle">Tự động sao lưu cơ sở dữ liệu đến Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Tự động sao lưu cơ sở dữ liệu đến Dropbox™ trước khi thoát ứng dụng</string>
+    <string name="prefLinkDropBoxTitle">Liên kết với Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Liên kết ứng dụng với tài khoản Dropbox™ của bạn</string>
+    <string name="prefUnlinkDropBoxTitle">Hủy liên kết với Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Hủy liên kết với tài khoản Dropbox™ của bạn</string>
+    <string name="prefBackupTitle">Sao lưu cơ sở dữ liệu</string>
+    <string name="prefBackupSummary">Sao lưu cơ sở dữ liệu đến thẻ SD hoặc Google™ Drive</string>
+    <string name="prefEmailDbTitle">Email cơ sở dữ liệu</string>
+    <string name="prefEmailDbSummary">Email cơ sở dữ liệu hiện tại của bạn</string>
+    <string name="prefAutoDeleteTitle">Tự động xóa các giao dịch cũ</string>
+    <string name="prefAutoDeleteSummary">Tự động xóa các giao dịch cũ khi thoát ứng dụng</string>
+    <string name="prefAutoDeleteDialog">Chọn giữ khoảng thời gian</string>
+    <string name="prefRestoreTitle">Khôi phục cơ sở dữ liệu</string>
+    <string name="prefRestoreSummary">Khôi phục cơ sở dữ liệu từ thẻ SD hoặc Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Xóa tất cả các dòng dữ liệu</string>
+    <string name="prefDeleteAllSummary">Xóa tất cả các dòng dữ liệu</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Ngôn ngữ</string>
+    <string name="lbLang">Ngôn ngữ</string>
+    <string name="prefTitleDate">Định dạng ngày tháng</string>
+    <string name="prefTitleTime">Định dạng thời gian</string>
+    <string name="prefSummaryOnTime">Sử dụng định dạng 24 giờ</string>
+    <string name="prefSummaryOffTime">Sử dụng định dạng SA/CH</string>
+    <string name="prefTranslatorTitle">Dịch</string>
+    <string name="prefTranslatorSummary">Không có ngôn ngữ của bạn, gửi mail đến chúng tôi để được hỗ trợ</string>
+    <string name="prefRegisterTitle">Đăng ký</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Thay đổi log</string>
+    <string name="appInfo">Thông tin ứng dụng</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Cơ sở dữ liệu</string>
+    <string name="msgRestoreSdConfirm">Chọn một trong những tập tin sao lưu. Chắc chắn tập tin sao lưu là mới nhất.</string>
+    <string name="msgNoBackupDatabase">Không tìm thấy tập tin sao lưu cơ sở dữ liệu.</string>
+    <string name="dbBackupSucessMsg">Cơ sở dữ liệu đã được lưu thành công đến </string>
+    <string name="dbBackupFailMsg">Sao lưu cơ sở dữ liệu thất bại đến </string>
+    <string name="dbRestoreSucessMsg">Khôi phục cơ sở dữ liệu thành công</string>
+    <string name="dbRestoreFailMsg">Khôi phục cơ sở dữ liệu thất bại</string>
+    <string name="dbDeleteAllSucessMsg">Xóa cơ sở dữ liệu thành công</string>
+    <string name="dbDeleteAllFailMsg">Xóa cơ sở dữ liệu thất bại</string>
+    <string name="dbDeleteAllAlertTitle">Xóa tất cả cơ sở dữ liệu</string>
+    <string name="dbDeleteAllAlertMsg">Tất cả các mục dữ liệu đã lưu sẽ được loại bỏ khỏi cơ sở dữ liệu. Bạn có thực sự muốn làm điều đó? </string>
+    <string name="dbNoDatabaseMsg">Database has not created yet</string>
+    <string name="msgBackuping">Đang sao lưu...</string>
+    <string name="msgRestoring">Đang phục hồi…</string>
+    <string name="msgGenratingPDF">Đang tạo PDF...</string>
+    <string name="msgLoading">Đang tải...</string>
+    <string name="msgRestoreDropboxUnlink">Vui lòng liên kết ứng dụng với Dropbox™ trước khi khôi phục</string>
+    <string name="msgBackupDropboxUnlink">Vui lòng liên kết ứng dụng với Dropbox™ trước khi sao lưu</string>
+    <string name="msgAutoBackupDropboxUnlink">Vui lòng liên kết ứng dụng với Dropbox™ trước khi kích hoạt tính năng tự động sao lưu</string>
+    <string name="msgUnlinkDropbox">Ứng dụng được hủy liên kết với Dropbox™</string>
+    <string name="msgLinkDropbox">Liên kết ứng với Dropbox™.\n
+	Hãy đi đến màn hình kết tiếp để cài đặt liên kết Dropbox™.\n
+	Bạn cần có tài khoản Dropbox™ và cài ứng dụng Dropbox™ \n\n
+	Bạn có thể kích hoạt tính năng tự động/thủ công sao lưu cơ sở dữ liệu với Dropbox™ của bạn\n
+	Để biết thêm thông tin, vui lòng truy cập www.dropbox.com
+		</string>
+    <string name="msgBackupDBSuccess">Sao lưu cơ sở dữ liệu thành công.</string>
+    <string name="msgBackupDBFail">Sao lưu cơ sở dữ liệu thất bại</string>
+    <string name="msgRestoreConfirm">Hãy chắc chắn rằng tập tin sao lưu là mới nhất. Nếu không, bạn có thể mất dữ liệu mới nhất đã lưu.</string>
+    <string name="msgLinkDropboxFail">Link to Dropbox™ failure.</string>
+    <string name="dbBackupChoose">Nơi lưu tập tin sao lưu cơ sở dữ liệu?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Tập tin khôi phục cơ sở dữ liệu từ?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Không tìm thấy tập tin tại</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Chắc chắn Internet của bạn đã được kết nối!</string>
+    <string name="turnOnWifi">Bật WIFI của bạn!</string>
+    <string name="empty">Không dữ liệu</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Không được trống</string>
+    <string name="errorZero">Không được là số không</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Bản quyền không hợp lệ</string>
+    <string name="emailChooser">Gửi emal đang sử dụng:</string>
+    <string name="msgNoPdfReader">Không thể tìm trình đọc pdf, cài đặt trình đọc pdf và thử lại lần nữa.</string>
+    <string name="errorNumber">Số lượng không được lớn hơn số lượng hiện tại.</string>
+    <string name="errorChoosePeriod">Ngày bắt đầu lớn hơn ngày kết thúc</string>
+    <string name="confirmExit">Bạn muốn thoát?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+		<string name="licenseRegisteringMsg">Vui lòng nhập thông tin sau để đăng ký bản quyền của bạn.</string>
+		<string name="licenseRegisteredMsg">Bạn đã đăng ký với các thông tin sau.</string>
+		<string name="lbActivationKey">Key</string>
+    <string name="customerName">Tên</string>
+	  <string name="lbTel">SĐT</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Thư</string>
+    <string name="errorEmailFormat">Lỗi định dạng email!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Lỗi máy chủ! Mã lỗi 502.</string>
+	<string name="errorServerExcetpion">Lỗi máy chủ! Mã lỗi 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Đánh giá %s</string>
+    <string name="appRateMessage">Nếu bạn thích sử dụng %s, vui lòng dành chút thời gian để đánh giá nó. Cảm ơn sự hỗ trợ của bạn!</string>
+    <string name="appRatePositive">Đánh giá nó !</string>
+    <string name="appRateNeutral">Nhắc lại sau</string>
+    <string name="appRateNegative">Không. Cảm ơn!</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">Thẻ SD</string>
+    <string name="menuSdcard">Thẻ SD</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Mã</string>
+    <string name="lbCurrencySign">Ký</string>
+    <string name="lbCurrencyDesc">Mô tả</string>
+    <string name="titleCurrency">Tiền</string>
+    <string name="titleCurrencyUpdate">Cập nhật tiền</string>
+    <string name="titleCurrencyAdd">Thêm tiền</string>
+
+    <!-- week -->
+    <string name="sunday">CHỦ NHẬT</string>
+    <string name="monday">THỨ HAI</string>
+    <string name="tuesday">THỨ BA</string>
+    <string name="wednesday">THỨ TƯ</string>
+    <string name="thursday">THỨ NĂM</string>
+    <string name="friday">THỨ SÁU</string>
+    <string name="saturday">THỨ BẢY</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Thg1</string>
+    <string name="feb">Thg2</string>
+    <string name="mar">Thg3</string>
+    <string name="apr">Thg4</string>
+    <string name="may">Thg5</string>
+    <string name="jun">Thg6</string>
+    <string name="jul">Thg7</string>
+    <string name="aug">Thg8</string>
+    <string name="sep">Thg9</string>
+    <string name="oct">Thg10</string>
+    <string name="nov">Thg11</string>
+    <string name="dec">Thg12</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">CN</string>
+    <string name="mon">T2</string>
+    <string name="tue">T3</string>
+    <string name="wed">T4</string>
+    <string name="thu">T5</string>
+    <string name="fri">T6</string>
+    <string name="sat">T7</string>
+
+</resources>

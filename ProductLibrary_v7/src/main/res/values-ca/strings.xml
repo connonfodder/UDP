@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Base de Dades</string>
+    <string name="titleSetting">Ajustaments</string>
+    <string name="dlgTitleDate">Triar Data</string>
+    <string name="dlgTitleTime">Triar Hora</string>       
+    <string name="dlgTitleDatePeriod">Seleccioni rang de dates</string>
+    <string name="lbTo">Para</string>
+    <string name="titleLicenseExpire">%s no té llicència, dirigir-se a Google Play per a comprar</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Confirmar</string>
+    <string name="btnCancel">Cancel·lar</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Esborrar</string>
+    <string name="btnRate">Opinions</string>
+    <string name="btnEmail">E-mail</string>
+    <string name="btnDelete">Esborrar</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Desar</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Tornar</string>
+    <string name="btnClose">Cerca</string>
+    <string name="btnReset">Restablir</string>
+    <string name="btnMore">Més</string>
+    <string name="btnUpdate">Actualitzar</string>
+    <string name="btnExit">Sortir</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Comprar</string>
+    <string name="titleUpgrade">Comprar</string>	
+    <string name="pleasePurchase">Ha d\'adquirir!</string>	
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">In-app billing no está soportat en el seu dispositiu</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Auto Backup de la Base de Dades a Tarjeta SD</string>
+	<string name="prefAutoBackupSummary">Auto Backup de la Base de Dades a Targeta SD abans de sortir de l\'app</string>
+	<string name="prefAutoBackupDropBoxTitle">Auto Backup Base de Dades a Dropbox™</string>
+	<string name="prefAutoBackupDropBoxSummary">Auto Backup de la Base de Dades a Dropbox ™ abans de sortir de l\'app</string>
+	<string name="prefLinkDropBoxTitle">Connectar a Dropbox™</string>
+	<string name="prefLinkDropBoxSummary">Connectar l\'app amb el teu compte de Dropbox™</string>
+	<string name="prefUnlinkDropBoxTitle">Desconnectar de Dropbox™</string>
+	<string name="prefUnlinkDropBoxSummary">Desconnectar el l\'app del seu compte de Dropbox™</string>	
+	<string name="prefBackupTitle">Backup a la Base de Dades</string>
+	<string name="prefBackupSummary">Backup Base de dades a Targeta SD o Google™ Drive</string>
+    <string name="prefEmailDbTitle">Enviar la BD per Email</string>
+	<string name="prefEmailDbSummary">Enviar base de dades acual per email</string>
+    <string name="prefAutoDeleteTitle">Auto esborrar Ordres Antigues</string>
+    <string name="prefAutoDeleteSummary">Auto esborrar Ordres Antigues en sortir de Contabilitat</string>
+    <string name="prefAutoDeleteDialog">Tria conservar el període</string>
+	<string name="prefRestoreTitle">Restablir Base de Dades</string>
+	<string name="prefRestoreSummary">Restablir Base de Dades desde targeta SD Card o Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Esborrar tots els registres</string>
+    <string name="prefDeleteAllSummary">Esborrar tots els registres de la base de dades</string>
+
+    <!-- setting -->
+	<string name="prefLangTitle">Idiomes</string>
+	<string name="lbLang">Idiome</string>
+	<string name="prefTitleDate">Format de Data</string>
+	<string name="prefTitleTime">Format de temps</string>
+  <string name="prefSummaryOnTime">Utilitza format de 24 hores</string>
+  <string name="prefSummaryOffTime">Utilitza format AM/PM</string>
+	<string name="prefTranslatorTitle">Traductors</string>
+    <string name="prefTranslatorSummary">No en el seu idioma?, enviï un email per ajuda</string>
+    <string name="prefRegisterTitle">Registrar</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Canviar Log</string>
+    <string name="appInfo">App info</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Base de Dades</string>
+	<string name="msgRestoreSdConfirm">Triar un dels arxius de backup. Assegureu-vos que l\'arxiu backup és el més recent.</string>
+    <string name="msgNoBackupDatabase">No s\'ha trobat arxiu de Backup</string>
+    <string name="dbBackupSucessMsg">Base de Dades es va guardar amb èxit %s</string>
+    <string name="dbBackupFailMsg">Backup a la Base de Dades fallit %s</string>
+    <string name="dbRestoreSucessMsg">Restabliment de la Base de Dades exitós</string>
+	<string name="dbRestoreFailMsg">Restabliment de la Base de Dades exitós</string>    
+    <string name="dbDeleteAllSucessMsg">Borrado de la Base de Datos exitós</string>
+    <string name="dbDeleteAllFailMsg">Esborrat de la Base de dades fallit</string>
+    <string name="dbDeleteAllAlertTitle">Esborrat de la Base de dades fallit</string>
+    <string name="dbDeleteAllAlertMsg">Tots els registres guardats s\'esborraran de la Base de Dades. Això és el que voleu fer? </string>
+    <string name="dbNoDatabaseMsg">No s\'ha creat encara la base de dades</string>
+    <string name="msgBackuping">Recolzant...</string>
+    <string name="msgRestoring">Recuperant...</string>
+    <string name="msgGenratingPDF">Generant PDF...</string>
+    <string name="msgLoading">Carregant...</string>
+    <string name="msgRestoreDropboxUnlink">Connecti l\'app a Dropbox™ antes de hacer restore</string>
+	<string name="msgBackupDropboxUnlink">Conectis a Dropbox™ antes de hacer backup</string>
+	<string name="msgAutoBackupDropboxUnlink">Conectis a Dropbox™ abans d\'habilitar acte backup</string>
+	<string name="msgUnlinkDropbox">L\'app no està connectada a Dropbox™</string>
+	<string name="msgLinkDropbox">Conecti l\'app amb Dropbox™.\n
+        Aneu a la següent pantalla per establir la connexió de Dropbox ™ \n
+         Requereix d\'un compte i instal·lar l\'app Dropbox ™ \n \n
+         Podeu configurar el backup al seu Dropbox ™ manual/automàticament \n
+         Per a més informació, visiteu www.dropbox.com           
+	</string>
+	<string name="msgBackupDBSuccess">Backup a la Base de Dades a Dropbox™ exitoso.</string>
+	<string name="msgBackupDBFail">Backup a la Base de Dades a Dropbox™ fallido.</string>
+	<string name="msgRestoreConfirm">Confirmeu que l\'arxiu backup és el més recent, en cas contrari, pot perdre els últim canvis fets al dispositiu.</string>
+	<string name="msgLinkDropboxFail">Falla en la connexió amb Dropbox™.</string>
+	<string name="dbBackupChoose">On es desarà el fitxer de backup de la base de dades?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+	<string name="dbRestoreChoose">En on es guardaran els arxius?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+	<string name="msgFileNotFound">Arxiu no trobat</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Assegureu-vos que el seu Internet està connectat!</string>
+    <string name="turnOnWifi">Connecti el WIFI!</string>	
+    <string name="empty">Sense Registres</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">No pot estar buit</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Clau de llicencia invàlida</string>
+    <string name="emailChooser">Enviar correu electrònic utilitzant:</string>
+    <string name="msgNoPdfReader">No es pot trobar el lector pdf, instal·li lector pdf i torneu a provar.</string>
+    <string name="errorNumber">La quantitat no pot ser més gran que la quantitat actual.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">voleu sortir?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Si us plau ingressi següent informació per registrar la seva llicència.</string>
+    <string name="licenseRegisteredMsg">Vostè havia registrat amb la següent informació.</string>
+    <string name="lbActivationKey">Clau</string>
+    <string name="customerName">Nom</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Error de format al E-mail!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Error del servidor! Codi d\'error 502</string>
+    <string name="errorServerExcetpion">Error del servidor! Codi d\'error 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Qualifica\'ns %s</string>
+    <string name="appRateMessage">Si et va agradar %s, si us plau pren un moment per qualificar-lo. Gràcies pel seu suport!</string>
+    <string name="appRatePositive">Qualifica-ho !</string>
+    <string name="appRateNeutral">Recordar després</string>
+    <string name="appRateNegative">No, gràcies</string>
+
+    <!-- context menu -->
+	<string name="menuBackupSdcard">SD Card</string>
+	<string name="menuSdcard">SD Card</string>
+	<string name="menuDropbox">Dropbox™</string>
+	<string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Codi</string>
+    <string name="lbCurrencySign">Signe</string>
+    <string name="lbCurrencyDesc">Descripció</string>
+    <string name="titleCurrency">Moneda</string>
+    <string name="titleCurrencyUpdate">actualitzar moneda</string>
+    <string name="titleCurrencyAdd">Afegir moneda</string>
+
+    <!-- week -->
+    <string name="sunday">DIUMENGE</string>
+    <string name="monday">DILLUNS</string>
+    <string name="tuesday">DIMARTS</string>
+    <string name="wednesday">DIMECRES</string>
+    <string name="thursday">DIJOUS</string>
+    <string name="friday">DIVENDRES</string>
+    <string name="saturday">DISABTE</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Gen</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Abr</string>
+    <string name="may">Mai</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Ago</string>
+    <string name="sep">Set</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Dl</string>
+    <string name="mon">Dm</string>
+    <string name="tue">Dx</string>
+    <string name="wed">Dj</string>
+    <string name="thu">Dv</string>
+    <string name="fri">Ds</string>
+    <string name="sat">Dm</string>	
+
+</resources>

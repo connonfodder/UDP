@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dip"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_title"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/dlgTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Text"
+            android:textColor="@color/txtDialogTitle"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvConnectHint"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip"
+        android:paddingBottom="8dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:text="@string/hintServerConnect"
+        android:textColor="?android:textColorHint"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="4dip"
+        android:gravity="center_vertical" >
+
+        <EditText
+            android:id="@+id/ipValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:digits="@string/digitsPoint"
+            android:inputType="phone"
+            android:maxLength="30"
+            android:selectAllOnFocus="true"
+            android:singleLine="true" />
+
+        <ImageButton
+            android:id="@+id/searchIp"
+            android:layout_width="48dip"
+            android:layout_height="40dip"
+            android:background="@drawable/bg_btn_delivery"
+            android:scaleType="fitCenter"
+            android:src="@android:drawable/ic_menu_search" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="8dip" >
+
+        <include layout="@layout/inc_update_btn" />
+    </LinearLayout>
+
+</LinearLayout>

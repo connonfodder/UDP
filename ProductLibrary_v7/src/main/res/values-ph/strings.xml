@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Bumalik</string>
+    <string name="next_button_label">Sunod</string>
+    <string name="skip_button_label">Laktawan</string>
+    <string name="titleData">Database</string>
+    <string name="titleSetting">Mga Setting</string>
+    <string name="dlgTitleDate">Pumili ng petsa</string>
+    <string name="dlgTitleTime">Pumili ng oras</string>
+    <string name="dlgTitleDatePeriod">Pumili ng saklaw ng petsa</string>
+    <string name="lbTo">Sa</string>
+    <string name="titleLicenseExpire">%s ay hindi lesinsyado, pumunta sa Google Play upang bumili.</string>
+    <string name="titleLicenseAppError">Mali ang pagbili ng aplikasyon: %s.</string>
+    <string name="titleScalePaired">Pagparisin ang Aparato</string>
+    <string name="titleScaleAvailable">Magagamit na Aparato</string>
+    <string name="titleScaleSearching">Naghahanap...</string>
+    <string name="titleScaleSearchFinished">Pagtapos ng Paghahanap</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Ikumpirma</string>
+    <string name="btnCancel">Kanselahin</string>
+    <string name="btnOk">Sige</string>
+	<string name="btnClear">Malinaw</string>
+    <string name="btnRate">Halagahan</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Burahin</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">I-save</string>
+    <string name="btnFind">Hanapin</string>
+    <string name="btnGetWeight">Kuhain ang Bigat</string>
+    <string name="btnBack">Bumalik</string>
+    <string name="btnClose">Isara</string>
+    <string name="btnReset">I-reset</string>
+	<string name="btnMore">Higit pa</string>
+    <string name="btnUpdate">I-update</string>
+    <string name="btnExit">Lumabas</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Bilhin</string>
+    <string name="titleUpgrade">Bilhin</string>
+    <string name="pleasePurchase">Pakiusap bumili!</string>
+    <string name="msgFeaturePurchase">Bilhin upang magamit ang ibang katangian ng aplikasyon!</string>
+    <string name="msgIAStartFail">In-app billing ay hindi suportado ng iyong aparato</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Awtomatikong i-backup ang DB sa SD Card</string>
+    <string name="prefAutoBackupSummary">Awtomatikong i-backup ang database sa SD card bago lumabas ng app</string>
+    <string name="prefAutoBackupDropBoxTitle">Awtomatikong i-backup ang DB sa Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Awtomatikong i-backup ang database sa Dropbox™ bago lumabas ng app</string>
+    <string name="prefLinkDropBoxTitle">Link sa Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Iugnay ang app sa iyong Dropbox™ account</string>
+    <string name="prefUnlinkDropBoxTitle">Unlink sa Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Unlink ang app sa iyong Dropbox™ account</string>
+    <string name="prefBackupTitle">Backup Database</string>
+    <string name="prefBackupSummary">Backup database sa SD Card o sa Google™ Drive</string>
+    <string name="prefEmailDbTitle">I-email ang Database</string>
+    <string name="prefEmailDbSummary">I-email ang iyong kasalukuyang database</string>
+    <string name="prefAutoDeleteTitle">Kusang Burahin ang Lumang Transaksyon</string>
+    <string name="prefAutoDeleteSummary">Kusang Burahin ang Lumang Transaksyon kapag labas sa app</string>
+    <string name="prefAutoDeleteDialog">Pumili ng keeping period</string>
+    <string name="prefRestoreTitle">Ibalik ang Database</string>
+    <string name="prefRestoreSummary">Ibalik ang database mula sa SD Card o Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Burahin Lahat ng Records</string>
+    <string name="prefDeleteAllSummary">Burahin lahat ng records mula sa database</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Lengguwahe</string>
+    <string name="lbLang">Lengguwahe</string>
+    <string name="prefTitleDate">Pagkakaayos ng Petsa</string>
+    <string name="prefTitleTime">Pagkakaayos ng Oras</string>
+    <string name="prefSummaryOnTime">Gumamit ng 24 hour format</string>
+    <string name="prefSummaryOffTime">Gumamit ng AM/PM format</string>
+    <string name="prefTranslatorTitle">Tagapagsaling-wika</string>
+    <string name="prefTranslatorSummary">Kung hindi ito ang iyong wika, mag-email upang matulungan kami</string>
+    <string name="prefRegisterTitle">Magparehistro</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Baguhin ang Log</string>
+    <string name="appInfo">Impormasyon ng App</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Database</string>
+    <string name="msgRestoreSdConfirm">Pumili ng isang backup files. Siguraduhin na ang backup file ay ang pinakabago.</string>
+    <string name="msgNoBackupDatabase">Hindi makita ang backup database file.</string>
+    <string name="dbBackupSucessMsg">Ang Database ay matagumpay ng na i-save sa %s</string>
+    <string name="dbBackupFailMsg">Ang pag backup ng Database ay nabigo sa %s</string>
+    <string name="dbRestoreSucessMsg">Tagumpay ang pag-restore ng database</string>
+    <string name="dbRestoreFailMsg">Bigo ang pag-restore ng database</string>
+    <string name="dbDeleteAllSucessMsg">Tagumpay ang pagbura ng database</string>
+    <string name="dbDeleteAllFailMsg">Nabigong burahin ang Database</string>
+    <string name="dbDeleteAllAlertTitle">Burahin lahat ng Database</string>
+    <string name="dbDeleteAllAlertMsg">Ang lahat ng naka-save na data entries ang tatanggalin mula sa database. Sigurado ka ba? </string>
+    <string name="dbNoDatabaseMsg">Ang Database ay hindi pa nalilikha</string>
+    <string name="msgBackuping">Backuping...</string>
+    <string name="msgRestoring">Restoring...</string>
+    <string name="msgGenratingPDF">Lumilikha ng PDF...</string>
+    <string name="msgLoading">Nagkakarga...</string>
+    <string name="msgRestoreDropboxUnlink">Pakiusap i-link ang app sa Dropbox™ bago ibalik</string>
+    <string name="msgBackupDropboxUnlink">Pakiusap i-link ang app sa Dropbox™ bago backup</string>
+    <string name="msgAutoBackupDropboxUnlink">Pakiusap i-link ang app sa Dropbox™ bago paganahin ang auto backup</string>
+    <string name="msgUnlinkDropbox">Ang app ay hindi na kaugnay sa Dropbox™</string>
+    <string name="msgLinkDropbox">I-link ang app sa Dropbox™.\n
+	    Pakiusap pumunta sa susunod na screen upang i-set up ang Dropbox™ link.\n
+		Kailangan mo ng Dropbox™ account at kailangan mong i-install ang Dropbox™ app \n\n
+		Maaari mong piliin ang awtomatiko/manu-mano na pag-backup ng database sa iyong Dropbox™\n 
+		Para sa karagdagang impormasyon, maaari mong bisitahin ang www.dropbox.com           
+		</string>
+    <string name="msgBackupDBSuccess">Tagumpay ang pag-backup ng database.</string>
+    <string name="msgBackupDBFail">Nabigo ang pag-backup database.</string>
+    <string name="msgRestoreConfirm">Siguraduhin na ang backup file ay ang pinakabago. Kung hindi, maaaring mawala ang bagong saved na data sa iyong aparato.</string>
+    <string name="msgLinkDropboxFail">Ang link para sa Dropbox™ ay bigo.</string>
+    <string name="dbBackupChoose">Saan i-babackup ang database file?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Saan i-restore ang database file?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">Hindi makita ang file sa</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Siguraduhin na nakakonekta ang iyong Internet!</string>
+    <string name="turnOnWifi">Buksan ang iyong WIFI!</string>
+    <string name="empty">Walang Records</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Hindi maaaring walang laman</string>
+    <string name="errorZero">Hindi maaring zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Maling license key</string>
+    <string name="emailChooser">Magpadala ng Email gamit ang:</string>
+    <string name="msgNoPdfReader">Kung hindi makita ang pdf reader, I-install ang pdf reader at subukang muli.</string>
+    <string name="errorNumber">Ang dami ay hindi maaaring lumagpas sa kasalukuyang dami.</string>
+    <string name="errorChoosePeriod">Ang umpisang petsa ang mas malaki kaysa sa katapusang petsa</string>
+    <string name="confirmExit">Nais mo ng lumabas?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Pakiusap i-enter ang mga sumusunod na impormasyon upang mairehistro ang iyong lisensya.</string>
+    <string name="licenseRegisteredMsg">Nakapagparehistro ka gamit ang mga sumusunod ng impormasyon.</string>
+    <string name="lbActivationKey">Key</string>
+    <string name="customerName">Pangalan</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Mali ang format ng Email!</string>
+
+    <!-- server error -->
+    <string name="errorServer">May mali sa Server! May mali sa Code 502.</string>
+    <string name="errorServerExcetpion">May mali sa Server! May mali sa Code 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Halagahan %s</string>
+    <string name="appRateMessage">Kung nasiyahan ka sa paggamit ng %s, pakiusap maglaan ng minuto upang halagahan ito. Salamat sa iyong suporta!</string>
+    <string name="appRatePositive">Halagahan ito!</string>
+    <string name="appRateNeutral">Ipaalala mamaya</string>
+    <string name="appRateNegative">Hindi, salamat</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Card</string>
+    <string name="menuSdcard">SD Card</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Code</string>
+    <string name="lbCurrencySign">Simbolo</string>
+    <string name="lbCurrencyDesc">Deskripsyon</string>
+    <string name="titleCurrency">Currency</string>
+    <string name="titleCurrencyUpdate">I-update currency</string>
+    <string name="titleCurrencyAdd">Magdagdag ng currency</string>
+
+    <!-- week -->
+    <string name="sunday">LINGGO</string>
+    <string name="monday">LUNES</string>
+    <string name="tuesday">MARTES</string>
+    <string name="wednesday">MIYERKULES</string>
+    <string name="thursday">HUWEBES</string>
+    <string name="friday">BIYERNES</string>
+    <string name="saturday">SABADO</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Ene</string>
+    <string name="feb">Peb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Abr</string>
+    <string name="may">May</string>
+    <string name="jun">Hun</string>
+    <string name="jul">Hul</string>
+    <string name="aug">Ago</string>
+    <string name="sep">Set</string>
+    <string name="oct">Okt</string>
+    <string name="nov">Nob</string>
+    <string name="dec">Dis</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Lin</string>
+    <string name="mon">Lun</string>
+    <string name="tue">Mar</string>
+    <string name="wed">Miy</string>
+    <string name="thu">Huw</string>
+    <string name="fri">Biy</string>
+    <string name="sat">Sab</string>
+
+</resources>

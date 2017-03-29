@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <android.support.v7.preference.Preference
+        android:key="userVoice"
+        android:summary="@string/lbUserVoiceSummary"
+        android:title="@string/lbUserVoice" />
+    <android.support.v7.preference.Preference
+        android:key="skype"
+        android:summary="@string/lbSkypeSummary"
+        android:title="@string/lbSkype" />
+    <android.support.v7.preference.Preference
+        android:key="teamView"
+        android:summary="@string/lbTeamViewSummary"
+        android:title="@string/lbTeamView" />
+    <android.support.v7.preference.Preference
+        android:key="eamilLog"
+        android:summary="@string/lbEamilLogSummary"
+        android:title="@string/lbEamilLog" />
+    <android.support.v7.preference.Preference
+        android:key="emailImage"
+        android:summary="@string/lbEmailImageSummary"
+        android:title="@string/lbEmailImage" />
+
+</android.support.v7.preference.PreferenceScreen>

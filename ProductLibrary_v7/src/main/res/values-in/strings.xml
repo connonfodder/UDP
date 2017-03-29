@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Database</string>
+    <string name="titleSetting">Pengaturan</string>
+    <string name="dlgTitleDate">Pilih Tanggal</string>
+    <string name="dlgTitleTime">Pilih Jam</string>
+    <string name="dlgTitleDatePeriod">Pilih Jarak Tanggal</string>
+    <string name="lbTo">Untuk</string>
+    <string name="titleLicenseExpire">%s Telah Terdaftar, Silahkan ke Google Play untuk membeli.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Yakin</string>
+    <string name="btnCancel">Batal</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Bersihkan</string>
+    <string name="btnRate">Nilai</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Hapus</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Simpan</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Kembali</string>
+    <string name="btnClose">Keluar</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnMore">More</string>
+    <string name="btnUpdate">Memperbarui</string>
+<string name="btnExit">Pintu Keluar</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Beli</string>
+    <string name="titleUpgrade">Beli</string>
+    <string name="pleasePurchase">Silahkan Membeli!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Pembelian Langsung Tidak Tersedia Pada Perangkat Anda</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Otomatis Menyimpan DB ke Kartu Memori</string>
+    <string name="prefAutoBackupSummary">Otomatis menyimpan database ke kartu memori sebelum keluar dari aplikasi</string>
+    <string name="prefAutoBackupDropBoxTitle">Otomatis menyimpan DB ke Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Otomatis menyimpan database ke Dropbox™ Sebelum keluar dari aplikasi</string>
+    <string name="prefLinkDropBoxTitle">Hubungkan dengan Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Hubungkan aplikasi dengan akun Dropbox™ </string>
+    <string name="prefUnlinkDropBoxTitle">Matikan Hubungan dengan Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Matikan hubungan aplikasi dengan akun Dropbox™ </string>
+    <string name="prefBackupTitle">Simpan Database</string>
+    <string name="prefBackupSummary">Simpan database ke Kartu memori atau Google™ Drive</string>
+    <string name="prefEmailDbTitle">Email Database</string>
+    <string name="prefEmailDbSummary">Email Database Sekarang</string>
+    <string name="prefAutoDeleteTitle">Otomatis Menghapus Transaksi Lama</string>
+    <string name="prefAutoDeleteSummary">Otomatis Menghapus Transaksi Lama Ketika Keluar Dari Aplikasi</string>
+    <string name="prefAutoDeleteDialog">Pilih Lama Penyimpanan</string>
+    <string name="prefRestoreTitle">Kembalikan Database</string>
+    <string name="prefRestoreSummary">Kembalikan database dari Kartu memori atau Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Hapus semua Data</string>
+    <string name="prefDeleteAllSummary">Hapus semua data dari database</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Bahasa</string>
+    <string name="lbLang">Bahasa</string>
+    <string name="prefTitleDate">Format Tanggal</string>
+    <string name="prefTitleTime">Format Waktu</string>
+    <string name="prefSummaryOnTime">Gunakan format 24-jam</string>
+    <string name="prefSummaryOffTime">Gunakan AM/PM format</string>
+    <string name="prefTranslatorTitle">Penerjemah</string>
+    <string name="prefTranslatorSummary">Bukan Bahasa Kamu, Email untuk membantu</string>
+    <string name="prefRegisterTitle">Daftar</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Jejak</string>
+    <string name="prefLogTitle">Ganti Jejak</string>
+    <string name="appInfo">Info Aplikasi</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Database</string>
+    <string name="msgRestoreSdConfirm">Pilih salah satu file tersimpan. Pastikan adalah yang terbaru.</string>
+    <string name="msgNoBackupDatabase">Tidak menemukan database tersimpan.</string>
+    <string name="dbBackupSucessMsg">Database berhasil disimpak ke %s</string>
+    <string name="dbBackupFailMsg">Database gagal disimpan ke %s</string>
+    <string name="dbRestoreSucessMsg">Pengembalian database berhasil</string>
+    <string name="dbRestoreFailMsg">Pengembalian database gagal</string>
+    <string name="dbDeleteAllSucessMsg">Database Berhasil dihapus</string>
+    <string name="dbDeleteAllFailMsg">Database Gagal di hapus</string>
+    <string name="dbDeleteAllAlertTitle">Semua Database Dihapus</string>
+    <string name="dbDeleteAllAlertMsg">Semua data yang tersimpan dihapus . Apakah Anda Yakin? </string>
+    <string name="dbNoDatabaseMsg">Database belum dibuat</string>
+    <string name="msgBackuping">Menyimpan...</string>
+    <string name="msgRestoring">Mengembalikan...</string>
+    <string name="msgGenratingPDF">Mengubah ke PDF...</string>
+    <string name="msgLoading">Loading...</string>
+    <string name="msgRestoreDropboxUnlink">Silahkan hubungkan aplikasi ke Dropbox™ sebelum mengembalikan</string>
+    <string name="msgBackupDropboxUnlink">Silahkan hubungkan aplikasi ke Dropbox™ sebelum menyimpan</string>
+    <string name="msgAutoBackupDropboxUnlink">Silahkan hubungkan aplikasi ke Dropbox™ sebelum menghidupkan penyimpanan otomatis</string>
+    <string name="msgUnlinkDropbox">Aplikasi tidak terhubung ke Dropbox™</string>
+    <string name="msgLinkDropbox">Hubungkan aplikasi dengan Dropbox™.\n
+	    Silahkan lanjutkan ke layar pengaturan Dropbox™ link.\n
+		Kamu harus mempunyai akun Dropbox™ dan menginstal aplikasi Dropbox™ \n\n
+		Kamu dapat menghidupkan penyimpanan database otomatis/manual  ke  Dropbox™ mu \n 
+		Untuk penjelasan, Datang ke www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Menyimpan database berhasil.</string>
+    <string name="msgBackupDBFail">Menyimpan database gagal.</string>
+    <string name="msgRestoreConfirm">Pastikan data yang tersimpan yang terbaru. Atau kamu akan kehilangan data yang baru kamu buat di perangkat.</string>
+    <string name="msgLinkDropboxFail">Hubungkan ke Dropbox™ gagal.</string>
+    <string name="dbBackupChoose">Dimana menyimpan file database?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Dari mana mengembalikan database?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">File tidak ditemukan di</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Pastikan kamu terhubung dengan internet!</string>
+    <string name="turnOnWifi">Nyalakan WIFI!</string>
+    <string name="empty">Tidak ada data</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Tidak boleh kosong</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Nomer seri lisensi salah</string>
+    <string name="emailChooser">Kirim Email Menggunakan:</string>
+	<string name="msgNoPdfReader">Tidak menemukan pembaca pdf </string>
+	<string name="errorNumber">Kuantitas tidak bisa lebih besar daripada kuantitas saat ini.</string>
+	<string name="errorChoosePeriod">Start date is greater than end date</string>
+	<string name="confirmExit">Ingin Keluar?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Masukkan informasi berikut untuk mendaftar lisensi Anda.</string>
+    <string name="licenseRegisteredMsg">Anda telah terdaftar dengan informasi berikut.</string>
+    <string name="lbActivationKey">Kunci</string>
+    <string name="customerName">Nama</string>
+    <string name="lbTel">Telpon</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Format email salah!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Server error! Kesalahan Kode 502</string>
+    <string name="errorServerExcetpion">Server error! Kesalahan Kode 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Nilai %s</string>
+    <string name="appRateMessage">Apabila kamu puas %s, Silahkan nilai. Terima kasih atas dukungannya!</string>
+    <string name="appRatePositive">Nilai!</string>
+    <string name="appRateNeutral">Nanti</string>
+    <string name="appRateNegative">Tidak Terima kasih</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">Kartu memori</string>
+    <string name="menuSdcard">Kartu Memori</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Kode</string>
+    <string name="lbCurrencySign">Daftarkan</string>
+    <string name="lbCurrencyDesc">Penjelasan</string>
+    <string name="titleCurrency">Mata uang</string>
+    <string name="titleCurrencyUpdate">Perbaharui Mata uang</string>
+    <string name="titleCurrencyAdd">Tambahkan Mata uang</string>
+
+    <!-- week -->
+    <string name="sunday">SUNDAY</string>
+    <string name="monday">MONDAY</string>
+    <string name="tuesday">TUESDAY</string>
+    <string name="wednesday">WEDNESDAY</string>
+    <string name="thursday">THURSDAY</string>
+    <string name="friday">FRIDAY</string>
+    <string name="saturday">SATURDAY</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>	
+
+</resources>

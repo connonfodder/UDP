@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">База данных</string>
+    <string name="titleSetting">Настройки</string>
+    <string name="dlgTitleDate">Выберите дату</string>
+    <string name="dlgTitleTime">Выберите время</string>
+    <string name="dlgTitleDatePeriod">Диапазон дат</string>
+    <string name="lbTo">To</string>
+    <string name="titleLicenseExpire">%s не зарегистрирован, перейдите в Google Play для приобретения.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Подтвердить</string>
+    <string name="btnCancel">Отменить</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Очистить</string>
+    <string name="btnRate">Ставка</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Yдалить</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Сохранить</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Назад</string>
+	<string name="btnClose">Закрыть</string>
+	<string name="btnReset">Reset</string>
+	 <string name="btnMore">больше</string>
+	 <string name="btnUpdate">Обновить</string>
+	 <string name="btnExit">выход</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Покупка</string>
+    <string name="titleUpgrade">Покупка</string>
+    <string name="pleasePurchase">Пожалуйста приобретите!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">Оплата в приложении не поддреживается Вашим устройством</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Автоматическое резервное копирование на SD карту</string>
+    <string name="prefAutoBackupSummary">Автоматическое резервное копирование на SD карту перед выходом из прилодения.</string>
+    <string name="prefAutoBackupDropBoxTitle">Автоматическое резервное копирование в Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Автоматическое резервное копирование в Dropbox™ перед выходом из прилодения</string>
+    <string name="prefLinkDropBoxTitle">Связь с Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Связь приложения с Вашим Dropbox™ аккаунтом</string>
+    <string name="prefUnlinkDropBoxTitle">Разорвать связь с Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Разорвать связь приложения с Вашим Dropbox™ аккаунтом</string>
+    <string name="prefBackupTitle">Резервное копирование</string>
+    <string name="prefBackupSummary">Резервное копирование на SD карту или Google™ Drive</string>
+    <string name="prefEmailDbTitle">Отправка БД на email</string>
+    <string name="prefEmailDbSummary">Отправить текущую БД на email</string>
+    <string name="prefAutoDeleteTitle">Автоудаление старых транзакций</string>
+    <string name="prefAutoDeleteSummary">Автоудаление старых транзакций перед выходом из приложения</string>
+    <string name="prefAutoDeleteDialog">Выберите период хранения данных</string>
+    <string name="prefRestoreTitle">Восстановление БД</string>
+    <string name="prefRestoreSummary">Востановление БД из SD Card™ или Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Yдалить все записи</string>
+    <string name="prefDeleteAllSummary">Yдалить все записи из БД</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Язык</string>
+    <string name="lbLang">Язык</string>
+    <string name="prefTitleDate">Формат даты</string>
+    <string name="prefTitleTime">Формат времени</string>
+    <string name="prefSummaryOnTime">24 часовой формат</string>
+    <string name="prefSummaryOffTime">AM/PM формат</string>
+    <string name="prefTranslatorTitle">Переводы</string>
+    <string name="prefTranslatorSummary">Нет перевода на Ваш язык, напишите нам на email</string>
+    <string name="prefRegisterTitle">Регистрация</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Лог</string>
+    <string name="prefLogTitle">История версий</string>
+    <string name="appInfo">О приложении</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - База данных</string>
+    <string name="msgRestoreSdConfirm">Выберите файл для восстановления. Убедитесь что файл является актуальным.</string>
+    <string name="msgNoBackupDatabase">Фала для восстановления не найдено.</string>
+    <string name="dbBackupSucessMsg">БД успешно сохранена на %s</string>
+    <string name="dbBackupFailMsg">Ошибка восстановления БД %s</string>
+    <string name="dbRestoreSucessMsg">Восстановление БД успешно</string>
+    <string name="dbRestoreFailMsg">Ошибка восстановления БД</string>
+    <string name="dbDeleteAllSucessMsg">БД удалена успешно</string>
+    <string name="dbDeleteAllFailMsg">Ошибка удаления БД</string>
+    <string name="dbDeleteAllAlertTitle">Yдалить все БД</string>
+    <string name="dbDeleteAllAlertMsg">Вся сохраненная информация будет удалена из БД. Вы хотите продолжить?</string>
+    <string name="dbNoDatabaseMsg">БД еще не создана</string>
+    <string name="msgBackuping">Резервное копирование...</string>
+    <string name="msgRestoring">Восстановление...</string>
+    <string name="msgGenratingPDF">Генерация PDF...</string>
+    <string name="msgLoading">Загрузка...</string>
+    <string name="msgRestoreDropboxUnlink">Связать приложение с Dropbox™ перед восстановлением</string>
+    <string name="msgBackupDropboxUnlink">Связать приложение с Dropbox™ перед резервным копированием</string>
+    <string name="msgAutoBackupDropboxUnlink">Связать приложение с Dropbox™ перед включением автоматического резервного копирования</string>
+    <string name="msgUnlinkDropbox">Связь приложения с Dropbox™ отменена</string>
+    <string name="msgLinkDropbox">Связать приложение с Dropbox™.\n
+	    Перейдите на следующий экран для устновки Dropbox™.\n
+		Вам необходимно завести Dropbox™ аккаунт и установить приложение Dropbox™\n\n
+		Вы можете включить автоматическое/ручное резервное копирование БД на Ваш Dropbox™\n 
+		Подробная информация на www.dropbox.com           
+	</string>
+    <string name="msgBackupDBSuccess">Резервное копирование БД завершено.</string>
+    <string name="msgBackupDBFail">Ошибка резервного копирования БД.</string>
+    <string name="msgRestoreConfirm">Yбедитесь что резервная копия является актуальной.</string>
+    <string name="msgLinkDropboxFail">Ошибка установления связи с Dropbox™.</string>
+    <string name="dbBackupChoose">Where to backup database file?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Where restore database file from?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">File not found at</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Yбедитесь что подключение к интернету установлено!</string>
+    <string name="turnOnWifi">Включите WIFI!</string>
+    <string name="empty">Нет записей</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Не может быть пустым</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Неправильный лицензионный ключ</string>
+    <string name="emailChooser">Отправить Email используя:</string>
+    <string name="msgNoPdfReader">Нет программы для чтения pdf, установите программу для чтения pdf и попробуйте еще раз.</string>
+    <string name="errorNumber">Количество не может больше текущего количества.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">Бажаєте вийти?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Пожалуйста, введите следующую информацию, чтобы зарегистрировать вашу лицензию.</string>
+    <string name="licenseRegisteredMsg">Вы уже зарегистрированы следующую информацию.</string>
+    <string name="lbActivationKey">Kлюч</string>
+    <string name="customerName">Имя</string>
+    <string name="lbTel">Тел.</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">Неправильный Email!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Ошибка сервера! Код ошибки 502</string>
+    <string name="errorServerExcetpion">Ошибка сервера! Код ошибки 501</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Оценка %s</string>
+    <string name="appRateMessage">Если Вам понравилось %s пожалуйста оцените его. Спасибо за Вашу поддержку!</string>
+    <string name="appRatePositive">Оценить</string>
+    <string name="appRateNeutral">Напомнить позже</string>
+    <string name="appRateNegative">Нет спасибо</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD карта</string>
+    <string name="menuSdcard">SD карта</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Код</string>
+    <string name="lbCurrencySign">Подпись</string>
+    <string name="lbCurrencyDesc">Описание</string>
+    <string name="titleCurrency">Валюта</string>
+    <string name="titleCurrencyUpdate">Обновить валюту</string>
+    <string name="titleCurrencyAdd">Добавить валюту</string>
+
+    <!-- week -->
+    <string name="sunday">ВОСКРЕСЕНЬЕ</string>
+    <string name="monday">ПОНЕДЕЛЬНИК</string>
+    <string name="tuesday">ВТОРНИК</string>
+    <string name="wednesday">СРЕДА</string>
+    <string name="thursday">ЧЕТВЕРГ</string>
+    <string name="friday">ПЯТНИЦА</string>
+    <string name="saturday">СУББОТА</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Январь</string>
+    <string name="feb">Февраль</string>
+    <string name="mar">Март</string>
+    <string name="apr">Апрель</string>
+    <string name="may">Май</string>
+    <string name="jun">Июнь</string>
+    <string name="jul">Июль</string>
+    <string name="aug">Август</string>
+    <string name="sep">Сентябрь</string>
+    <string name="oct">Октябрь</string>
+    <string name="nov">Ноябрь</string>
+    <string name="dec">Декабрь</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Вск</string>
+    <string name="mon">Пнд</string>
+    <string name="tue">Втр</string>
+    <string name="wed">Срд</string>
+    <string name="thu">Чтв</string>
+    <string name="fri">Птн</string>
+    <string name="sat">Суб</string>	
+
+</resources>

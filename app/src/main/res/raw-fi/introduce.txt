@@ -1,0 +1,109 @@
+<b> Ravintola POS - Point of Sale </b> on täysin varustellun, helppokäyttöinen ja edullinen pk ravintola, baari ja kahvila jne Ravintola POS on yhteensopiva nykyisten tulostimien ja kassalaatikot, mikä säästää aikaa, ja säästää rahaa. <br>
+
+<b> Tämä sovellus on stand-alone POS ilman palvelinta, kaikki tiedot tallennetaan paikallisen laitteen, yksi kulu, rajoittamaton päivitys </b>
+
+Tukea useita laitteita ottaen jotta samaan aikaan, tarvitset palvelimen version, voit viittaus seuraavaa linkkiä.
+https://play.google.com/store/apps/details?id=com.aadhk.wnopos
+
+<b> Päivitä / osto etukäteen ominaisuuksia tukemaan parantamalla teoksia. </b>
+
+<b> Jos haluat raportoida virheistä tai ominaisuuspyyntöihin: </b>
+https://pos.uservoice.com
+
+<b> Ominaisuudet </b>
+<b> tilaaminen </b>
+• Avaa / sulje pöytä
+• Void / siirto / split järjestys
+• Ota / ruokasali, jotta
+• Odota / Cook tilauspositio
+• siirto tilauspositio
+
+<b> Maksu </b>
+• Split bill
+• Palkkio / Palvelumaksu
+
+<b> </b>
+• Luo / muokkaa / poista pöytä, luokka, erä ja muokkaaja
+• Tuonnin / viennin / tilaus pöytä, luokka, erä ja muokkaaja
+• Kaksi verot kohdetta
+• Mukaan / pois veron kohteen hinta
+• Keittiö / baari tulostimet kohdetta
+• Hinta aikataulu kohdetta
+• Jaa-valikko, jossa on useita laitteita Dropbox ™ tai Google Drive ™
+
+<b> Tulostimet </b> (tulostimen asennusopas http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W & O POS -tulostinsovitin (asennettu ikkuna PC)
+• Tuetaan kaikenlaisia ​​tulostimia, jotka on asennettu tietokoneeseen ohjain
+  (Lataa WnO POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. Wifi / Lan ja USB
+• Tuki useimmat lämpökirjoittimet ESC / POS Command
+   Verified Tulostin Malli: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta
+
+<b> Kassalaatikko (RJ12) </b>
+
+<b> Lasku </b>
+• Yrityksen logo, nimi, osoite ja puhelinnumero
+• Asiakkaan nimi, osoite ja puhelinnumero
+• Tuotteiden tilaaminen
+• kokonaismäärä, muutoksen suuruuden
+• Veronumero
+• Lasku huomautus
+• Sisällytä / sisällä veroja
+• Alennus
+• Palkkio / Palvelumaksu
+• Vinkki opas
+• Footer viesti
+
+<b> Asiakas </b>
+• Näytä asiakas info laskun ottaa
+• Luo asiakasta puhelimitse yhteyttä
+• Sähköposti lasku asiakkaalle
+
+<b> Ilmoita </ ​​b>
+• Tilaa raportti
+• Void Tilausraportti
+• Siirrä Tilausraportti
+• Kohta raportti
+• muokkaaja raportti
+• Luokka Määrä raportti
+• Luokka laatuseloste
+• Maksu Raportti
+
+<b> Viranomainen </b>
+• Manager / tarjoilija kirjautuminen
+• Poista käytöstä katselu raportti tarjoilija
+• Poista käytöstä alennus tarjoilija
+• Poista käytöstä huoltopalkkio tarjoilija
+• Poista käytöstä void järjestys
+• Poista käytöstä manuaalisesti auki kassasta
+
+<b> Asetukset </b>
+• Tue maan valuutta
+• Tuki päivittäin, jotta raportti yli päivä
+• Muokattavat desimaalilla
+• Tuki kaksi veroja
+
+<b> Tietokanta </ ​​b>
+• Automaattinen varmuuskopiointi tietokanta SD-kortille tai Dropbox ™ kun suljet sovelluksen
+• Manuaalinen varmuuskopiointi tietokanta SD-kortille ja Dropbox ™
+• Palauta tietokanta SD-kortilta ja Dropbox ™
+• Palauta demo tietokanta
+• Tyhjennä Tietojen helppo palaisi pöytä, menu ja asiakkaan
+• Sähköposti-tietokanta
+
+<b> Käytettävissä olevat kielet (lisää tulossa) </b>
+• Englanti, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka)
+
+<b> Oikeudet </b>
+• Internet: Dropbox Backup
+• Laskutusosoite: In-App Billing
+• liityntäverkon osavaltio: Google seuranta
+• ACCESS_WIFI_STATE: Google seuranta
+• LUE YHTEYSTIEDOT: lisääminen Client yhteystiedoista
+• Merkitse External Storage: Varmuuskopiointi ja vienti SDCard
+
+※ Useiden laite ottaa tilauksia samanaikaisesti (clent, palvelin-malli), katso https://market.android.com/details?id=com.aadhk.wnopos
+※ Jos pidät app, niin antakaa meille hyvän arvosanan liikkeellepanevana voimana jatkuvaa kehittämistä, kiitos.
+※ Jos sinulla on ehdotuksia tai kysymyksiä lähetä sähköpostia meidän postilaatikkoon suoraan. Markkinoiden arvosteluja, kiitos vain jätä luokitus ja hurraa, kiitos jälleen.
+
+Käytä Ravintola POS - Point of Sale kuin tilausjärjestelmä, ravintola järjestelmä, ravintola pos, baari pos, kahvila pos, mobiili pos, langaton pos, puhelin pos, kassakone tai muuta myyntipistettä.

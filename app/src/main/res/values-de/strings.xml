@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP-Adresse Formatfehler!</string>
+    <string name="hintSameNetWork">Nicht in demselben Netzwerk!!</string>
+    <string name="serverNotFound">Kann nicht finden W&amp;O POS server.</string>
+    <string name="lbVoid">Leeren</string>
+
+</resources>

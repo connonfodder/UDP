@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="errorIpFormat">IP Adresi biçimi hatası!</string>
+    <string name="HintSameNetWork">Değil aynı ağda!</string>
+    <string name="serverNotFound">Bulamıyor W&amp;. O POS sunucusu</string>
+    <string name="lbVoid">Void</string>
+
+</resources>

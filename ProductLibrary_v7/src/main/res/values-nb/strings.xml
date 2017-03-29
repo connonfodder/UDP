@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <!-- title -->
+
+    <string name="titleInviteFriends">Invite Friends</string>
+    <string name="back_button_label">Back</string>
+    <string name="next_button_label">Next</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="titleData">Database</string>
+    <string name="titleSetting">Settings</string>
+    <string name="dlgTitleDate">Choose date</string>
+    <string name="dlgTitleTime">Choose time</string>
+    <string name="dlgTitleDatePeriod">Choose date range</string>
+    <string name="lbTo">To</string>
+    <string name="titleLicenseExpire">%s is unlicensed, go to Google Play to purchase.</string>
+    <string name="titleLicenseAppError">Purchase application error: %s.</string>
+    <string name="titleScalePaired">Paired Devices</string>
+    <string name="titleScaleAvailable">Available Devices</string>
+    <string name="titleScaleSearching">Search...</string>
+    <string name="titleScaleSearchFinished">Search Completion</string>
+
+    <!-- button -->
+    <string name="btnConfirm">Confirm</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnOk">OK</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnRate">Rate</string>
+    <string name="btnEmail">Email</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnDuplicate">Duplicate</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSave">Save</string>
+    <string name="btnFind">Find</string>
+    <string name="btnGetWeight">Get Weight</string>
+    <string name="btnBack">Back</string>
+    <string name="btnClose">Close</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnMore">More</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnNo">No</string>
+
+    <!-- billing -->
+    <string name="menuUpgrade">Purchase</string>
+    <string name="titleUpgrade">Purchase</string>
+    <string name="pleasePurchase">Please purchase!</string>
+    <string name="msgFeaturePurchase">Purchase to use the feature!</string>
+    <string name="msgIAStartFail">In-app billing is not supported by your device</string>
+
+    <!-- database preference -->
+    <string name="prefAutoBackupTitle">Auto Backup DB to SD Card</string>
+    <string name="prefAutoBackupSummary">Auto backup database to SD card before exit app</string>
+    <string name="prefAutoBackupDropBoxTitle">Auto Backup DB to Dropbox™</string>
+    <string name="prefAutoBackupDropBoxSummary">Auto backup database to Dropbox™ before exit app</string>
+    <string name="prefLinkDropBoxTitle">Link with Dropbox™</string>
+    <string name="prefLinkDropBoxSummary">Link the app with your Dropbox™ account</string>
+    <string name="prefUnlinkDropBoxTitle">Unlink with Dropbox™</string>
+    <string name="prefUnlinkDropBoxSummary">Unlink the app with your Dropbox™ account</string>
+    <string name="prefBackupTitle">Backup Database</string>
+    <string name="prefBackupSummary">Backup database to SD Card or Google™ Drive</string>
+    <string name="prefEmailDbTitle">Email Database</string>
+    <string name="prefEmailDbSummary">Email your current database</string>
+    <string name="prefAutoDeleteTitle">Auto Delete Old Transactions</string>
+    <string name="prefAutoDeleteSummary">Auto delete old transaction when exit app</string>
+    <string name="prefAutoDeleteDialog">Choose keeping period</string>
+    <string name="prefRestoreTitle">Restore Database</string>
+    <string name="prefRestoreSummary">Restore database from SD Card or Google™ Drive</string>
+    <string name="prefDeleteAllTitle">Delete All Records</string>
+    <string name="prefDeleteAllSummary">Delete all records from database</string>
+
+    <!-- setting -->
+    <string name="prefLangTitle">Languages</string>
+    <string name="lbLang">Språk</string>
+    <string name="prefTitleDate">Date Format</string>
+    <string name="prefTitleTime">Time Format</string>
+    <string name="prefSummaryOnTime">Use 24 hour format</string>
+    <string name="prefSummaryOffTime">Use AM/PM format</string>
+    <string name="prefTranslatorTitle">Translators</string>
+    <string name="prefTranslatorSummary">Not your language, email to help us</string>
+    <string name="prefRegisterTitle">Register</string>
+    <string name="prefSupportTitle">Support</string>
+    <string name="prefSupportSummary">Report bugs or request features </string>
+    <string name="menuLog">Log</string>
+    <string name="prefLogTitle">Change Log</string>
+    <string name="appInfo">App info</string>
+    <string name="poweredBy">Powered by</string>
+
+    <!-- Auto Logout -->
+    <string name="prefSessionPeriodTitle">Auto Logout</string>
+    <string name="prefSessionPeriodDialogTitle">Auto Logout</string>
+    <string name="prefSessionPeriodSummary">After %1$s of inactivity</string>
+    <string name="prefSessionPeriodSummaryNever">Never</string>
+    <string name="sessionTimeValue1">15 seconds</string>
+    <string name="sessionTimeValue2">30 seconds</string>
+    <string name="sessionTimeValue3">1 minute</string>
+    <string name="sessionTimeValue4">2 minutes</string>
+    <string name="sessionTimeValue5">5 minutes</string>
+    <string name="sessionTimeValue6">10 minutes</string>
+    <string name="sessionTimeValue7">30 minutes</string>
+    <string name="sessionTimeValue8">Never</string>
+
+    <!-- db backup -->
+    <string name="emailSubjectDatabase">%s - Database</string>
+    <string name="msgRestoreSdConfirm">Choose one of backup files. Make sure the backup file is the latest.</string>
+    <string name="msgNoBackupDatabase">Do not find backup database file.</string>
+    <string name="dbBackupSucessMsg">Database is successfully saved to %s</string>
+    <string name="dbBackupFailMsg">Database backup fail to %s</string>
+    <string name="dbRestoreSucessMsg">Restore database success</string>
+    <string name="dbRestoreFailMsg">Restore database failure</string>
+    <string name="dbDeleteAllSucessMsg">Database is deleted successfully</string>
+    <string name="dbDeleteAllFailMsg">Database is deleted fail</string>
+    <string name="dbDeleteAllAlertTitle">Database delete all</string>
+    <string name="dbDeleteAllAlertMsg">All the saved data entries will be removed from database. Do you really want to do it? </string>
+    <string name="dbNoDatabaseMsg">Database has not created yet</string>
+    <string name="msgBackuping">Backuping...</string>
+    <string name="msgRestoring">Restoring...</string>
+    <string name="msgGenratingPDF">Generating PDF...</string>
+    <string name="msgLoading">Loading...</string>
+    <string name="msgRestoreDropboxUnlink">Please link the app to Dropbox™ before restore</string>
+    <string name="msgBackupDropboxUnlink">Please link the app to Dropbox™ before backup</string>
+    <string name="msgAutoBackupDropboxUnlink">Please link the app to Dropbox™ before enable auto backup</string>
+    <string name="msgUnlinkDropbox">The app is unlinked to Dropbox™</string>
+    <string name="msgLinkDropbox">Link the app with Dropbox™.\n
+	    Please go to next screen to setup Dropbox™ link.\n
+		You need to have Dropbox™ account and install Dropbox™ app \n\n
+		You can turn on automatically/manually backup database to your Dropbox™\n 
+		For more information, please visit www.dropbox.com           
+</string>
+    <string name="msgBackupDBSuccess">Backup database success.</string>
+    <string name="msgBackupDBFail">Backup database failure.</string>
+    <string name="msgRestoreConfirm">Please make sure the backup file is the latest. Otherwise, you may lose the newly saved data on the device.</string>
+    <string name="msgLinkDropboxFail">Link to Dropbox™ failure.</string>
+    <string name="dbBackupChoose">Where to backup database file?</string>
+    <string name="dbBackupChooseM">Where to backup database file:</string>
+    <string name="dbRestoreChoose">Where restore database file from?</string>
+    <string name="dbRestoreChooseM">Where restore database file from:</string>
+    <string name="msgFileNotFound">File not found at</string>
+
+    <!-- message -->
+    <string name="networkMsgChecking">Make sure your Internet is connected!</string>
+    <string name="turnOnWifi">Turn on your WIFI!</string>
+    <string name="empty">No Records</string>
+    <string name="emptyChoose">Must choose item</string>
+    <string name="emptyCustomer">Choose customer first</string>
+    <string name="errorEmpty">Cannot be empty</string>
+    <string name="errorZero">Cannot be zero</string>
+    <string name="errorEmptyAndZero">Cannot be zero &amp; 0</string>
+    <string name="errorKey">Invalid license key</string>
+    <string name="emailChooser">Send Email Using:</string>
+    <string name="msgNoPdfReader">Cannot find pdf reader, install pdf reader and try again.</string>
+    <string name="errorNumber">The quantity cannot larger than current quantity.</string>
+    <string name="errorChoosePeriod">Start date is greater than end date</string>
+    <string name="confirmExit">Lyst til å avslutte?</string>
+    <string name="msgLoginAgain">Login Again!</string>
+
+    <!-- license -->
+    <string name="licenseRegisteringMsg">Skriv inn følgende informasjon for å registrere din lisens.</string>
+    <string name="licenseRegisteredMsg">Du hadde registrert med følgende informasjon.</string>
+    <string name="lbActivationKey">Key</string>
+    <string name="customerName">Navn</string>
+    <string name="lbTel">Tel</string>
+    <string name="lbWebsite">Website</string>
+    <string name="lbEmail">Mail</string>
+    <string name="errorEmailFormat">E-post-format fejl!</string>
+
+    <!-- server error -->
+    <string name="errorServer">Serverfeil! Feilkode 502.</string>
+    <string name="errorServerExcetpion">Serverfeil! Feilkode 501.</string>
+
+    <!-- support -->
+    <string name="titleSupport">Support</string>
+    <string name="lbUserVoice">User Voice</string>
+    <string name="lbSkype">Skype</string>
+    <string name="lbTeamView">Team View</string>
+    <string name="lbEmailDatabase">Email Database File</string>
+    <string name="lbEamilLog">Email Log File</string>
+    <string name="lbEmailImage">Email Screen Capture</string>
+    <string name="not_app_store">please install App store</string>
+    <string name="lbUserVoiceSummary">Request features or get help</string>
+    <string name="lbSkypeSummary">Directly communicate with us: androidapphk </string>
+    <string name="lbTeamViewSummary">Remotely look at the app</string>
+    <string name="lbEmailDatabaseSummary">Report bug with database file</string>
+    <string name="lbEamilLogSummary">Report bug with log file </string>
+    <string name="lbEmailImageSummary">Report bug with screen capture</string>
+
+    <!-- app rate -->
+    <string name="appRateTitle">Rate %s</string>
+    <string name="appRateMessage">If you enjoy using %s, please take a moment to rate it. Thanks for your support!</string>
+    <string name="appRatePositive">Rate it !</string>
+    <string name="appRateNeutral">Remind later</string>
+    <string name="appRateNegative">No thanks</string>
+
+    <!-- context menu -->
+    <string name="menuBackupSdcard">SD Card</string>
+    <string name="menuSdcard">SD Card</string>
+    <string name="menuDropbox">Dropbox™</string>
+    <string name="menuGoogleDrive">Google™ Drive</string>
+
+    <!-- currency -->
+    <string name="lbCurrencyCode">Code</string>
+    <string name="lbCurrencySign">Sign</string>
+    <string name="lbCurrencyDesc">Description</string>
+    <string name="titleCurrency">Currency</string>
+    <string name="titleCurrencyUpdate">Update currency</string>
+    <string name="titleCurrencyAdd">Add currency</string>
+
+    <!-- week -->
+    <string name="sunday">SUNDAY</string>
+    <string name="monday">MONDAY</string>
+    <string name="tuesday">TUESDAY</string>
+    <string name="wednesday">WEDNESDAY</string>
+    <string name="thursday">THURSDAY</string>
+    <string name="friday">FRIDAY</string>
+    <string name="saturday">SATURDAY</string>
+
+    <!-- shortMonthNames -->
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+
+    <!-- shortDayNames -->
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+
+</resources>

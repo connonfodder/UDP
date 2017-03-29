@@ -1,0 +1,109 @@
+<b> Restaurang POS - Point of Sale </b> är en fullfjädrad, lätt att använda och prisvärd för små och medel restaurang, bar och kafé etc. Restaurang POS är kompatibelt med dina befintliga skrivare och kassalådor, vilket sparar din tiden, och sparar dina pengar. <br>
+
+<b> Denna app är fristående POS utan server, är all data sparas i lokal enhet, en engångskostnad, obegränsad uppdatering </b>
+
+För att stödja flera enheter som tar order på samma gång, du behöver serverversionen, kan du referera följande länk.
+https://play.google.com/store/apps/details?id=com.aadhk.wnopos
+
+<b> Uppgradera / inköps förväg funktioner för att stödja våra förbättrade verk. </b>
+
+<b> För att rapportera buggar eller begära funktioner: </b>
+https://pos.uservoice.com
+
+<b> Funktioner </b>
+<b> Beställnings </b>
+• Öppna / stäng tabellen
+• Void / överföring / split ordning
+• Ta ut / matsal för
+• Vänta / Cook leveranstid
+• överföring leveranstid
+
+<b> Betalning </b>
+• Split räkning
+• Dricks / serviceavgift
+
+<b> Meny </b>
+• Skapa / ändra / ta bort tabellen, kategori, objekt och modifierings
+• Import / export / beställning bord, kategori, objekt och modifierings
+• Två skatter på objekt
+• Inkludera / Uteslut skatt på objektet prissätter
+• Kök / bar skrivare på objekt
+• Pris schema på objekt
+• Dela meny med flera enheter av Dropbox ™ eller Google Drive ™
+
+<b> Skrivare </b> (skrivarens installationsguide http://www.androidappshk.com/app/printer_setup_guide.pdf)
+1. W & O POS skrivaradapter (installerad Fönster PC)
+• Stödja alla typer av skrivare som är installerade i datorn Driver
+  (Hämta Wno POS Adapter https://drive.google.com/#folders/0BxPQIRLGhJmvc1dXXzhQbnA1STQ)
+2. Wifi / Lan och USB
+• Stödja mest termoskrivare med ESC / POS Kommando
+   Verified Skrivare Modell: EPSON TM-T88IV, TM-U220, STAR TSP743, CITIZEN CT-S651, Xprinter, GPrinter, OCOM, Rongta
+
+<b> Kassalåda (RJ12) </b>
+
+<b> Faktura </b>
+• Företagets logotyp, namn, adress och telefonnummer
+• Kund namn, adress och telefonnummer
+• Order varor
+• Totalt belopp, förändringsbeloppet
+• Skattenummer
+• Faktura anteckning
+• inkludera / exkludera skatter
+• Rabatt
+• Dricks / serviceavgift
+• Tips guide
+• Fotnot meddelande
+
+<b> Kund </b>
+• Visa kund info på fakturan för att ta ut
+• Skapa kund från telefonkontakt
+• E-post faktura till kunden
+
+<b> Rapport </b>
+• Orderrapport
+• Void Orderrapport
+• Transfer Order Rapport
+• Post rapport
+• Modifier Rapport
+• Kategori Belopp Rapportera
+• Kategori Kvalitetsrapport
+• Betalning Rapport
+
+<b> myndighet </b>
+• Chef / servitör inloggning
+• Inaktivera visning rapport om servitören
+• Inaktivera rabatt på servitören
+• Inaktivera serviceavgift på servitören
+• Inaktivera void ordning
+• Inaktivera manuellt öppna kassalådan
+
+<b> Inställningar </b>
+• Stöd ditt land valuta
+• Stöd daglig ordning rapport över dagen
+• Konfigurerbar Decimal plats
+• Stödja två skatter
+
+<b> Databas </b>
+• Automatisk backup databas till SD-kort eller Dropbox ™ när exit appen
+• Manuell backup databas till SD-kort och Dropbox ™
+• Återställ databasen från SD-kort och Dropbox ™
+• Återställ demodatabas
+• Tomma Data för enkel ange igen bord, meny och kund
+• E-post databas
+
+<b> Tillgängliga språk (fler kommer snart) </b>
+• Engelska, 中文, Español (Manuel Iraizos), Deutsch (SK.Aldein), Français (Jean-Marie), Italiano (Massimiliano), Ελληνικά (next.com), Magyar (Daniel Botka)
+
+<b> Behörigheter </b>
+• INTERNET: Dropbox Backup
+• Faktura: In-app Billing
+• ACCESS NETWORK STATE: Google Tracking
+• ACCESS_WIFI_STATE: Google Tracking
+• LÄS KONTAKTER: Lägga Klient från Kontakter
+• SKRIV Extern lagring: Säkerhetskopiering och Exportera till SDCard
+
+※ För flera enhet ta emot beställningar på samma gång (Clent, servermodell), se https://market.android.com/details?id=com.aadhk.wnopos
+※ Om du gillar appen, vänligen ge oss ett bra betyg som den drivande kraften bakom vår fortsatta utveckling, tack.
+※ Om du har några förslag eller frågor maila till vår brevlåda direkt. För marknads recensioner, vänligen bara lämna ditt betyg och jubel, tack igen.
+
+Använd Restaurang POS - Point of Sale som ordersystem, restaurangsystem, restaurang POS, bar POS, café pos, mobila pos, trådlösa POS, telefon pos, kassaapparat eller någon annan punkt i försäljning.

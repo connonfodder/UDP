@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="menuKitchen">Kitchen Display</string>
+    <string name="titleKitchen">Kitchen</string>
+    <string name="lbNoOrder">No order</string>
+    <string name="lbNoConnection">No Connection</string>
+    <string name="menuRefresh">Refresh</string>
+    <string name="menuCurrent">Current</string>
+    <string name="menuHistory">History</string>
+    <string name="menuHelp">Help</string>
+    <string name="menuSetting">Settings</string>
+    <string name="menuSummary">Summary (%1$s)</string>
+    <string name="titleHelp">Help</string>
+    <string name="loginSysError">System error</string>
+    <string name="titleCookReady">Close items in the order?</string>
+    <string name="titleCookCancel">Open items in the order?</string>
+    <string name="titleCookItemReady">Close item \"%1$s\"?</string>
+    <string name="titleCookItemCancel">Open item \"%1$s\"?</string>
+    <string name="lbMin">min</string>
+    <string name="prefMinutesTitle">Minutes</string>
+    <string name="prefMinutesSummary">Red：%1$s minutes, Green：%2$s minutes, Yellow：%3$s minutes</string>
+    <string name="prefFontSizeTitle">Font size</string>
+    <string name="prefFontSizeSummary">Font size：%1$s px</string>
+    <string name="prefRefreshTitle">Refresh</string>
+    <string name="prefRefreshSummary">Refresh time：%1$s seconds</string>
+    <string name="setMinutes">Set minute</string>
+    <string name="setFontSize">Set font size</string>
+    <string name="setRefresh">Set refresh seconds</string>
+    <string name="hintFontSize">Font pixel</string>
+    <string name="hintRefresh">Refresh seconds</string>
+    <string name="redTitle">Red</string>
+    <string name="greenTitle">Green</string>
+    <string name="yellowTitle">Yellow</string>
+    <string name="fontSizeTitle">Font size</string>
+    <string name="refreshTitle">Refresh</string>
+    <string name="lbSequence">Sort</string>
+    <string name="menuKitchenIp">Enter IP address</string>
+    <string name="serverDisconnected">Connect server</string>
+    <string name="prefIpSummary">Now IP：%1$s</string>
+    <string name="prefIpSettingTitle">Ser IP address</string>
+    <string name="titleItemFontSize">Font size</string>
+    <string name="hintServerConnect">Network: %1$s\nTablet： %2$s</string>
+    <string name="msgNotConnected">Tablet no network，please open wifi！</string>
+    <string name="msgDisconnect">Network has been disconnected, please reconnect</string>
+    
+	<string name="aadhk_app_name">W&amp;O KDS</string>
+    <string name="errorIpFormat">IP Address format error!</string>
+    <string name="hintSameNetWork">Not in same network!</string>
+    <string name="serverNotFound">Cannot find W&amp;O POS server.</string>
+    <string name="lbVoid">Void</string>
+    <string name="lbWait">Wait</string>
+    <string name="lbOrderUp">Mark</string>
+    <string name="loadingCook">Loading Current records</string>
+    <string name="loadingHistory">Loading Historical records</string>
+
+    <string name="purchaseKdsTitle">Purchase</string>
+    <string name="purchaseKdsSummary">Purchase to continue using kitchen display</string>
+    <string name="purchasedSummary">Had purchased this feature</string>
+    
+    <!-- new -->
+    <string name="msgCancelClose">Cannot close canceled item</string>
+    <string name="msgCancelOpen">Cannot open canceled item</string>
+
+    <string name="msgNote">Please install/update W&amp;O POS - Restaurant v1.8.2 or above</string>
+    <string name="payUrl">com.aadhk.kds</string>
+    <string name="lbServer">Server</string>
+    <string name="prefFullFormat">24 Hours Format</string>
+    <string name="prefHalfFormat">12 Hours Format</string>
+    <string name="prefHourFormat">12/24 Hours Format</string>
+
+    <string name="companyEmail">support@wnopos.com</string>
+    <string name="companyUrl">http://www.wnopos.com</string>
+</resources>

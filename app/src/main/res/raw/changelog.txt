@@ -1,0 +1,25 @@
+$ 1.0.5
+  % Version 1.0.5
+  _ 2016-11-09
+  # Enhance: Performance
+$ 1.0.4.2
+  % Version 1.0.4.2
+  _ 2015-07-07
+  # Enhance: Performance
+$ 1.0.4.1
+  % Version 1.0.4.1
+  _ 2015-04-19
+  # Fix: License 
+$ 1.0.3
+  % Version 1.0.3
+  _ 2015-03-18
+  # Enhance: KDS history data
+$ 1.0.2.4
+  % Version 1.0.2.4
+  _ 2016-03-01
+# Fix: Takeout order
+$ 1.0.0 
+  % Version 1.0.0 
+  _ 2015-06-11
+# First release
+$ END_OF_CHANGE_LOG

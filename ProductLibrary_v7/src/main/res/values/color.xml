@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_primary">#ff303F9F</color>
+    <color name="theme_primary_dark">#ff3F51B5</color>
+    <color name="theme_primary_light">#ffC5CAE9</color>
+    <color name="theme_accent">#4CAF50</color>
+    <color name="theme_accent_secondary">#8BC34A</color>
+    <color name="black_text">#FF000000</color>
+    <color name="white_text">#FFFFFFFF</color>
+    
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    
+    <color name="divider">#B6B6B6</color>
+
+    
+    <!-- windows title -->
+    <color name="titleSColor">#ff31343b</color>
+    
+    <!--dialog bg-->
+	<color name="dialogTitle">#fff7b137</color>
+	
+    <color name="textBlack">#ff000000</color>
+    <color name="textWhite">#ffffffff</color>
+    <color name="textGreen">#894b8a36</color>
+    <!-- new -->
+    <color name="text_dialog">#ffdcdcdc</color>
+    <color name="text_bule">#ff0fa1d3</color>
+    <color name="menu_background">#ff3a3b3f</color>
+    <color name="item_select_start">#6dcaec</color>
+    <color name="item_select_center">#8ad5f0</color>
+    
+    <!-- button -->
+    <color name="button_primary">#ffE0E0E0</color>
+    <color name="button_primary_pressed">#ff9E9A90</color>
+    <color name="button_primary_text">@android:color/black</color>
+    <color name="button_primary_text_shadow">@android:color/white</color>
+    <color name="button_shadow">#20000000</color>
+    <color name="button_red">#ff83381f</color>
+    <color name="button_secondary">#ffbbbbaf</color>
+    <color name="button_secondary_pressed">#ffccccbf</color>
+    <color name="button_seconary_text">#ff695e49</color>
+    <color name="button_seconary_text_shadow">@android:color/white</color>
+    
+    <!-- menu -->
+    <color name="menuLayout">#ff31343b</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="btnMenuLime">#CDDC39</color>
+    <color name="btnMenuDeepPurple">#673AB7</color>
+    <color name="btnMenuTeal">#009688</color>
+    <color name="btnMenuRed">#F44336</color>
+    <color name="btnMenuPurple">#9C27B0</color>
+    <color name="btnMenuGreen">#8BC34A</color>
+    <color name="btnMenuYellow">#FF9800</color>
+    <color name="btnMenuLightBule">#03A9F4</color>
+    
+    <color name="btnMenuLime_select">#827717</color>
+    <color name="btnMenuDeepPurple_select">#311B92</color>
+    <color name="btnMenuTeal_select">#004D40</color>
+    <color name="btnMenuRed_select">#B71C1C</color>
+    <color name="btnMenuPurple_select">#4A148C</color>
+    <color name="btnMenuGreen_select">#33691E</color>
+    <color name="btnMenuYellow_select">#E65100</color>
+    <color name="btnMenuLightBule_select">#01579B</color>
+
+    
+    <color name="item_selected">#1A000000</color>
+</resources>
